@@ -43,11 +43,14 @@ for p_num_1 in range(1,user_num_page+1):
     for li_num in range(1,11):
         str_li_num = str(li_num)
         tr_result_user = soup.select('body > div > div > div.score_result > ul > li:nth-child('+str_li_num+') > div.score_reple > dl > dt > em:nth-child(1) > a > span')
-        for name in tr_result_user:
-            if name.text != None:
-                docs_user_list.append(name.text)
-docs_movie_user = {'title':'록키','userlist':docs_user_list}
-print(docs_movie_user['userlist'])
+        tr_user_point = soup.select('body > div > div > div.score_result > ul > li:nth-child('+str_li_num+') > div.star_score > em')
+        for name, rvpoint in zip(tr_result_user, tr_user_point):
+             if name.text != None and int(rvpoint.text) >= 5:
+                 print("{}의 평점: {}".format(name.text, rvpoint.text))
+
+# docs_movie_user = {'title':'록키','userlist':docs_user_list}
+# print(docs_movie_user['userlist'])
 
 
 
+# body > div > div > div.score_result > ul > li:nth-child(3) > div.star_score > em

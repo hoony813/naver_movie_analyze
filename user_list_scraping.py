@@ -41,7 +41,6 @@ for mt in movie_title:
     code_str = new_str.replace('/movie/bi/mi/basic.nhn?code=', '')
 
     docs_user_list = []
-    cnt = 1
     for p_num_1 in range(1, user_num_page + 1):
         data = requests.get(
             'https://movie.naver.com/movie/bi/mi/pointWriteFormList.nhn?code=' + code_str + '&type=after&isActualPointWriteExecute=false&isMileageSubscriptionAlready=false&isMileageSubscriptionReject=false&page=' + str(
@@ -51,9 +50,12 @@ for mt in movie_title:
             str_li_num = str(li_num)
             tr_result_user = soup.select(
                 'body > div > div > div.score_result > ul > li:nth-child(' + str_li_num + ') > div.score_reple > dl > dt > em:nth-child(1) > a > span')
-            for name in tr_result_user:
+            tr_user_point = soup.select(
+                'body > div > div > div.score_result > ul > li:nth-child(' + str_li_num + ') > div.star_score > em')
+            for name, rvpoint in zip(tr_result_user,tr_user_point):
                 if name.text != None:
-                    docs_user_list.append(name.text)
+                    dic_temp = {"userId":name.text, "point":rvpoint}
+                    docs_user_list.append(dic_temp)
 
     docs_movie_users={'title':mt,'user_list':docs_user_list}
     docs1.append(docs_movie_users)
