@@ -6,11 +6,11 @@ from pymongo import MongoClient           # pymongo를 임포트 하기(패키�
 client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
 db = client.dbProject
 
-docs1 = []
+
 headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36'}
 
-def user_get(movie):
-    global docs1
+
+async def user_get(movie):
     mt = movie['title']
     print("{} 시작".format(mt))
     npages = int(movie['pages'])
@@ -36,12 +36,20 @@ def user_get(movie):
                     docs_user_list.append(dic_temp)
 
     docs_movie_users = {'title': mt, 'user_list': docs_user_list}
-    docs1.append(docs_movie_users)
+    db.movie_user_list.insert_one(docs_movie_users)
     print("{} 끝!!!".format(mt))
 
-if __name__=='__main__':
+async def main():
     movie_list = db.easy_movie_list_w_pages.find_one({}, {'_id': False})
-    pool = Pool(processes=4)
-    pool.map(user_get,movie_list['list'])
+
+    for movie in movie_list['list']:
+        await user_get(movie)
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(main())
+loop.close()
+
+
+
 
 

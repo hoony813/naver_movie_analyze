@@ -40,7 +40,7 @@ def user_get(movie):
 
 if __name__=='__main__':
     movie_list = db.easy_movie_list_w_pages.find_one({}, {'_id': False})
-    pool = Pool(processes=4)
+    pool = Pool(processes=2)
     pool.map(user_get,movie_list['list'])
 
 
