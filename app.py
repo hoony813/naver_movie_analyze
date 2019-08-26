@@ -27,7 +27,7 @@ def post():
         temp = request.args.get('id')
         #1
         temp1 = 'movie_score_'+temp+'.json'
-
+        print(temp1)
         return render_template('movie_score.html',num=temp, temp1=temp1)
 
 

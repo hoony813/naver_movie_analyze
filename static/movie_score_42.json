@@ -1,48 +1,6 @@
 {
     "links": [
         {
-            "source": "쇼생크 탈출",
-            "target": "지금, 만나러 갑니다",
-            "value": 12,
-            "total": 22003,
-            "same": 2634
-        },
-        {
-            "source": "터미네이터 2",
-            "target": "지금, 만나러 갑니다",
-            "value": 9,
-            "total": 15931,
-            "same": 1310
-        },
-        {
-            "source": "월-E",
-            "target": "지금, 만나러 갑니다",
-            "value": 11,
-            "total": 17542,
-            "same": 1786
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "지금, 만나러 갑니다",
-            "value": 7,
-            "total": 13939,
-            "same": 962
-        },
-        {
-            "source": "라이언 일병 구하기",
-            "target": "지금, 만나러 갑니다",
-            "value": 8,
-            "total": 14158,
-            "same": 1019
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "지금, 만나러 갑니다",
-            "value": 6,
-            "total": 13436,
-            "same": 726
-        },
-        {
             "source": "인생은 아름다워",
             "target": "지금, 만나러 갑니다",
             "value": 13,
@@ -50,109 +8,18 @@
             "same": 2244
         },
         {
-            "source": "매트릭스",
+            "source": "쇼생크 탈출",
             "target": "지금, 만나러 갑니다",
-            "value": 8,
-            "total": 14377,
-            "same": 1053
+            "value": 12,
+            "total": 22003,
+            "same": 2634
         },
         {
-            "source": "사운드 오브 뮤직",
-            "target": "지금, 만나러 갑니다",
-            "value": 7,
-            "total": 14201,
-            "same": 968
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "지금, 만나러 갑니다",
-            "value": 11,
-            "total": 16058,
-            "same": 1652
-        },
-        {
-            "source": "헬프",
-            "target": "지금, 만나러 갑니다",
-            "value": 6,
-            "total": 13852,
-            "same": 713
-        },
-        {
-            "source": "글래디에이터",
-            "target": "지금, 만나러 갑니다",
-            "value": 8,
-            "total": 13969,
-            "same": 1055
-        },
-        {
-            "source": "토이 스토리 3",
-            "target": "지금, 만나러 갑니다",
-            "value": 9,
-            "total": 16144,
-            "same": 1435
-        },
-        {
-            "source": "살인의 추억",
-            "target": "지금, 만나러 갑니다",
-            "value": 9,
-            "total": 15351,
-            "same": 1345
-        },
-        {
-            "source": "센과 치히로의 행방불명",
-            "target": "지금, 만나러 갑니다",
-            "value": 10,
-            "total": 19650,
-            "same": 1915
-        },
-        {
-            "source": "클래식",
-            "target": "지금, 만나러 갑니다",
-            "value": 11,
-            "total": 16901,
-            "same": 1691
-        },
-        {
-            "source": "죽은 시인의 사회",
-            "target": "지금, 만나러 갑니다",
-            "value": 10,
-            "total": 15815,
-            "same": 1509
-        },
-        {
-            "source": "레옹",
-            "target": "지금, 만나러 갑니다",
-            "value": 10,
-            "total": 17284,
-            "same": 1706
-        },
-        {
-            "source": "반지의 제왕: 왕의 귀환",
-            "target": "지금, 만나러 갑니다",
-            "value": 10,
-            "total": 15606,
-            "same": 1457
-        },
-        {
-            "source": "캐스트 어웨이",
-            "target": "지금, 만나러 갑니다",
-            "value": 6,
-            "total": 13114,
-            "same": 703
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "지금, 만나러 갑니다",
-            "value": 7,
-            "total": 12944,
-            "same": 791
-        },
-        {
-            "source": "여인의 향기",
-            "target": "지금, 만나러 갑니다",
-            "value": 6,
-            "total": 13127,
-            "same": 769
+            "source": "지금, 만나러 갑니다",
+            "target": "다크 나이트",
+            "value": 12,
+            "total": 26437,
+            "same": 3108
         },
         {
             "source": "세 얼간이",
@@ -160,13 +27,6 @@
             "value": 12,
             "total": 26057,
             "same": 2880
-        },
-        {
-            "source": "클레멘타인",
-            "target": "지금, 만나러 갑니다",
-            "value": 8,
-            "total": 26880,
-            "same": 1917
         },
         {
             "source": "지금, 만나러 갑니다",
@@ -177,115 +37,24 @@
         },
         {
             "source": "지금, 만나러 갑니다",
-            "target": "쉰들러 리스트",
-            "value": 7,
-            "total": 13649,
-            "same": 879
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "언터처블: 1%의 우정",
-            "value": 9,
-            "total": 16263,
-            "same": 1368
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "서유기 2 - 선리기연",
-            "value": 8,
-            "total": 13696,
-            "same": 968
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "그대를 사랑합니다",
-            "value": 10,
-            "total": 15759,
-            "same": 1562
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "굿 윌 헌팅",
-            "value": 8,
-            "total": 14099,
-            "same": 1041
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "아마데우스",
-            "value": 7,
-            "total": 13243,
-            "same": 819
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "반지의 제왕: 두 개의 탑",
-            "value": 6,
-            "total": 13099,
-            "same": 722
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "드래곤 길들이기",
-            "value": 10,
-            "total": 16527,
-            "same": 1624
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "다크 나이트",
-            "value": 12,
-            "total": 26437,
-            "same": 3108
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "집으로...",
-            "value": 6,
-            "total": 12988,
-            "same": 676
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "울지마 톤즈",
-            "value": 7,
-            "total": 14219,
-            "same": 994
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "트루먼 쇼",
-            "value": 10,
-            "total": 15396,
-            "same": 1447
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "더 록",
-            "value": 6,
-            "total": 13004,
-            "same": 696
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "라푼젤",
-            "value": 8,
-            "total": 15830,
-            "same": 1260
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "프리퀀시",
+            "target": "라따뚜이",
             "value": 11,
-            "total": 14934,
-            "same": 1495
+            "total": 15576,
+            "same": 1652
         },
         {
-            "source": "지금, 만나러 갑니다",
-            "target": "아이 엠 샘",
-            "value": 7,
-            "total": 13235,
-            "same": 887
+            "source": "포레스트 검프",
+            "target": "지금, 만나러 갑니다",
+            "value": 11,
+            "total": 16058,
+            "same": 1652
+        },
+        {
+            "source": "월-E",
+            "target": "지금, 만나러 갑니다",
+            "value": 11,
+            "total": 17542,
+            "same": 1786
         },
         {
             "source": "지금, 만나러 갑니다",
@@ -296,10 +65,38 @@
         },
         {
             "source": "지금, 만나러 갑니다",
-            "target": "코러스",
-            "value": 8,
-            "total": 13356,
-            "same": 1002
+            "target": "프리퀀시",
+            "value": 11,
+            "total": 14934,
+            "same": 1495
+        },
+        {
+            "source": "클래식",
+            "target": "지금, 만나러 갑니다",
+            "value": 11,
+            "total": 16901,
+            "same": 1691
+        },
+        {
+            "source": "지금, 만나러 갑니다",
+            "target": "그대를 사랑합니다",
+            "value": 10,
+            "total": 15759,
+            "same": 1562
+        },
+        {
+            "source": "레옹",
+            "target": "지금, 만나러 갑니다",
+            "value": 10,
+            "total": 17284,
+            "same": 1706
+        },
+        {
+            "source": "지금, 만나러 갑니다",
+            "target": "드래곤 길들이기",
+            "value": 10,
+            "total": 16527,
+            "same": 1624
         },
         {
             "source": "지금, 만나러 갑니다",
@@ -309,53 +106,11 @@
             "same": 1488
         },
         {
-            "source": "지금, 만나러 갑니다",
-            "target": "업",
-            "value": 9,
-            "total": 15251,
-            "same": 1256
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "빌리 엘리어트",
-            "value": 7,
-            "total": 13445,
-            "same": 920
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 14298,
-            "same": 1183
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "라따뚜이",
-            "value": 11,
-            "total": 15576,
-            "same": 1652
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "내 이름은 칸",
-            "value": 9,
-            "total": 14931,
-            "same": 1340
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "시네마 천국",
-            "value": 8,
-            "total": 13571,
-            "same": 996
-        },
-        {
-            "source": "지금, 만나러 갑니다",
-            "target": "에이 아이",
-            "value": 7,
-            "total": 14192,
-            "same": 971
+            "source": "센과 치히로의 행방불명",
+            "target": "지금, 만나러 갑니다",
+            "value": 10,
+            "total": 19650,
+            "same": 1915
         }
     ],
     "nodes": [
@@ -375,24 +130,8 @@
             ]
         },
         {
-            "id": "터미네이터 2",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10200",
-            "genre": [
-                "SF",
-                "액션",
-                "스릴러"
-            ],
-            "director": [
-                "제임스 카메론"
-            ],
-            "actor": [
-                "아놀드 슈왈제네거"
-            ]
-        },
-        {
             "id": "월-E",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=69105",
             "genre": [
                 "애니메이션",
@@ -412,60 +151,6 @@
             ]
         },
         {
-            "id": "나 홀로 집에",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
-            "id": "라이언 일병 구하기",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=18988",
-            "genre": [
-                "전쟁",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "톰 행크스",
-                "에드워드 번즈",
-                "톰 시즈모어"
-            ]
-        },
-        {
-            "id": "빽 투 더 퓨쳐",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10002",
-            "genre": [
-                "SF",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "마이클 J. 폭스",
-                "크리스토퍼 로이드",
-                "리 톰슨"
-            ]
-        },
-        {
             "id": "인생은 아름다워",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=22126",
@@ -479,42 +164,6 @@
             "actor": [
                 "로베르토 베니니",
                 "니콜레타 브라스키"
-            ]
-        },
-        {
-            "id": "매트릭스",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
-            "genre": [
-                "SF",
-                "액션"
-            ],
-            "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
-            ],
-            "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
-            ]
-        },
-        {
-            "id": "사운드 오브 뮤직",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=10102",
-            "genre": [
-                "멜로/로맨스",
-                "뮤지컬",
-                "드라마"
-            ],
-            "director": [
-                "로버트 와이즈"
-            ],
-            "actor": [
-                "줄리 앤드류스",
-                "크리스토퍼 플러머",
-                "엘레노 파커"
             ]
         },
         {
@@ -533,80 +182,8 @@
             ]
         },
         {
-            "id": "헬프",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=82432",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "테이트 테일러"
-            ],
-            "actor": [
-                "엠마 스톤",
-                "비올라 데이비스",
-                "옥타비아 스펜서"
-            ]
-        },
-        {
-            "id": "글래디에이터",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "리들리 스콧"
-            ],
-            "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
-            ]
-        },
-        {
-            "id": "토이 스토리 3",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
-            "id": "살인의 추억",
-            "group": 8,
-            "href": "/movie/bi/mi/basic.nhn?code=35901",
-            "genre": [
-                "범죄",
-                "미스터리",
-                "스릴러",
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "봉준호"
-            ],
-            "actor": [
-                "송강호",
-                "김상경"
-            ]
-        },
-        {
             "id": "센과 치히로의 행방불명",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=32686",
             "genre": [
                 "애니메이션",
@@ -624,7 +201,7 @@
         },
         {
             "id": "클래식",
-            "group": 6,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=35939",
             "genre": [
                 "멜로/로맨스",
@@ -640,22 +217,8 @@
             ]
         },
         {
-            "id": "죽은 시인의 사회",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
             "id": "레옹",
-            "group": 8,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=17170",
             "genre": [
                 "범죄",
@@ -671,74 +234,8 @@
             ]
         },
         {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 9,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
-            "id": "캐스트 어웨이",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=31162",
-            "genre": [
-                "드라마",
-                "모험"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스",
-                "헬렌 헌트"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "여인의 향기",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=12482",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "마틴 브레스트"
-            ],
-            "actor": [
-                "알 파치노"
-            ]
-        },
-        {
             "id": "세 얼간이",
-            "group": 10,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=73372",
             "genre": [
                 "코미디"
@@ -753,25 +250,8 @@
             ]
         },
         {
-            "id": "클레멘타인",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=37886",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "김두영"
-            ],
-            "actor": [
-                "이동준",
-                "김혜리",
-                "스티븐 시걸"
-            ]
-        },
-        {
             "id": "지금, 만나러 갑니다",
-            "group": 6,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=39636",
             "genre": [
                 "멜로/로맨스",
@@ -789,7 +269,7 @@
         },
         {
             "id": "타이타닉",
-            "group": 6,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=18847",
             "genre": [
                 "멜로/로맨스",
@@ -801,57 +281,6 @@
             "actor": [
                 "레오나르도 디카프리오",
                 "케이트 윈슬렛"
-            ]
-        },
-        {
-            "id": "쉰들러 리스트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=14450",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "리암 니슨"
-            ]
-        },
-        {
-            "id": "언터처블: 1%의 우정",
-            "group": 10,
-            "href": "/movie/bi/mi/basic.nhn?code=87566",
-            "genre": [
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "올리비에르 나카체",
-                "에릭 토레다노"
-            ],
-            "actor": [
-                "프랑수아 클루제",
-                "오마 사이"
-            ]
-        },
-        {
-            "id": "서유기 2 - 선리기연",
-            "group": 10,
-            "href": "/movie/bi/mi/basic.nhn?code=18543",
-            "genre": [
-                "코미디",
-                "액션",
-                "모험",
-                "판타지",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "유진위"
-            ],
-            "actor": [
-                "주성치",
-                "주인"
             ]
         },
         {
@@ -871,56 +300,8 @@
             ]
         },
         {
-            "id": "굿 윌 헌팅",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
-            ]
-        },
-        {
-            "id": "아마데우스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "밀로스 포만"
-            ],
-            "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 두 개의 탑",
-            "group": 9,
-            "href": "/movie/bi/mi/basic.nhn?code=31795",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "이안 맥켈런",
-                "비고 모텐슨"
-            ]
-        },
-        {
             "id": "드래곤 길들이기",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=70457",
             "genre": [
                 "애니메이션",
@@ -941,7 +322,7 @@
         },
         {
             "id": "다크 나이트",
-            "group": 7,
+            "group": 6,
             "href": "/movie/bi/mi/basic.nhn?code=62586",
             "genre": [
                 "액션",
@@ -959,92 +340,8 @@
             ]
         },
         {
-            "id": "집으로...",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=34324",
-            "genre": [
-                "드라마",
-                "가족"
-            ],
-            "director": [
-                "이정향"
-            ],
-            "actor": [
-                "김을분",
-                "유승호"
-            ]
-        },
-        {
-            "id": "울지마 톤즈",
-            "group": 11,
-            "href": "/movie/bi/mi/basic.nhn?code=76667",
-            "genre": [
-                "다큐멘터리"
-            ],
-            "director": [
-                "구수환"
-            ],
-            "actor": [
-                "이금희",
-                "이태석"
-            ]
-        },
-        {
-            "id": "트루먼 쇼",
-            "group": 10,
-            "href": "/movie/bi/mi/basic.nhn?code=19099",
-            "genre": [
-                "코미디",
-                "드라마",
-                "SF"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "짐 캐리"
-            ]
-        },
-        {
-            "id": "더 록",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=17135",
-            "genre": [
-                "액션"
-            ],
-            "director": [
-                "마이클 베이"
-            ],
-            "actor": [
-                "숀 코네리",
-                "니콜라스 케이지",
-                "에드 해리스"
-            ]
-        },
-        {
-            "id": "라푼젤",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=75470",
-            "genre": [
-                "애니메이션",
-                "코미디",
-                "가족",
-                "판타지",
-                "뮤지컬",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "네이슨 그레노",
-                "바이론 하워드"
-            ],
-            "actor": [
-                "맨디 무어",
-                "제커리 레비"
-            ]
-        },
-        {
             "id": "프리퀀시",
-            "group": 8,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=29657",
             "genre": [
                 "범죄",
@@ -1061,23 +358,8 @@
             ]
         },
         {
-            "id": "아이 엠 샘",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
             "id": "해리 포터와 죽음의 성물 - 2부",
-            "group": 4,
+            "group": 7,
             "href": "/movie/bi/mi/basic.nhn?code=47528",
             "genre": [
                 "모험",
@@ -1091,22 +373,6 @@
                 "다니엘 래드클리프",
                 "엠마 왓슨",
                 "루퍼트 그린트"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
             ]
         },
         {
@@ -1126,61 +392,8 @@
             ]
         },
         {
-            "id": "업",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=52120",
-            "genre": [
-                "애니메이션",
-                "가족",
-                "모험",
-                "코미디",
-                "액션"
-            ],
-            "director": [
-                "피트 닥터",
-                "밥 피터슨"
-            ],
-            "actor": [
-                "에드워드 애스너",
-                "조던 나가이",
-                "크리스토퍼 플러머"
-            ]
-        },
-        {
-            "id": "빌리 엘리어트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=31013",
-            "genre": [
-                "드라마",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "스티븐 달드리"
-            ],
-            "actor": [
-                "제이미 벨",
-                "줄리 월터스",
-                "게리 루이스"
-            ]
-        },
-        {
-            "id": "블라인드 사이드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "존 리 행콕"
-            ],
-            "actor": [
-                "산드라 블록"
-            ]
-        },
-        {
             "id": "라따뚜이",
-            "group": 10,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=65021",
             "genre": [
                 "코미디",
@@ -1195,56 +408,6 @@
                 "패튼 오스왈트",
                 "루 로마노"
             ]
-        },
-        {
-            "id": "내 이름은 칸",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=70651",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "카란 조하르"
-            ],
-            "actor": [
-                "샤룩 칸",
-                "까졸"
-            ]
-        },
-        {
-            "id": "시네마 천국",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
-            "genre": [
-                "드라마",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "쥬세페 토르나토레"
-            ],
-            "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
-            ]
-        },
-        {
-            "id": "에이 아이",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=31268",
-            "genre": [
-                "SF",
-                "드라마",
-                "판타지"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "할리 조엘 오스먼트",
-                "주드 로",
-                "프란시스 오코너"
-            ]
         }
     ],
     "genre_data": [
@@ -1253,50 +416,34 @@
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "애니메이션",
             "group": 2
         },
         {
-            "title": "애니메이션",
+            "title": "멜로/로맨스",
             "group": 3
         },
         {
-            "title": "모험",
+            "title": "범죄",
             "group": 4
         },
         {
-            "title": "전쟁",
+            "title": "코미디",
             "group": 5
         },
         {
-            "title": "멜로/로맨스",
+            "title": "액션",
             "group": 6
         },
         {
-            "title": "액션",
+            "title": "모험",
             "group": 7
-        },
-        {
-            "title": "범죄",
-            "group": 8
-        },
-        {
-            "title": "판타지",
-            "group": 9
-        },
-        {
-            "title": "코미디",
-            "group": 10
-        },
-        {
-            "title": "다큐멘터리",
-            "group": 11
         }
     ],
     "data": [
         {
             "movie_n": 101,
-            "genre_n": 11
+            "genre_n": 7
         }
     ]
 }

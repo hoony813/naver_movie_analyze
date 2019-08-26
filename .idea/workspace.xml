@@ -25,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Json_File_Maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2231">
+            <state relative-caret-position="350">
               <caret line="102" column="51" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="51" />
               <folding>
                 <element signature="e#0#77#0" expanded="true" />
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="644">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -49,26 +49,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Json_File_Maker_indi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            <state relative-caret-position="212">
+              <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
               <folding>
                 <element signature="e#0#77#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/movie_score_13.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6831" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/movie_score_6.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-392" />
           </provider>
         </entry>
       </file>
@@ -136,11 +122,6 @@
               <item name="Sparta_Web_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sparta_Web_Project" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sparta_Web_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sparta_Web_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="temp_json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sparta_Web_Project" type="b2602c69:ProjectViewProjectNode" />
@@ -316,20 +297,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15711395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15711395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49898854" visible="true" weight="0.2816568" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49898854" weight="0.2816568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289941" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010115" side_tool="true" weight="0.31360948" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -458,24 +438,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Json_File_Maker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2231">
-          <caret line="102" column="51" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/movie_score_99.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2967" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/movie_score_11.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1173" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/movie_score_65.json">
@@ -488,21 +453,6 @@
         <state relative-caret-position="-690" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/movie_score_1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1518" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/movie_score_6.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-392" />
@@ -513,10 +463,58 @@
         <state relative-caret-position="-6831" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/movie_score_1_6.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Json_File_Maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="102" column="51" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/movie_score_1_1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5658" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/movie_score_1_11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3818">
+          <caret line="166" column="19" selection-start-line="166" selection-start-column="19" selection-end-line="166" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/movie_score_11.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/제비/movie_score_11.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/movie_score_1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2691" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Json_File_Maker_indi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        <state relative-caret-position="212">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
           <folding>
             <element signature="e#0#77#0" expanded="true" />
           </folding>
