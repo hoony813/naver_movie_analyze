@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "레드슈즈",
-            "target": "아이 엠 샘",
-            "value": 2,
-            "total": 5375,
-            "same": 107
+            "source": "라푼젤",
+            "target": "드래곤 길들이기",
+            "value": 12.05786363235424,
+            "total": 11337,
+            "same": 1367
         },
         {
-            "source": "레드슈즈",
-            "target": "코러스",
-            "value": 2,
-            "total": 5612,
-            "same": 106
+            "source": "라푼젤",
+            "target": "토이 스토리 3",
+            "value": 11.605576585726157,
+            "total": 10831,
+            "same": 1257
         },
         {
-            "source": "레드슈즈",
-            "target": "블라인드 사이드",
-            "value": 2,
-            "total": 6717,
-            "same": 124
+            "source": "라푼젤",
+            "target": "해리 포터와 죽음의 성물 - 2부",
+            "value": 10.673271785633865,
+            "total": 13323,
+            "same": 1422
         },
         {
-            "source": "서유기 2 - 선리기연",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 5917,
-            "same": 107
+            "source": "라푼젤",
+            "target": "업",
+            "value": 10.54920602811773,
+            "total": 9887,
+            "same": 1043
         },
         {
-            "source": "레드슈즈",
-            "target": "내 이름은 칸",
-            "value": 2,
-            "total": 7496,
-            "same": 135
+            "source": "라푼젤",
+            "target": "라따뚜이",
+            "value": 10.497446567051258,
+            "total": 10574,
+            "same": 1110
+        },
+        {
+            "source": "라푼젤",
+            "target": "월-E",
+            "value": 10.477252808541152,
+            "total": 12551,
+            "same": 1315
+        },
+        {
+            "source": "라푼젤",
+            "target": "킹콩을 들다",
+            "value": 10.059752073486132,
+            "total": 11213,
+            "same": 1128
+        },
+        {
+            "source": "라푼젤",
+            "target": "테이큰",
+            "value": 9.875795213571644,
+            "total": 13204,
+            "same": 1304
+        },
+        {
+            "source": "라푼젤",
+            "target": "시간을 달리는 소녀",
+            "value": 9.79467680608365,
+            "total": 13150,
+            "same": 1288
         },
         {
             "source": "그대를 사랑합니다",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 8528,
-            "same": 153
+            "target": "라푼젤",
+            "value": 9.767141009055628,
+            "total": 10822,
+            "same": 1057
         },
         {
-            "source": "레드슈즈",
-            "target": "프리퀀시",
-            "value": 2,
-            "total": 7654,
-            "same": 135
+            "source": "라푼젤",
+            "target": "내 이름은 칸",
+            "value": 9.6579887697805,
+            "total": 9795,
+            "same": 946
         },
         {
-            "source": "레드슈즈",
-            "target": "라따뚜이",
-            "value": 2,
-            "total": 8440,
-            "same": 148
+            "source": "라푼젤",
+            "target": "도가니",
+            "value": 9.637869438129263,
+            "total": 12316,
+            "same": 1187
         },
         {
-            "source": "레드슈즈",
-            "target": "시네마 천국",
-            "value": 2,
-            "total": 5825,
-            "same": 102
+            "source": "라푼젤",
+            "target": "본 얼티메이텀",
+            "value": 9.514344970618735,
+            "total": 11572,
+            "same": 1101
         },
         {
-            "source": "토이 스토리 3",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 8787,
-            "same": 152
+            "source": "라푼젤",
+            "target": "블라인드 사이드",
+            "value": 9.497392655053812,
+            "total": 9013,
+            "same": 856
         },
         {
-            "source": "사운드 오브 뮤직",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 6419,
-            "same": 110
+            "source": "라푼젤",
+            "target": "인셉션",
+            "value": 9.229613633162764,
+            "total": 21301,
+            "same": 1966
         },
         {
-            "source": "레드슈즈",
-            "target": "피아니스트",
-            "value": 2,
-            "total": 7921,
-            "same": 135
-        },
-        {
-            "source": "월-E",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 10509,
-            "same": 179
-        },
-        {
-            "source": "울지마 톤즈",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 6464,
-            "same": 109
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 8842,
-            "same": 149
-        },
-        {
-            "source": "아마데우스",
-            "target": "레드슈즈",
-            "value": 2,
-            "total": 5333,
-            "same": 89
+            "source": "라푼젤",
+            "target": "인생은 아름다워",
+            "value": 9.077861499820596,
+            "total": 13935,
+            "same": 1265
         }
     ],
     "nodes": [
@@ -136,21 +136,19 @@
             ]
         },
         {
-            "id": "사운드 오브 뮤직",
+            "id": "인생은 아름다워",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10102",
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
             "genre": [
-                "멜로/로맨스",
-                "뮤지컬",
-                "드라마"
+                "드라마",
+                "코미디"
             ],
             "director": [
-                "로버트 와이즈"
+                "로베르토 베니니"
             ],
             "actor": [
-                "줄리 앤드류스",
-                "크리스토퍼 플러머",
-                "엘레노 파커"
+                "로베르토 베니니",
+                "니콜레타 브라스키"
             ]
         },
         {
@@ -174,44 +172,8 @@
             ]
         },
         {
-            "id": "언터처블: 1%의 우정",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=87566",
-            "genre": [
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "올리비에르 나카체",
-                "에릭 토레다노"
-            ],
-            "actor": [
-                "프랑수아 클루제",
-                "오마 사이"
-            ]
-        },
-        {
-            "id": "서유기 2 - 선리기연",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=18543",
-            "genre": [
-                "코미디",
-                "액션",
-                "모험",
-                "판타지",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "유진위"
-            ],
-            "actor": [
-                "주성치",
-                "주인"
-            ]
-        },
-        {
             "id": "그대를 사랑합니다",
-            "group": 4,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=73476",
             "genre": [
                 "드라마"
@@ -226,124 +188,89 @@
             ]
         },
         {
-            "id": "아마데우스",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "밀로스 포만"
-            ],
-            "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
-            ]
-        },
-        {
-            "id": "울지마 톤즈",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=76667",
-            "genre": [
-                "다큐멘터리"
-            ],
-            "director": [
-                "구수환"
-            ],
-            "actor": [
-                "이금희",
-                "이태석"
-            ]
-        },
-        {
-            "id": "레드슈즈",
+            "id": "드래곤 길들이기",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=164907",
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
             "genre": [
                 "애니메이션",
                 "모험",
                 "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ]
+        },
+        {
+            "id": "라푼젤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75470",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
                 "판타지",
+                "뮤지컬",
                 "멜로/로맨스"
             ],
             "director": [
-                "홍성호"
+                "네이슨 그레노",
+                "바이론 하워드"
             ],
             "actor": [
-                "클로이 모레츠",
-                "샘 클라플린",
-                "지나 거손"
+                "맨디 무어",
+                "제커리 레비"
             ]
         },
         {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "id": "해리 포터와 죽음의 성물 - 2부",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=47528",
             "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
+                "모험",
+                "판타지",
+                "미스터리"
             ],
             "director": [
-                "그레고리 호블릿"
+                "데이빗 예이츠"
             ],
             "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
+                "다니엘 래드클리프",
+                "엠마 왓슨",
+                "루퍼트 그린트"
             ]
         },
         {
-            "id": "아이 엠 샘",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "id": "업",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
             "genre": [
-                "드라마"
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
             ],
             "director": [
-                "제시 넬슨"
+                "피트 닥터",
+                "밥 피터슨"
             ],
             "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "피아니스트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
             ]
         },
         {
             "id": "블라인드 사이드",
-            "group": 4,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=71081",
             "genre": [
                 "드라마"
@@ -357,7 +284,7 @@
         },
         {
             "id": "라따뚜이",
-            "group": 3,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=65021",
             "genre": [
                 "코미디",
@@ -375,7 +302,7 @@
         },
         {
             "id": "내 이름은 칸",
-            "group": 4,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=70651",
             "genre": [
                 "드라마"
@@ -389,20 +316,106 @@
             ]
         },
         {
-            "id": "시네마 천국",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
             "genre": [
-                "드라마",
-                "멜로/로맨스"
+                "드라마"
             ],
             "director": [
-                "쥬세페 토르나토레"
+                "황동혁"
             ],
             "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
             ]
         }
     ],
@@ -412,30 +425,26 @@
             "group": 1
         },
         {
-            "title": "멜로/로맨스",
+            "title": "드라마",
             "group": 2
         },
         {
-            "title": "코미디",
+            "title": "모험",
             "group": 3
         },
         {
-            "title": "드라마",
+            "title": "코미디",
             "group": 4
         },
         {
-            "title": "다큐멘터리",
+            "title": "액션",
             "group": 5
-        },
-        {
-            "title": "범죄",
-            "group": 6
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 6
+            "movie_n": 251,
+            "genre_n": 5
         }
     ]
 }

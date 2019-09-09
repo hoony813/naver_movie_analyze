@@ -1,193 +1,153 @@
 {
     "links": [
         {
-            "source": "라이언 일병 구하기",
-            "target": "글래디에이터",
-            "value": 13,
-            "total": 6472,
-            "same": 787
+            "source": "쇼생크 탈출",
+            "target": "인생은 아름다워",
+            "value": 15.073711289205502,
+            "total": 20214,
+            "same": 3047
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "매트릭스",
-            "value": 12,
-            "total": 6884,
-            "same": 781
+            "source": "포레스트 검프",
+            "target": "인생은 아름다워",
+            "value": 13.587111491303109,
+            "total": 14028,
+            "same": 1906
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "포레스트 검프",
-            "value": 12,
-            "total": 8933,
-            "same": 1012
+            "source": "라디오 스타",
+            "target": "인생은 아름다워",
+            "value": 12.911667092162368,
+            "total": 15668,
+            "same": 2023
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "더 록",
-            "value": 12,
-            "total": 5345,
-            "same": 590
+            "source": "지금, 만나러 갑니다",
+            "target": "인생은 아름다워",
+            "value": 12.758547910510764,
+            "total": 18952,
+            "same": 2418
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "살인의 추억",
-            "value": 11,
-            "total": 8068,
-            "same": 863
+            "source": "피아니스트",
+            "target": "인생은 아름다워",
+            "value": 12.608794369181867,
+            "total": 13213,
+            "same": 1666
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "반지의 제왕: 왕의 귀환",
-            "value": 11,
-            "total": 8416,
-            "same": 882
+            "source": "레옹",
+            "target": "인생은 아름다워",
+            "value": 12.519470404984423,
+            "total": 15408,
+            "same": 1929
         },
         {
-            "source": "터미네이터 2",
-            "target": "라이언 일병 구하기",
-            "value": 11,
-            "total": 8581,
-            "same": 895
+            "source": "죽은 시인의 사회",
+            "target": "인생은 아름다워",
+            "value": 12.386947398885754,
+            "total": 13821,
+            "same": 1712
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "쉰들러 리스트",
-            "value": 11,
-            "total": 6132,
-            "same": 631
+            "source": "시간을 달리는 소녀",
+            "target": "인생은 아름다워",
+            "value": 12.339951753572091,
+            "total": 16167,
+            "same": 1995
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "반지의 제왕: 두 개의 탑",
-            "value": 11,
-            "total": 5496,
-            "same": 560
+            "source": "나비 효과",
+            "target": "인생은 아름다워",
+            "value": 12.23337975518581,
+            "total": 13643,
+            "same": 1669
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "캐스트 어웨이",
-            "value": 11,
-            "total": 5493,
-            "same": 559
+            "source": "과속스캔들",
+            "target": "인생은 아름다워",
+            "value": 12.079378774805868,
+            "total": 25498,
+            "same": 3080
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8242,
-            "same": 836
+            "source": "태극기 휘날리며",
+            "target": "인생은 아름다워",
+            "value": 12.021444339325134,
+            "total": 15855,
+            "same": 1906
         },
         {
-            "source": "나 홀로 집에",
-            "target": "라이언 일병 구하기",
-            "value": 11,
-            "total": 6483,
-            "same": 653
+            "source": "본 얼티메이텀",
+            "target": "인생은 아름다워",
+            "value": 12.009017009358562,
+            "total": 14639,
+            "same": 1758
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "피아니스트",
-            "value": 11,
-            "total": 8117,
-            "same": 814
+            "source": "테이큰",
+            "target": "인생은 아름다워",
+            "value": 11.983293409495731,
+            "total": 16281,
+            "same": 1951
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "프리퀀시",
-            "value": 10,
-            "total": 7880,
-            "same": 784
+            "source": "트루먼 쇼",
+            "target": "인생은 아름다워",
+            "value": 11.892335222189084,
+            "total": 13412,
+            "same": 1595
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "쥬라기 공원",
-            "value": 10,
-            "total": 4992,
-            "same": 491
+            "source": "스쿨 오브 락",
+            "target": "인생은 아름다워",
+            "value": 11.77304964539007,
+            "total": 12690,
+            "same": 1494
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "굿 윌 헌팅",
-            "value": 10,
-            "total": 6719,
-            "same": 656
+            "source": "말할 수 없는 비밀",
+            "target": "인생은 아름다워",
+            "value": 11.730004115790917,
+            "total": 29156,
+            "same": 3420
         }
     ],
     "nodes": [
         {
-            "id": "터미네이터 2",
+            "id": "쇼생크 탈출",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "href": "/movie/bi/mi/basic.nhn?code=17421",
             "genre": [
-                "SF",
-                "액션",
-                "스릴러"
-            ],
-            "director": [
-                "제임스 카메론"
-            ],
-            "actor": [
-                "아놀드 슈왈제네거"
-            ]
-        },
-        {
-            "id": "나 홀로 집에",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
-            "id": "라이언 일병 구하기",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=18988",
-            "genre": [
-                "전쟁",
-                "액션",
                 "드라마"
             ],
             "director": [
-                "스티븐 스필버그"
+                "프랭크 다라본트"
             ],
             "actor": [
-                "톰 행크스",
-                "에드워드 번즈",
-                "톰 시즈모어"
+                "팀 로빈스",
+                "모건 프리먼"
             ]
         },
         {
-            "id": "매트릭스",
+            "id": "인생은 아름다워",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
             "genre": [
-                "SF",
-                "액션"
+                "드라마",
+                "코미디"
             ],
             "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
+                "로베르토 베니니"
             ],
             "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
+                "로베르토 베니니",
+                "니콜레타 브라스키"
             ]
         },
         {
             "id": "포레스트 검프",
-            "group": 4,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=17159",
             "genre": [
                 "드라마",
@@ -201,126 +161,57 @@
             ]
         },
         {
-            "id": "글래디에이터",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "id": "죽은 시인의 사회",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10048",
             "genre": [
-                "액션",
                 "드라마"
             ],
             "director": [
-                "리들리 스콧"
+                "피터 위어"
             ],
             "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
+                "로빈 윌리엄스"
             ]
         },
         {
-            "id": "살인의 추억",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "id": "레옹",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17170",
             "genre": [
                 "범죄",
-                "미스터리",
-                "스릴러",
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "봉준호"
-            ],
-            "actor": [
-                "송강호",
-                "김상경"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
                 "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
-            "id": "캐스트 어웨이",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=31162",
-            "genre": [
-                "드라마",
-                "모험"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스",
-                "헬렌 헌트"
-            ]
-        },
-        {
-            "id": "쉰들러 리스트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=14450",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "리암 니슨"
-            ]
-        },
-        {
-            "id": "굿 윌 헌팅",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
                 "드라마"
             ],
             "director": [
-                "구스 반 산트"
+                "뤽 베송"
             ],
             "actor": [
-                "맷 데이먼"
+                "장 르노",
+                "나탈리 포트만"
             ]
         },
         {
-            "id": "반지의 제왕: 두 개의 탑",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "id": "지금, 만나러 갑니다",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
             "genre": [
-                "판타지",
-                "모험",
-                "액션"
+                "멜로/로맨스",
+                "드라마",
+                "판타지"
             ],
             "director": [
-                "피터 잭슨"
+                "도이 노부히로"
             ],
             "actor": [
-                "일라이저 우드",
-                "이안 맥켈런",
-                "비고 모텐슨"
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
             ]
         },
         {
             "id": "트루먼 쇼",
-            "group": 8,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=19099",
             "genre": [
                 "코미디",
@@ -335,42 +226,8 @@
             ]
         },
         {
-            "id": "더 록",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=17135",
-            "genre": [
-                "액션"
-            ],
-            "director": [
-                "마이클 베이"
-            ],
-            "actor": [
-                "숀 코네리",
-                "니콜라스 케이지",
-                "에드 해리스"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
             "id": "피아니스트",
-            "group": 4,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=35187",
             "genre": [
                 "드라마",
@@ -385,39 +242,176 @@
             ]
         },
         {
-            "id": "쥬라기 공원",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "id": "말할 수 없는 비밀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
             "genre": [
-                "SF",
-                "액션",
-                "모험"
+                "멜로/로맨스",
+                "판타지",
+                "드라마"
             ],
             "director": [
-                "스티븐 스필버그"
+                "주걸륜"
             ],
             "actor": [
-                "샘 닐",
-                "로라 던",
-                "제프 골드브럼"
+                "주걸륜",
+                "계륜미",
+                "황추생"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "SF",
+            "title": "드라마",
             "group": 1
         },
         {
-            "title": "모험",
+            "title": "범죄",
             "group": 2
         },
         {
-            "title": "전쟁",
+            "title": "멜로/로맨스",
             "group": 3
         },
         {
-            "title": "드라마",
+            "title": "코미디",
             "group": 4
         },
         {
@@ -425,22 +419,18 @@
             "group": 5
         },
         {
-            "title": "범죄",
+            "title": "애니메이션",
             "group": 6
         },
         {
-            "title": "판타지",
+            "title": "전쟁",
             "group": 7
-        },
-        {
-            "title": "코미디",
-            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 8
+            "movie_n": 251,
+            "genre_n": 7
         }
     ]
 }

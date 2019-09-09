@@ -1,311 +1,159 @@
 {
     "links": [
         {
-            "source": "피아니스트",
-            "target": "빌리 엘리어트",
-            "value": 10,
-            "total": 7395,
-            "same": 724
+            "source": "언더독",
+            "target": "드래곤 길들이기 3",
+            "value": 1.4157260378802372,
+            "total": 5227,
+            "same": 74
+        },
+        {
+            "source": "언더독",
+            "target": "레드슈즈",
+            "value": 1.2748171368861023,
+            "total": 4785,
+            "same": 61
+        },
+        {
+            "source": "언더독",
+            "target": "이웃집 토토로",
+            "value": 1.2601927353595257,
+            "total": 4047,
+            "same": 51
+        },
+        {
+            "source": "언더독",
+            "target": "에이리언 2",
+            "value": 1.1228533685601056,
+            "total": 3028,
+            "same": 34
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "언더독",
+            "value": 1.0900282599919258,
+            "total": 2477,
+            "same": 27
         },
         {
             "source": "코러스",
-            "target": "빌리 엘리어트",
-            "value": 10,
-            "total": 5267,
-            "same": 514
+            "target": "언더독",
+            "value": 1.0779816513761469,
+            "total": 4360,
+            "same": 47
         },
         {
-            "source": "아마데우스",
-            "target": "빌리 엘리어트",
-            "value": 10,
-            "total": 5021,
-            "same": 464
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "빌리 엘리어트",
-            "value": 10,
-            "total": 8369,
-            "same": 764
+            "source": "언더독",
+            "target": "가위손",
+            "value": 1.0539901053990104,
+            "total": 4649,
+            "same": 49
         },
         {
             "source": "빌리 엘리어트",
-            "target": "시네마 천국",
-            "value": 10,
-            "total": 5492,
-            "same": 498
+            "target": "언더독",
+            "value": 1.0502283105022832,
+            "total": 4380,
+            "same": 46
         },
         {
-            "source": "글래디에이터",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 5923,
-            "same": 524
+            "source": "언더독",
+            "target": "니모를 찾아서 3D",
+            "value": 1.0500525026251313,
+            "total": 2857,
+            "same": 30
         },
         {
-            "source": "굿 윌 헌팅",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 6030,
-            "same": 533
+            "source": "언더독",
+            "target": "미녀와 야수",
+            "value": 1.0432190760059614,
+            "total": 2013,
+            "same": 21
         },
         {
-            "source": "빌리 엘리어트",
-            "target": "라따뚜이",
-            "value": 9,
-            "total": 7954,
-            "same": 697
+            "source": "언더독",
+            "target": "몬스터 주식회사 3D",
+            "value": 1.034712950600801,
+            "total": 2996,
+            "same": 31
         },
         {
-            "source": "프리퀀시",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 7220,
-            "same": 632
+            "source": "언더독",
+            "target": "라이온 킹",
+            "value": 1.0248901903367496,
+            "total": 3415,
+            "same": 35
         },
         {
-            "source": "매트릭스",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 6303,
-            "same": 550
+            "source": "언더독",
+            "target": "신데렐라 맨",
+            "value": 1.0101010101010102,
+            "total": 4356,
+            "same": 44
         },
         {
-            "source": "굿바이 마이 프랜드",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 4747,
-            "same": 411
+            "source": "뽀로로 극장판 보물섬 대모험",
+            "target": "언더독",
+            "value": 1.0066225165562914,
+            "total": 3775,
+            "same": 38
         },
         {
-            "source": "여인의 향기",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 4896,
-            "same": 423
+            "source": "언더독",
+            "target": "뮬란",
+            "value": 0.9968282736746714,
+            "total": 2207,
+            "same": 22
         },
         {
-            "source": "죽은 시인의 사회",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 8052,
-            "same": 695
-        },
-        {
-            "source": "아이 엠 샘",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 5106,
-            "same": 439
-        },
-        {
-            "source": "쉰들러 리스트",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 5485,
-            "same": 466
-        },
-        {
-            "source": "인생은 아름다워",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 11015,
-            "same": 927
+            "source": "베일리 어게인",
+            "target": "언더독",
+            "value": 0.9965831435079727,
+            "total": 3512,
+            "same": 35
         }
     ],
     "nodes": [
         {
-            "id": "인생은 아름다워",
+            "id": "베일리 어게인",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "href": "/movie/bi/mi/basic.nhn?code=144906",
             "genre": [
-                "드라마",
-                "코미디"
+                "모험",
+                "코미디",
+                "드라마"
             ],
             "director": [
-                "로베르토 베니니"
+                "라세 할스트롬"
             ],
             "actor": [
-                "로베르토 베니니",
-                "니콜레타 브라스키"
+                "조시 게드",
+                "데니스 퀘이드",
+                "K.J. 아파"
             ]
         },
         {
-            "id": "매트릭스",
+            "id": "에이리언 2",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
             "genre": [
                 "SF",
+                "공포",
+                "스릴러",
                 "액션"
             ],
             "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
+                "제임스 카메론"
             ],
             "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
-            ]
-        },
-        {
-            "id": "포레스트 검프",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
-            "id": "글래디에이터",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "리들리 스콧"
-            ],
-            "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
-            ]
-        },
-        {
-            "id": "죽은 시인의 사회",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "여인의 향기",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=12482",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "마틴 브레스트"
-            ],
-            "actor": [
-                "알 파치노"
-            ]
-        },
-        {
-            "id": "쉰들러 리스트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=14450",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "리암 니슨"
-            ]
-        },
-        {
-            "id": "굿 윌 헌팅",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
-            ]
-        },
-        {
-            "id": "아마데우스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "밀로스 포만"
-            ],
-            "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
             ]
         },
         {
             "id": "코러스",
-            "group": 1,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=39584",
             "genre": [
                 "드라마"
@@ -320,24 +168,8 @@
             ]
         },
         {
-            "id": "피아니스트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
             "id": "빌리 엘리어트",
-            "group": 1,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=31013",
             "genre": [
                 "드라마",
@@ -354,44 +186,251 @@
             ]
         },
         {
-            "id": "라따뚜이",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "id": "언더독",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=144318",
             "genre": [
-                "코미디",
-                "가족",
-                "모험",
                 "애니메이션"
             ],
             "director": [
-                "브래드 버드"
+                "오성윤",
+                "이춘백"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "디오",
+                "박소담",
+                "박철민"
             ]
         },
         {
-            "id": "시네마 천국",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "id": "천국의 아이들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "뽀로로 극장판 보물섬 대모험",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=183136",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "김현호",
+                "윤창섭"
+            ],
+            "actor": [
+                "이선",
+                "이미자",
+                "김현지"
+            ]
+        },
+        {
+            "id": "레드슈즈",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=164907",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "홍성호"
+            ],
+            "actor": [
+                "클로이 모레츠",
+                "샘 클라플린",
+                "지나 거손"
+            ]
+        },
+        {
+            "id": "라이온 킹",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=16521",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "로저 알러스",
+                "롭 민코프"
+            ],
+            "actor": [
+                "조나단 테일러 토마스",
+                "매튜 브로데릭",
+                "제임스 얼 존스"
+            ]
+        },
+        {
+            "id": "몬스터 주식회사 3D",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=32112",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "판타지",
+                "코미디"
+            ],
+            "director": [
+                "피트 닥터",
+                "데이빗 실버맨",
+                "리 언크리치"
+            ],
+            "actor": [
+                "존 굿맨",
+                "빌리 크리스탈",
+                "매리 깁스"
+            ]
+        },
+        {
+            "id": "이웃집 토토로",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18781",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히다카 노리코",
+                "사카모토 치카",
+                "타카기 히토시"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
             "genre": [
                 "드라마",
                 "멜로/로맨스"
             ],
             "director": [
-                "쥬세페 토르나토레"
+                "론 하워드"
             ],
             "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "드래곤 길들이기 3",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=109193",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "딘 데블로이스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "아메리카 페레라",
+                "케이트 블란쳇"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "미녀와 야수",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13172",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지",
+                "멜로/로맨스",
+                "뮤지컬"
+            ],
+            "director": [
+                "게리 트러스데일",
+                "커크 와이즈"
+            ],
+            "actor": [
+                "페이지 오하라",
+                "로비 벤슨"
+            ]
+        },
+        {
+            "id": "니모를 찾아서 3D",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=32116",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "앨버트 브룩스",
+                "엘런 드제너러스",
+                "알렉산더 굴드"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "드라마",
+            "title": "모험",
             "group": 1
         },
         {
@@ -399,21 +438,21 @@
             "group": 2
         },
         {
-            "title": "액션",
+            "title": "드라마",
             "group": 3
         },
         {
-            "title": "범죄",
+            "title": "애니메이션",
             "group": 4
         },
         {
-            "title": "코미디",
+            "title": "판타지",
             "group": 5
         }
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 5
         }
     ]

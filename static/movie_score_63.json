@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "글래디에이터",
-            "target": "더 록",
-            "value": 12,
-            "total": 5176,
-            "same": 606
+            "source": "더 록",
+            "target": "페이스 오프",
+            "value": 14.281609195402298,
+            "total": 3480,
+            "same": 497
         },
         {
-            "source": "라이언 일병 구하기",
+            "source": "글래디에이터",
             "target": "더 록",
-            "value": 12,
-            "total": 5345,
-            "same": 590
+            "value": 11.939177773606158,
+            "total": 5327,
+            "same": 636
+        },
+        {
+            "source": "더 록",
+            "target": "라이언 일병 구하기",
+            "value": 11.313536163235561,
+            "total": 5489,
+            "same": 621
+        },
+        {
+            "source": "더 록",
+            "target": "브레이브하트",
+            "value": 11.13096757722747,
+            "total": 3917,
+            "same": 436
+        },
+        {
+            "source": "더 록",
+            "target": "공공의 적",
+            "value": 11.061946902654867,
+            "total": 3842,
+            "same": 425
         },
         {
             "source": "매트릭스",
             "target": "더 록",
-            "value": 11,
-            "total": 5599,
-            "same": 589
+            "value": 10.893661240041567,
+            "total": 5774,
+            "same": 629
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "더 록",
+            "value": 10.831721470019342,
+            "total": 4136,
+            "same": 448
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "더 록",
+            "value": 10.509469191784476,
+            "total": 3749,
+            "same": 394
         },
         {
             "source": "더 록",
-            "target": "쥬라기 공원",
-            "value": 11,
-            "total": 3626,
-            "same": 380
+            "target": "공동경비구역 JSA",
+            "value": 9.872993050563144,
+            "total": 4173,
+            "same": 412
         },
         {
-            "source": "터미네이터 2",
+            "source": "다이 하드",
             "target": "더 록",
-            "value": 10,
-            "total": 7303,
-            "same": 696
+            "value": 9.711470795214638,
+            "total": 2842,
+            "same": 276
+        },
+        {
+            "source": "가위손",
+            "target": "더 록",
+            "value": 9.57824201813165,
+            "total": 5074,
+            "same": 486
+        },
+        {
+            "source": "더 록",
+            "target": "터미네이터 2",
+            "value": 9.54628901127721,
+            "total": 7626,
+            "same": 728
         },
         {
             "source": "반지의 제왕: 두 개의 탑",
             "target": "더 록",
-            "value": 10,
-            "total": 4190,
-            "same": 389
+            "value": 9.475387104229258,
+            "total": 4327,
+            "same": 410
+        },
+        {
+            "source": "더 록",
+            "target": "쉰들러 리스트",
+            "value": 9.344490934449093,
+            "total": 5019,
+            "same": 469
         },
         {
             "source": "캐스트 어웨이",
             "target": "더 록",
-            "value": 10,
-            "total": 4188,
-            "same": 387
+            "value": 9.330534173081409,
+            "total": 4287,
+            "same": 400
         },
         {
             "source": "굿 윌 헌팅",
             "target": "더 록",
-            "value": 10,
-            "total": 5404,
-            "same": 494
-        },
-        {
-            "source": "살인의 추억",
-            "target": "더 록",
-            "value": 10,
-            "total": 6834,
-            "same": 620
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "더 록",
-            "value": 10,
-            "total": 5190,
-            "same": 469
-        },
-        {
-            "source": "쉰들러 리스트",
-            "target": "더 록",
-            "value": 9,
-            "total": 4850,
-            "same": 436
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "더 록",
-            "value": 9,
-            "total": 7774,
-            "same": 694
-        },
-        {
-            "source": "에이리언 2",
-            "target": "더 록",
-            "value": 9,
-            "total": 3494,
-            "same": 304
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "더 록",
-            "value": 9,
-            "total": 4531,
-            "same": 389
-        },
-        {
-            "source": "더 록",
-            "target": "프리퀀시",
-            "value": 9,
-            "total": 6621,
-            "same": 566
-        },
-        {
-            "source": "여인의 향기",
-            "target": "더 록",
-            "value": 9,
-            "total": 4288,
-            "same": 366
+            "value": 9.327821710999281,
+            "total": 5564,
+            "same": 519
         }
     ],
     "nodes": [
@@ -131,27 +131,8 @@
             ]
         },
         {
-            "id": "나 홀로 집에",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
             "id": "라이언 일병 구하기",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=18988",
             "genre": [
                 "전쟁",
@@ -165,23 +146,6 @@
                 "톰 행크스",
                 "에드워드 번즈",
                 "톰 시즈모어"
-            ]
-        },
-        {
-            "id": "빽 투 더 퓨쳐",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10002",
-            "genre": [
-                "SF",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "마이클 J. 폭스",
-                "크리스토퍼 로이드",
-                "리 톰슨"
             ]
         },
         {
@@ -203,23 +167,8 @@
             ]
         },
         {
-            "id": "포레스트 검프",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
             "id": "글래디에이터",
-            "group": 5,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=29217",
             "genre": [
                 "액션",
@@ -232,25 +181,6 @@
                 "러셀 크로우",
                 "호아킨 피닉스",
                 "코니 닐슨"
-            ]
-        },
-        {
-            "id": "살인의 추억",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=35901",
-            "genre": [
-                "범죄",
-                "미스터리",
-                "스릴러",
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "봉준호"
-            ],
-            "actor": [
-                "송강호",
-                "김상경"
             ]
         },
         {
@@ -267,21 +197,6 @@
             "actor": [
                 "톰 행크스",
                 "헬렌 헌트"
-            ]
-        },
-        {
-            "id": "여인의 향기",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=12482",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "마틴 브레스트"
-            ],
-            "actor": [
-                "알 파치노"
             ]
         },
         {
@@ -314,27 +229,8 @@
             ]
         },
         {
-            "id": "에이리언 2",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10038",
-            "genre": [
-                "SF",
-                "공포",
-                "스릴러",
-                "액션"
-            ],
-            "director": [
-                "제임스 카메론"
-            ],
-            "actor": [
-                "시고니 위버",
-                "마이클 빈",
-                "폴 레이저"
-            ]
-        },
-        {
             "id": "반지의 제왕: 두 개의 탑",
-            "group": 7,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=31795",
             "genre": [
                 "판타지",
@@ -352,7 +248,7 @@
         },
         {
             "id": "더 록",
-            "group": 5,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=17135",
             "genre": [
                 "액션"
@@ -364,24 +260,6 @@
                 "숀 코네리",
                 "니콜라스 케이지",
                 "에드 해리스"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
             ]
         },
         {
@@ -401,6 +279,125 @@
                 "로라 던",
                 "제프 골드브럼"
             ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
         }
     ],
     "genre_data": [
@@ -409,11 +406,11 @@
             "group": 1
         },
         {
-            "title": "모험",
+            "title": "전쟁",
             "group": 2
         },
         {
-            "title": "전쟁",
+            "title": "액션",
             "group": 3
         },
         {
@@ -421,22 +418,18 @@
             "group": 4
         },
         {
-            "title": "액션",
+            "title": "판타지",
             "group": 5
         },
         {
             "title": "범죄",
             "group": 6
-        },
-        {
-            "title": "판타지",
-            "group": 7
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 7
+            "movie_n": 251,
+            "genre_n": 6
         }
     ]
 }

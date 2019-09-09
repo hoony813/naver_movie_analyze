@@ -2,140 +2,121 @@
     "links": [
         {
             "source": "아마데우스",
+            "target": "뷰티풀 마인드",
+            "value": 10.328820116054159,
+            "total": 5170,
+            "same": 534
+        },
+        {
+            "source": "아마데우스",
             "target": "피아니스트",
-            "value": 10,
-            "total": 7111,
-            "same": 705
+            "value": 10.213518291853665,
+            "total": 7353,
+            "same": 751
         },
         {
             "source": "아마데우스",
             "target": "시네마 천국",
-            "value": 10,
-            "total": 5182,
-            "same": 505
+            "value": 10.100259933160045,
+            "total": 5386,
+            "same": 544
         },
         {
-            "source": "글래디에이터",
-            "target": "아마데우스",
-            "value": 10,
-            "total": 5609,
-            "same": 535
+            "source": "아마데우스",
+            "target": "가위손",
+            "value": 10.020336476243298,
+            "total": 5409,
+            "same": 542
         },
         {
             "source": "매트릭스",
             "target": "아마데우스",
-            "value": 10,
-            "total": 5984,
-            "same": 566
-        },
-        {
-            "source": "쉰들러 리스트",
-            "target": "아마데우스",
-            "value": 10,
-            "total": 5163,
-            "same": 485
+            "value": 9.864165588615782,
+            "total": 6184,
+            "same": 610
         },
         {
             "source": "아마데우스",
-            "target": "코러스",
-            "value": 10,
-            "total": 5013,
-            "same": 465
+            "target": "쉰들러 리스트",
+            "value": 9.826265645432468,
+            "total": 5353,
+            "same": 526
+        },
+        {
+            "source": "아마데우스",
+            "target": "글래디에이터",
+            "value": 9.778852798894263,
+            "total": 5788,
+            "same": 566
         },
         {
             "source": "아마데우스",
             "target": "빌리 엘리어트",
-            "value": 10,
-            "total": 5021,
-            "same": 464
+            "value": 9.696735561135792,
+            "total": 5177,
+            "same": 502
         },
         {
-            "source": "여인의 향기",
-            "target": "아마데우스",
-            "value": 10,
-            "total": 4598,
-            "same": 418
+            "source": "아마데우스",
+            "target": "코러스",
+            "value": 9.583736689254598,
+            "total": 5165,
+            "same": 495
         },
         {
-            "source": "포레스트 검프",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 8120,
-            "same": 710
+            "source": "아마데우스",
+            "target": "여인의 향기",
+            "value": 9.572901325478647,
+            "total": 4753,
+            "same": 455
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 5791,
-            "same": 506
+            "source": "아마데우스",
+            "target": "스쿨 오브 락",
+            "value": 9.471040189125295,
+            "total": 6768,
+            "same": 641
         },
         {
-            "source": "굿 윌 헌팅",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 5757,
-            "same": 503
+            "source": "아마데우스",
+            "target": "포레스트 검프",
+            "value": 9.335084159006804,
+            "total": 8377,
+            "same": 782
+        },
+        {
+            "source": "아마데우스",
+            "target": "라이언 일병 구하기",
+            "value": 9.187101108498489,
+            "total": 5954,
+            "same": 547
         },
         {
             "source": "사운드 오브 뮤직",
             "target": "아마데우스",
-            "value": 9,
-            "total": 5784,
-            "same": 505
+            "value": 9.12566489361702,
+            "total": 6016,
+            "same": 549
+        },
+        {
+            "source": "아마데우스",
+            "target": "브레이브하트",
+            "value": 9.107635694572217,
+            "total": 4348,
+            "same": 396
         },
         {
             "source": "아마데우스",
             "target": "트루먼 쇼",
-            "value": 9,
-            "total": 7335,
-            "same": 628
-        },
-        {
-            "source": "죽은 시인의 사회",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 7787,
-            "same": 657
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 5553,
-            "same": 468
-        },
-        {
-            "source": "반지의 제왕: 왕의 귀환",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 7551,
-            "same": 632
+            "value": 9.004237288135593,
+            "total": 7552,
+            "same": 680
         }
     ],
     "nodes": [
         {
-            "id": "나 홀로 집에",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
             "id": "라이언 일병 구하기",
-            "group": 2,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=18988",
             "genre": [
                 "전쟁",
@@ -153,7 +134,7 @@
         },
         {
             "id": "매트릭스",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=24452",
             "genre": [
                 "SF",
@@ -171,7 +152,7 @@
         },
         {
             "id": "사운드 오브 뮤직",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=10102",
             "genre": [
                 "멜로/로맨스",
@@ -189,7 +170,7 @@
         },
         {
             "id": "포레스트 검프",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=17159",
             "genre": [
                 "드라마",
@@ -204,7 +185,7 @@
         },
         {
             "id": "글래디에이터",
-            "group": 6,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=29217",
             "genre": [
                 "액션",
@@ -220,41 +201,8 @@
             ]
         },
         {
-            "id": "죽은 시인의 사회",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
             "id": "여인의 향기",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=12482",
             "genre": [
                 "드라마",
@@ -269,7 +217,7 @@
         },
         {
             "id": "쉰들러 리스트",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=14450",
             "genre": [
                 "드라마",
@@ -283,22 +231,8 @@
             ]
         },
         {
-            "id": "굿 윌 헌팅",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
-            ]
-        },
-        {
             "id": "아마데우스",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=10114",
             "genre": [
                 "드라마"
@@ -314,7 +248,7 @@
         },
         {
             "id": "트루먼 쇼",
-            "group": 8,
+            "group": 6,
             "href": "/movie/bi/mi/basic.nhn?code=19099",
             "genre": [
                 "코미디",
@@ -330,7 +264,7 @@
         },
         {
             "id": "코러스",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=39584",
             "genre": [
                 "드라마"
@@ -345,24 +279,8 @@
             ]
         },
         {
-            "id": "피아니스트",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
             "id": "빌리 엘리어트",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=31013",
             "genre": [
                 "드라마",
@@ -379,8 +297,24 @@
             ]
         },
         {
+            "id": "피아니스트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
             "id": "시네마 천국",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=10001",
             "genre": [
                 "드라마",
@@ -394,46 +328,107 @@
                 "브리지트 포시",
                 "필립 느와레"
             ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
         }
     ],
     "genre_data": [
         {
-            "title": "모험",
+            "title": "전쟁",
             "group": 1
         },
         {
-            "title": "전쟁",
+            "title": "SF",
             "group": 2
         },
         {
-            "title": "SF",
+            "title": "멜로/로맨스",
             "group": 3
         },
         {
-            "title": "멜로/로맨스",
+            "title": "드라마",
             "group": 4
         },
         {
-            "title": "드라마",
+            "title": "액션",
             "group": 5
         },
         {
-            "title": "액션",
+            "title": "코미디",
             "group": 6
         },
         {
             "title": "판타지",
             "group": 7
-        },
-        {
-            "title": "코미디",
-            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 8
+            "movie_n": 251,
+            "genre_n": 7
         }
     ]
 }

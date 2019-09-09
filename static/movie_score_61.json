@@ -3,114 +3,114 @@
         {
             "source": "포레스트 검프",
             "target": "트루먼 쇼",
-            "value": 13,
-            "total": 10280,
-            "same": 1331
+            "value": 13.229058701592386,
+            "total": 10613,
+            "same": 1404
         },
         {
-            "source": "인생은 아름다워",
-            "target": "트루먼 쇼",
-            "value": 12,
-            "total": 12911,
-            "same": 1509
+            "source": "트루먼 쇼",
+            "target": "스쿨 오브 락",
+            "value": 12.576754385964911,
+            "total": 9120,
+            "same": 1147
         },
         {
-            "source": "죽은 시인의 사회",
+            "source": "나비 효과",
             "target": "트루먼 쇼",
-            "value": 12,
-            "total": 10066,
-            "same": 1159
+            "value": 12.221784518416387,
+            "total": 10154,
+            "same": 1241
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "인생은 아름다워",
+            "value": 11.892335222189084,
+            "total": 13412,
+            "same": 1595
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "죽은 시인의 사회",
+            "value": 11.810568870921166,
+            "total": 10389,
+            "same": 1227
         },
         {
             "source": "쇼생크 탈출",
             "target": "트루먼 쇼",
-            "value": 12,
-            "total": 16662,
-            "same": 1876
+            "value": 11.486369661690969,
+            "total": 17351,
+            "same": 1993
         },
         {
             "source": "트루먼 쇼",
-            "target": "프리퀀시",
-            "value": 12,
-            "total": 9306,
-            "same": 1024
+            "target": "본 얼티메이텀",
+            "value": 11.289459604066346,
+            "total": 11214,
+            "same": 1266
+        },
+        {
+            "source": "프리퀀시",
+            "target": "트루먼 쇼",
+            "value": 11.244268445185494,
+            "total": 9596,
+            "same": 1079
+        },
+        {
+            "source": "피아니스트",
+            "target": "트루먼 쇼",
+            "value": 11.210307395759358,
+            "total": 9857,
+            "same": 1105
+        },
+        {
+            "source": "가위손",
+            "target": "트루먼 쇼",
+            "value": 11.196667508205,
+            "total": 7922,
+            "same": 887
         },
         {
             "source": "반지의 제왕: 왕의 귀환",
             "target": "트루먼 쇼",
-            "value": 11,
-            "total": 9885,
-            "same": 1079
+            "value": 11.179457137277875,
+            "total": 10242,
+            "same": 1145
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "라디오 스타",
+            "value": 11.098564284562027,
+            "total": 12398,
+            "same": 1376
         },
         {
             "source": "매트릭스",
             "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8413,
-            "same": 918
+            "value": 11.01909362778928,
+            "total": 8694,
+            "same": 958
         },
         {
             "source": "트루먼 쇼",
-            "target": "피아니스트",
-            "value": 11,
-            "total": 9559,
-            "same": 1038
+            "target": "살인의 추억",
+            "value": 10.970421393841166,
+            "total": 9872,
+            "same": 1083
         },
         {
             "source": "굿 윌 헌팅",
             "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8165,
-            "same": 876
+            "value": 10.936757013789824,
+            "total": 8412,
+            "same": 920
         },
         {
-            "source": "살인의 추억",
+            "source": "라따뚜이",
             "target": "트루먼 쇼",
-            "value": 11,
-            "total": 9572,
-            "same": 1025
-        },
-        {
-            "source": "트루먼 쇼",
-            "target": "라따뚜이",
-            "value": 11,
-            "total": 10060,
-            "same": 1069
-        },
-        {
-            "source": "레옹",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 11662,
-            "same": 1229
-        },
-        {
-            "source": "글래디에이터",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8087,
-            "same": 838
-        },
-        {
-            "source": "라이언 일병 구하기",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8242,
-            "same": 836
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8001,
-            "same": 801
-        },
-        {
-            "source": "터미네이터 2",
-            "target": "트루먼 쇼",
-            "value": 10,
-            "total": 10147,
-            "same": 995
+            "value": 10.84209510948201,
+            "total": 10367,
+            "same": 1124
         }
     ],
     "nodes": [
@@ -127,59 +127,6 @@
             "actor": [
                 "팀 로빈스",
                 "모건 프리먼"
-            ]
-        },
-        {
-            "id": "터미네이터 2",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10200",
-            "genre": [
-                "SF",
-                "액션",
-                "스릴러"
-            ],
-            "director": [
-                "제임스 카메론"
-            ],
-            "actor": [
-                "아놀드 슈왈제네거"
-            ]
-        },
-        {
-            "id": "나 홀로 집에",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
-            "id": "라이언 일병 구하기",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=18988",
-            "genre": [
-                "전쟁",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "톰 행크스",
-                "에드워드 번즈",
-                "톰 시즈모어"
             ]
         },
         {
@@ -232,25 +179,8 @@
             ]
         },
         {
-            "id": "글래디에이터",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "리들리 스콧"
-            ],
-            "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
-            ]
-        },
-        {
             "id": "살인의 추억",
-            "group": 6,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=35901",
             "genre": [
                 "범죄",
@@ -282,25 +212,8 @@
             ]
         },
         {
-            "id": "레옹",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=17170",
-            "genre": [
-                "범죄",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "뤽 베송"
-            ],
-            "actor": [
-                "장 르노",
-                "나탈리 포트만"
-            ]
-        },
-        {
             "id": "반지의 제왕: 왕의 귀환",
-            "group": 7,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=31796",
             "genre": [
                 "판타지",
@@ -333,7 +246,7 @@
         },
         {
             "id": "트루먼 쇼",
-            "group": 8,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=19099",
             "genre": [
                 "코미디",
@@ -349,7 +262,7 @@
         },
         {
             "id": "프리퀀시",
-            "group": 6,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=29657",
             "genre": [
                 "범죄",
@@ -383,7 +296,7 @@
         },
         {
             "id": "라따뚜이",
-            "group": 8,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=65021",
             "genre": [
                 "코미디",
@@ -398,6 +311,90 @@
                 "패튼 오스왈트",
                 "루 로마노"
             ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
         }
     ],
     "genre_data": [
@@ -410,34 +407,26 @@
             "group": 2
         },
         {
-            "title": "모험",
+            "title": "범죄",
             "group": 3
         },
         {
-            "title": "전쟁",
+            "title": "판타지",
             "group": 4
         },
         {
-            "title": "액션",
+            "title": "코미디",
             "group": 5
         },
         {
-            "title": "범죄",
+            "title": "액션",
             "group": 6
-        },
-        {
-            "title": "판타지",
-            "group": 7
-        },
-        {
-            "title": "코미디",
-            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 8
+            "movie_n": 251,
+            "genre_n": 6
         }
     ]
 }

@@ -1,438 +1,426 @@
 {
     "links": [
         {
-            "source": "드래곤 길들이기",
-            "target": "블라인드 사이드",
-            "value": 11,
-            "total": 9698,
-            "same": 992
+            "source": "미스 슬로운",
+            "target": "히든 피겨스",
+            "value": 2.8273809523809526,
+            "total": 4704,
+            "same": 133
         },
         {
-            "source": "블라인드 사이드",
-            "target": "내 이름은 칸",
-            "value": 11,
-            "total": 7994,
-            "same": 816
+            "source": "미스 슬로운",
+            "target": "핵소 고지",
+            "value": 1.9695613249776187,
+            "total": 4468,
+            "same": 88
         },
         {
-            "source": "프리퀀시",
-            "target": "블라인드 사이드",
-            "value": 11,
-            "total": 8149,
-            "same": 819
+            "source": "미스 슬로운",
+            "target": "어메이징 메리",
+            "value": 1.923979352416706,
+            "total": 2131,
+            "same": 41
         },
         {
-            "source": "블라인드 사이드",
-            "target": "라따뚜이",
-            "value": 10,
-            "total": 8897,
-            "same": 870
+            "source": "미스 슬로운",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.8647281921618204,
+            "total": 3164,
+            "same": 59
         },
         {
-            "source": "그대를 사랑합니다",
-            "target": "블라인드 사이드",
-            "value": 10,
-            "total": 8993,
-            "same": 867
+            "source": "원더",
+            "target": "미스 슬로운",
+            "value": 1.819087964116621,
+            "total": 4013,
+            "same": 73
         },
         {
-            "source": "토이 스토리 3",
-            "target": "블라인드 사이드",
-            "value": 10,
-            "total": 9240,
-            "same": 878
+            "source": "온리 더 브레이브",
+            "target": "미스 슬로운",
+            "value": 1.770293609671848,
+            "total": 2316,
+            "same": 41
         },
         {
-            "source": "월-E",
-            "target": "블라인드 사이드",
-            "value": 10,
-            "total": 10847,
-            "same": 1020
+            "source": "미스 슬로운",
+            "target": "패밀리 맨",
+            "value": 1.7213380967846703,
+            "total": 3079,
+            "same": 53
         },
         {
-            "source": "라푼젤",
-            "target": "블라인드 사이드",
-            "value": 10,
-            "total": 8809,
-            "same": 820
+            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "target": "미스 슬로운",
+            "value": 1.6845878136200716,
+            "total": 2790,
+            "same": 47
         },
         {
-            "source": "업",
-            "target": "블라인드 사이드",
-            "value": 10,
-            "total": 8280,
-            "same": 766
+            "source": "미스 슬로운",
+            "target": "바람과 함께 사라지다",
+            "value": 1.6380343587694766,
+            "total": 2503,
+            "same": 41
         },
         {
-            "source": "피아니스트",
-            "target": "블라인드 사이드",
-            "value": 10,
-            "total": 8469,
-            "same": 766
+            "source": "빌리 엘리어트",
+            "target": "미스 슬로운",
+            "value": 1.633605600933489,
+            "total": 4285,
+            "same": 70
         },
         {
-            "source": "반지의 제왕: 왕의 귀환",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 8817,
-            "same": 785
+            "source": "미스 슬로운",
+            "target": "그랜 토리노",
+            "value": 1.62217659137577,
+            "total": 4870,
+            "same": 79
         },
         {
-            "source": "언터처블: 1%의 우정",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 9344,
-            "same": 826
+            "source": "미스 슬로운",
+            "target": "브레이브하트",
+            "value": 1.6042780748663104,
+            "total": 3366,
+            "same": 54
         },
         {
-            "source": "코러스",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 6338,
-            "same": 559
+            "source": "미스 슬로운",
+            "target": "뷰티풀 마인드",
+            "value": 1.6005567153792624,
+            "total": 4311,
+            "same": 69
         },
         {
-            "source": "포레스트 검프",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 9423,
-            "same": 826
+            "source": "매트릭스",
+            "target": "미스 슬로운",
+            "value": 1.5973254086181277,
+            "total": 5384,
+            "same": 86
         },
         {
-            "source": "인생은 아름다워",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 12026,
-            "same": 1032
+            "source": "미스 슬로운",
+            "target": "대부 2",
+            "value": 1.5934706568208317,
+            "total": 2573,
+            "same": 41
         },
         {
-            "source": "울지마 톤즈",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 7144,
-            "same": 608
+            "source": "미스 슬로운",
+            "target": "내 어깨 위 고양이, 밥",
+            "value": 1.5608740894901143,
+            "total": 1922,
+            "same": 30
         }
     ],
     "nodes": [
         {
-            "id": "월-E",
+            "id": "원더",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=69105",
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
             "genre": [
-                "애니메이션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
                 "SF",
-                "가족",
-                "코미디",
-                "멜로/로맨스",
-                "모험"
-            ],
-            "director": [
-                "앤드류 스탠튼"
-            ],
-            "actor": [
-                "벤 버트",
-                "엘리사 나이트",
-                "제프 갈린"
-            ]
-        },
-        {
-            "id": "인생은 아름다워",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=22126",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로베르토 베니니"
-            ],
-            "actor": [
-                "로베르토 베니니",
-                "니콜레타 브라스키"
-            ]
-        },
-        {
-            "id": "포레스트 검프",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
-            "id": "토이 스토리 3",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
-            "id": "언터처블: 1%의 우정",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=87566",
-            "genre": [
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "올리비에르 나카체",
-                "에릭 토레다노"
-            ],
-            "actor": [
-                "프랑수아 클루제",
-                "오마 사이"
-            ]
-        },
-        {
-            "id": "그대를 사랑합니다",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=73476",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "추창민"
-            ],
-            "actor": [
-                "이순재",
-                "윤소정",
-                "송재호"
-            ]
-        },
-        {
-            "id": "드래곤 길들이기",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=70457",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "딘 데블로이스",
-                "크리스 샌더스"
-            ],
-            "actor": [
-                "제이 바루첼",
-                "제라드 버틀러",
-                "아메리카 페레라"
-            ]
-        },
-        {
-            "id": "울지마 톤즈",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=76667",
-            "genre": [
-                "다큐멘터리"
-            ],
-            "director": [
-                "구수환"
-            ],
-            "actor": [
-                "이금희",
-                "이태석"
-            ]
-        },
-        {
-            "id": "라푼젤",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=75470",
-            "genre": [
-                "애니메이션",
-                "코미디",
-                "가족",
-                "판타지",
-                "뮤지컬",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "네이슨 그레노",
-                "바이론 하워드"
-            ],
-            "actor": [
-                "맨디 무어",
-                "제커리 레비"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "피아니스트",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
-            "id": "업",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=52120",
-            "genre": [
-                "애니메이션",
-                "가족",
-                "모험",
-                "코미디",
                 "액션"
             ],
             "director": [
-                "피트 닥터",
-                "밥 피터슨"
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
             ],
             "actor": [
-                "에드워드 애스너",
-                "조던 나가이",
-                "크리스토퍼 플러머"
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
             ]
         },
         {
-            "id": "블라인드 사이드",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "존 리 행콕"
+                "데오도르 멜피"
             ],
             "actor": [
-                "산드라 블록"
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
             ]
         },
         {
-            "id": "라따뚜이",
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "미스 슬로운",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142632",
+            "genre": [
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "존 매든"
+            ],
+            "actor": [
+                "제시카 차스테인"
+            ]
+        },
+        {
+            "id": "브레이브하트",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "패밀리 맨",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
             "genre": [
                 "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
             ],
             "director": [
-                "브래드 버드"
+                "브렛 래트너"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "니콜라스 케이지",
+                "티아 레오니"
             ]
         },
         {
-            "id": "내 이름은 칸",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "카란 조하르"
+                "론 하워드"
             ],
             "actor": [
-                "샤룩 칸",
-                "까졸"
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "어메이징 메리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=143469",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "마크 웹"
+            ],
+            "actor": [
+                "크리스 에반스",
+                "맥케나 그레이스",
+                "린제이 던칸"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "내 어깨 위 고양이, 밥",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154379",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "로저 스포티스우드"
+            ],
+            "actor": [
+                "루크 트레더웨이"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "애니메이션",
+            "title": "드라마",
             "group": 1
         },
         {
-            "title": "드라마",
+            "title": "SF",
             "group": 2
         },
         {
-            "title": "판타지",
+            "title": "모험",
             "group": 3
         },
         {
-            "title": "코미디",
+            "title": "액션",
             "group": 4
         },
         {
-            "title": "다큐멘터리",
+            "title": "코미디",
             "group": 5
         },
         {
@@ -442,7 +430,7 @@
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 6
         }
     ]

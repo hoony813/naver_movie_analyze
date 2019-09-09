@@ -3,114 +3,114 @@
         {
             "source": "쇼생크 탈출",
             "target": "타이타닉",
-            "value": 13,
-            "total": 25547,
-            "same": 3126
+            "value": 12.761599761674239,
+            "total": 26854,
+            "same": 3427
+        },
+        {
+            "source": "과속스캔들",
+            "target": "타이타닉",
+            "value": 12.378066104744768,
+            "total": 31677,
+            "same": 3921
+        },
+        {
+            "source": "말할 수 없는 비밀",
+            "target": "타이타닉",
+            "value": 12.32589146407194,
+            "total": 35251,
+            "same": 4345
         },
         {
             "source": "타이타닉",
-            "target": "다크 나이트",
-            "value": 12,
-            "total": 30066,
-            "same": 3515
+            "target": "아저씨",
+            "value": 11.982827158530768,
+            "total": 31445,
+            "same": 3768
         },
         {
-            "source": "인생은 아름다워",
+            "source": "인셉션",
             "target": "타이타닉",
-            "value": 12,
-            "total": 22079,
-            "same": 2476
+            "value": 11.959312660477977,
+            "total": 30378,
+            "same": 3633
+        },
+        {
+            "source": "다크 나이트",
+            "target": "타이타닉",
+            "value": 11.795523098904589,
+            "total": 31495,
+            "same": 3715
+        },
+        {
+            "source": "타이타닉",
+            "target": "인생은 아름다워",
+            "value": 11.572700296735905,
+            "total": 23253,
+            "same": 2691
         },
         {
             "source": "세 얼간이",
             "target": "타이타닉",
-            "value": 11,
-            "total": 29749,
-            "same": 3224
+            "value": 11.410424180524082,
+            "total": 31331,
+            "same": 3575
         },
         {
             "source": "지금, 만나러 갑니다",
             "target": "타이타닉",
-            "value": 11,
-            "total": 24357,
-            "same": 2621
+            "value": 11.041577032893965,
+            "total": 25567,
+            "same": 2823
+        },
+        {
+            "source": "태극기 휘날리며",
+            "target": "타이타닉",
+            "value": 10.787732474964235,
+            "total": 22368,
+            "same": 2413
+        },
+        {
+            "source": "해바라기",
+            "target": "타이타닉",
+            "value": 10.71484375,
+            "total": 25600,
+            "same": 2743
+        },
+        {
+            "source": "타이타닉",
+            "target": "라디오 스타",
+            "value": 10.519253991681202,
+            "total": 22359,
+            "same": 2352
         },
         {
             "source": "센과 치히로의 행방불명",
             "target": "타이타닉",
-            "value": 11,
-            "total": 23246,
-            "same": 2355
+            "value": 10.437834088219693,
+            "total": 24507,
+            "same": 2558
         },
         {
-            "source": "레옹",
+            "source": "테이큰",
             "target": "타이타닉",
-            "value": 10,
-            "total": 20968,
-            "same": 2058
+            "value": 10.429877115493943,
+            "total": 22867,
+            "same": 2385
         },
         {
-            "source": "반지의 제왕: 왕의 귀환",
+            "source": "시간을 달리는 소녀",
             "target": "타이타닉",
-            "value": 10,
-            "total": 19220,
-            "same": 1879
+            "value": 10.40862855138548,
+            "total": 22808,
+            "same": 2374
         },
         {
             "source": "타이타닉",
-            "target": "해리 포터와 죽음의 성물 - 2부",
-            "value": 10,
-            "total": 22065,
-            "same": 2126
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "타이타닉",
-            "value": 10,
-            "total": 19868,
-            "same": 1878
-        },
-        {
-            "source": "타이타닉",
-            "target": "드래곤 길들이기",
-            "value": 10,
-            "total": 20332,
-            "same": 1855
-        },
-        {
-            "source": "월-E",
-            "target": "타이타닉",
-            "value": 10,
-            "total": 21432,
-            "same": 1932
-        },
-        {
-            "source": "터미네이터 2",
-            "target": "타이타닉",
-            "value": 9,
-            "total": 19524,
-            "same": 1753
-        },
-        {
-            "source": "타이타닉",
-            "target": "라따뚜이",
-            "value": 9,
-            "total": 19519,
-            "same": 1745
-        },
-        {
-            "source": "타이타닉",
-            "target": "트루먼 쇼",
-            "value": 9,
-            "total": 19191,
-            "same": 1688
-        },
-        {
-            "source": "살인의 추억",
-            "target": "타이타닉",
-            "value": 9,
-            "total": 19088,
-            "same": 1644
+            "target": "레옹",
+            "value": 10.117998101179982,
+            "total": 22119,
+            "same": 2238
         }
     ],
     "nodes": [
@@ -130,43 +130,6 @@
             ]
         },
         {
-            "id": "터미네이터 2",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10200",
-            "genre": [
-                "SF",
-                "액션",
-                "스릴러"
-            ],
-            "director": [
-                "제임스 카메론"
-            ],
-            "actor": [
-                "아놀드 슈왈제네거"
-            ]
-        },
-        {
-            "id": "월-E",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=69105",
-            "genre": [
-                "애니메이션",
-                "SF",
-                "가족",
-                "코미디",
-                "멜로/로맨스",
-                "모험"
-            ],
-            "director": [
-                "앤드류 스탠튼"
-            ],
-            "actor": [
-                "벤 버트",
-                "엘리사 나이트",
-                "제프 갈린"
-            ]
-        },
-        {
             "id": "인생은 아름다워",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=22126",
@@ -183,42 +146,8 @@
             ]
         },
         {
-            "id": "포레스트 검프",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
-            "id": "살인의 추억",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=35901",
-            "genre": [
-                "범죄",
-                "미스터리",
-                "스릴러",
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "봉준호"
-            ],
-            "actor": [
-                "송강호",
-                "김상경"
-            ]
-        },
-        {
             "id": "센과 치히로의 행방불명",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=32686",
             "genre": [
                 "애니메이션",
@@ -236,7 +165,7 @@
         },
         {
             "id": "레옹",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=17170",
             "genre": [
                 "범죄",
@@ -252,27 +181,8 @@
             ]
         },
         {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
             "id": "세 얼간이",
-            "group": 6,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=73372",
             "genre": [
                 "코미디"
@@ -288,7 +198,7 @@
         },
         {
             "id": "지금, 만나러 갑니다",
-            "group": 7,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=39636",
             "genre": [
                 "멜로/로맨스",
@@ -306,7 +216,7 @@
         },
         {
             "id": "타이타닉",
-            "group": 7,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=18847",
             "genre": [
                 "멜로/로맨스",
@@ -321,29 +231,8 @@
             ]
         },
         {
-            "id": "드래곤 길들이기",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=70457",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "딘 데블로이스",
-                "크리스 샌더스"
-            ],
-            "actor": [
-                "제이 바루첼",
-                "제라드 버틀러",
-                "아메리카 페레라"
-            ]
-        },
-        {
             "id": "다크 나이트",
-            "group": 8,
+            "group": 6,
             "href": "/movie/bi/mi/basic.nhn?code=62586",
             "genre": [
                 "액션",
@@ -361,55 +250,160 @@
             ]
         },
         {
-            "id": "트루먼 쇼",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "id": "말할 수 없는 비밀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
             "genre": [
-                "코미디",
-                "드라마",
-                "SF"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "짐 캐리"
-            ]
-        },
-        {
-            "id": "해리 포터와 죽음의 성물 - 2부",
-            "group": 9,
-            "href": "/movie/bi/mi/basic.nhn?code=47528",
-            "genre": [
-                "모험",
+                "멜로/로맨스",
                 "판타지",
-                "미스터리"
+                "드라마"
             ],
             "director": [
-                "데이빗 예이츠"
+                "주걸륜"
             ],
             "actor": [
-                "다니엘 래드클리프",
-                "엠마 왓슨",
-                "루퍼트 그린트"
+                "주걸륜",
+                "계륜미",
+                "황추생"
             ]
         },
         {
-            "id": "라따뚜이",
+            "id": "해바라기",
             "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
             "genre": [
-                "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
+                "액션",
+                "드라마"
             ],
             "director": [
-                "브래드 버드"
+                "강석범"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
             ]
         }
     ],
@@ -419,42 +413,34 @@
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "애니메이션",
             "group": 2
         },
         {
-            "title": "애니메이션",
+            "title": "범죄",
             "group": 3
         },
         {
-            "title": "범죄",
+            "title": "코미디",
             "group": 4
         },
         {
-            "title": "판타지",
+            "title": "멜로/로맨스",
             "group": 5
         },
         {
-            "title": "코미디",
+            "title": "액션",
             "group": 6
         },
         {
-            "title": "멜로/로맨스",
+            "title": "전쟁",
             "group": 7
-        },
-        {
-            "title": "액션",
-            "group": 8
-        },
-        {
-            "title": "모험",
-            "group": 9
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 9
+            "movie_n": 251,
+            "genre_n": 7
         }
     ]
 }

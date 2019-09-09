@@ -1,300 +1,119 @@
 {
     "links": [
         {
-            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "target": "우리들의 일그러진 영웅",
-            "value": 7,
-            "total": 2185,
-            "same": 138
+            "source": "우리들의 일그러진 영웅",
+            "target": "공공의 적",
+            "value": 7.396449704142012,
+            "total": 2704,
+            "same": 200
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "터미네이터",
+            "value": 6.824644549763033,
+            "total": 2110,
+            "same": 144
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 6.740576496674058,
+            "total": 2255,
+            "same": 152
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "사랑과 영혼",
+            "value": 6.188118811881188,
+            "total": 1616,
+            "same": 100
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "다이 하드",
+            "value": 6.170598911070781,
+            "total": 1653,
+            "same": 102
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "공동경비구역 JSA",
+            "value": 6.161449752883031,
+            "total": 3035,
+            "same": 187
         },
         {
             "source": "우리들의 일그러진 영웅",
             "target": "쥬라기 공원",
-            "value": 6,
-            "total": 2523,
-            "same": 147
+            "value": 5.985512771635531,
+            "total": 2623,
+            "same": 157
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "브레이브하트",
+            "value": 5.878186968838526,
+            "total": 2824,
+            "same": 166
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "늑대와 춤을",
+            "value": 5.829015544041451,
+            "total": 1544,
+            "same": 90
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "쿨 러닝",
+            "value": 5.805243445692884,
+            "total": 2136,
+            "same": 124
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "페이스 오프",
+            "value": 5.744336569579287,
+            "total": 2472,
+            "same": 142
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "쥬만지",
+            "value": 5.70515746234596,
+            "total": 2191,
+            "same": 125
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "오아시스",
+            "value": 5.609756097560976,
+            "total": 2050,
+            "same": 115
         },
         {
             "source": "우리들의 일그러진 영웅",
             "target": "토이 스토리",
-            "value": 6,
-            "total": 2001,
-            "same": 106
+            "value": 5.491329479768786,
+            "total": 2076,
+            "same": 114
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 5.437219730941703,
+            "total": 1784,
+            "same": 97
         },
         {
             "source": "우리들의 일그러진 영웅",
             "target": "록키",
-            "value": 6,
-            "total": 1909,
-            "same": 98
-        },
-        {
-            "source": "집으로...",
-            "target": "우리들의 일그러진 영웅",
-            "value": 6,
-            "total": 2938,
-            "same": 148
-        },
-        {
-            "source": "모던 타임즈",
-            "target": "우리들의 일그러진 영웅",
-            "value": 6,
-            "total": 1852,
-            "same": 93
-        },
-        {
-            "source": "더 록",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 2974,
-            "same": 148
-        },
-        {
-            "source": "에이리언 2",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 2347,
-            "same": 115
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 4122,
-            "same": 201
-        },
-        {
-            "source": "반지의 제왕: 두 개의 탑",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 3093,
-            "same": 150
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 3012,
-            "same": 145
-        },
-        {
-            "source": "아이 엠 샘",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 3382,
-            "same": 162
-        },
-        {
-            "source": "여인의 향기",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 3170,
-            "same": 148
-        },
-        {
-            "source": "아마데우스",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 3330,
-            "same": 154
-        },
-        {
-            "source": "우리들의 일그러진 영웅",
-            "target": "시네마 천국",
-            "value": 5,
-            "total": 3814,
-            "same": 175
-        },
-        {
-            "source": "캐스트 어웨이",
-            "target": "우리들의 일그러진 영웅",
-            "value": 5,
-            "total": 3097,
-            "same": 142
+            "value": 5.41497975708502,
+            "total": 1976,
+            "same": 107
         }
     ],
     "nodes": [
-        {
-            "id": "나 홀로 집에",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
-            "id": "캐스트 어웨이",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=31162",
-            "genre": [
-                "드라마",
-                "모험"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스",
-                "헬렌 헌트"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "여인의 향기",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=12482",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "마틴 브레스트"
-            ],
-            "actor": [
-                "알 파치노"
-            ]
-        },
-        {
-            "id": "에이리언 2",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=10038",
-            "genre": [
-                "SF",
-                "공포",
-                "스릴러",
-                "액션"
-            ],
-            "director": [
-                "제임스 카메론"
-            ],
-            "actor": [
-                "시고니 위버",
-                "마이클 빈",
-                "폴 레이저"
-            ]
-        },
-        {
-            "id": "아마데우스",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "밀로스 포만"
-            ],
-            "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 두 개의 탑",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=31795",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "이안 맥켈런",
-                "비고 모텐슨"
-            ]
-        },
-        {
-            "id": "집으로...",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=34324",
-            "genre": [
-                "드라마",
-                "가족"
-            ],
-            "director": [
-                "이정향"
-            ],
-            "actor": [
-                "김을분",
-                "유승호"
-            ]
-        },
-        {
-            "id": "더 록",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=17135",
-            "genre": [
-                "액션"
-            ],
-            "director": [
-                "마이클 베이"
-            ],
-            "actor": [
-                "숀 코네리",
-                "니콜라스 케이지",
-                "에드 해리스"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "모던 타임즈",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=10249",
-            "genre": [
-                "코미디"
-            ],
-            "director": [
-                "찰리 채플린"
-            ],
-            "actor": [
-                "찰리 채플린",
-                "파울레트 고다드"
-            ]
-        },
         {
             "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
             "group": 1,
@@ -352,7 +171,7 @@
         },
         {
             "id": "토이 스토리",
-            "group": 7,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=17153",
             "genre": [
                 "애니메이션",
@@ -369,23 +188,6 @@
             ]
         },
         {
-            "id": "시네마 천국",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
-            "genre": [
-                "드라마",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "쥬세페 토르나토레"
-            ],
-            "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
-            ]
-        },
-        {
             "id": "록키",
             "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=10021",
@@ -398,6 +200,208 @@
             ],
             "actor": [
                 "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "쿨 러닝",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
             ]
         }
     ],
@@ -415,7 +419,7 @@
             "group": 3
         },
         {
-            "title": "판타지",
+            "title": "애니메이션",
             "group": 4
         },
         {
@@ -423,18 +427,22 @@
             "group": 5
         },
         {
-            "title": "코미디",
+            "title": "서부",
             "group": 6
         },
         {
-            "title": "애니메이션",
+            "title": "범죄",
             "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 7
+            "movie_n": 251,
+            "genre_n": 8
         }
     ]
 }

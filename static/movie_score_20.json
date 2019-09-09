@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "쇼생크 탈출",
-            "target": "포레스트 검프",
-            "value": 14,
-            "total": 17087,
-            "same": 2318
+            "source": "포레스트 검프",
+            "target": "쇼생크 탈출",
+            "value": 13.875624964889614,
+            "total": 17801,
+            "same": 2470
         },
         {
-            "source": "인생은 아름다워",
-            "target": "포레스트 검프",
-            "value": 13,
-            "total": 13530,
-            "same": 1757
+            "source": "포레스트 검프",
+            "target": "인생은 아름다워",
+            "value": 13.587111491303109,
+            "total": 14028,
+            "same": 1906
         },
         {
             "source": "포레스트 검프",
             "target": "트루먼 쇼",
-            "value": 13,
-            "total": 10280,
-            "same": 1331
+            "value": 13.229058701592386,
+            "total": 10613,
+            "same": 1404
         },
         {
             "source": "포레스트 검프",
             "target": "죽은 시인의 사회",
-            "value": 12,
-            "total": 10797,
-            "same": 1295
+            "value": 12.452931683700914,
+            "total": 11154,
+            "same": 1389
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "스쿨 오브 락",
+            "value": 12.366994579401727,
+            "total": 9962,
+            "same": 1232
         },
         {
             "source": "포레스트 검프",
             "target": "레옹",
-            "value": 12,
-            "total": 12309,
-            "same": 1449
+            "value": 12.138502423010786,
+            "total": 12794,
+            "same": 1553
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "본 얼티메이텀",
+            "value": 12.061183550651956,
+            "total": 11964,
+            "same": 1443
         },
         {
             "source": "포레스트 검프",
             "target": "피아니스트",
-            "value": 12,
-            "total": 10271,
-            "same": 1193
+            "value": 12.022990671817583,
+            "total": 10613,
+            "same": 1276
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "포레스트 검프",
-            "value": 12,
-            "total": 8933,
-            "same": 1012
+            "source": "포레스트 검프",
+            "target": "나비 효과",
+            "value": 11.865637766681797,
+            "total": 11015,
+            "same": 1307
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "라디오 스타",
+            "value": 11.624905087319666,
+            "total": 13170,
+            "same": 1531
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "라이언 일병 구하기",
+            "value": 11.622354856212697,
+            "total": 9215,
+            "same": 1071
         },
         {
             "source": "포레스트 검프",
             "target": "프리퀀시",
-            "value": 12,
-            "total": 10074,
-            "same": 1123
+            "value": 11.622089667115644,
+            "total": 10394,
+            "same": 1208
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "터미네이터 2",
+            "value": 11.447122654095882,
+            "total": 11243,
+            "same": 1287
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "포레스트 검프",
+            "value": 11.438914027149321,
+            "total": 11050,
+            "same": 1264
         },
         {
             "source": "포레스트 검프",
             "target": "살인의 추억",
-            "value": 12,
-            "total": 10316,
-            "same": 1148
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "반지의 제왕: 왕의 귀환",
-            "value": 12,
-            "total": 10653,
-            "same": 1178
-        },
-        {
-            "source": "매트릭스",
-            "target": "포레스트 검프",
-            "value": 11,
-            "total": 9190,
-            "same": 1008
+            "value": 11.421605401350337,
+            "total": 10664,
+            "same": 1218
         },
         {
             "source": "포레스트 검프",
             "target": "글래디에이터",
-            "value": 11,
-            "total": 8828,
-            "same": 964
-        },
-        {
-            "source": "터미네이터 2",
-            "target": "포레스트 검프",
-            "value": 11,
-            "total": 10835,
-            "same": 1174
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "라따뚜이",
-            "value": 11,
-            "total": 10824,
-            "same": 1172
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "굿 윌 헌팅",
-            "value": 11,
-            "total": 8944,
-            "same": 964
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "지금, 만나러 갑니다",
-            "value": 11,
-            "total": 16058,
-            "same": 1652
+            "value": 11.28306442761497,
+            "total": 9111,
+            "same": 1028
         }
     ],
     "nodes": [
@@ -146,24 +146,6 @@
             ]
         },
         {
-            "id": "라이언 일병 구하기",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=18988",
-            "genre": [
-                "전쟁",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "톰 행크스",
-                "에드워드 번즈",
-                "톰 시즈모어"
-            ]
-        },
-        {
             "id": "인생은 아름다워",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=22126",
@@ -180,21 +162,21 @@
             ]
         },
         {
-            "id": "매트릭스",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "id": "라이언 일병 구하기",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
             "genre": [
-                "SF",
-                "액션"
+                "전쟁",
+                "액션",
+                "드라마"
             ],
             "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
+                "스티븐 스필버그"
             ],
             "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
             ]
         },
         {
@@ -299,40 +281,8 @@
             ]
         },
         {
-            "id": "지금, 만나러 갑니다",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=39636",
-            "genre": [
-                "멜로/로맨스",
-                "드라마",
-                "판타지"
-            ],
-            "director": [
-                "도이 노부히로"
-            ],
-            "actor": [
-                "다케우치 유코",
-                "나카무라 시도",
-                "다케이 아카시"
-            ]
-        },
-        {
-            "id": "굿 윌 헌팅",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
-            ]
-        },
-        {
             "id": "트루먼 쇼",
-            "group": 8,
+            "group": 7,
             "href": "/movie/bi/mi/basic.nhn?code=19099",
             "genre": [
                 "코미디",
@@ -381,21 +331,70 @@
             ]
         },
         {
-            "id": "라따뚜이",
-            "group": 8,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "id": "본 얼티메이텀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
             "genre": [
-                "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
+                "액션",
+                "미스터리",
+                "스릴러"
             ],
             "director": [
-                "브래드 버드"
+                "폴 그린그래스"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
             ]
         }
     ],
@@ -425,18 +424,14 @@
             "group": 6
         },
         {
-            "title": "멜로/로맨스",
-            "group": 7
-        },
-        {
             "title": "코미디",
-            "group": 8
+            "group": 7
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 8
+            "movie_n": 251,
+            "genre_n": 7
         }
     ]
 }

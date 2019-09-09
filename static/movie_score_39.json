@@ -1,134 +1,119 @@
 {
     "links": [
         {
-            "source": "헬프",
+            "source": "핵소 고지",
             "target": "히든 피겨스",
-            "value": 3,
-            "total": 6303,
-            "same": 175
+            "value": 3.252284342573951,
+            "total": 6457,
+            "same": 210
         },
         {
-            "source": "히든 피겨스",
-            "target": "미스 슬로운",
-            "value": 3,
-            "total": 4576,
-            "same": 123
+            "source": "미스 슬로운",
+            "target": "히든 피겨스",
+            "value": 2.8273809523809526,
+            "total": 4704,
+            "same": 133
+        },
+        {
+            "source": "헬프",
+            "target": "히든 피겨스",
+            "value": 2.823018458197611,
+            "total": 6447,
+            "same": 182
+        },
+        {
+            "source": "업",
+            "target": "히든 피겨스",
+            "value": 2.5440776239498284,
+            "total": 8451,
+            "same": 215
         },
         {
             "source": "히든 피겨스",
             "target": "언터처블: 1%의 우정",
-            "value": 3,
-            "total": 9310,
-            "same": 234
+            "value": 2.522503663387063,
+            "total": 9554,
+            "same": 241
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "히든 피겨스",
+            "value": 2.5047558655675335,
+            "total": 6308,
+            "same": 158
         },
         {
             "source": "히든 피겨스",
-            "target": "업",
-            "value": 3,
-            "total": 8215,
-            "same": 205
+            "target": "그랜 토리노",
+            "value": 2.497096399535424,
+            "total": 6888,
+            "same": 172
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "히든 피겨스",
+            "value": 2.4696584815128424,
+            "total": 7086,
+            "same": 175
         },
         {
             "source": "히든 피겨스",
-            "target": "빌리 엘리어트",
-            "value": 3,
-            "total": 6130,
-            "same": 148
+            "target": "뷰티풀 마인드",
+            "value": 2.462509865824783,
+            "total": 6335,
+            "same": 156
+        },
+        {
+            "source": "히든 피겨스",
+            "target": "본 얼티메이텀",
+            "value": 2.4407046550536364,
+            "total": 10161,
+            "same": 248
+        },
+        {
+            "source": "히든 피겨스",
+            "target": "첫 키스만 50번째",
+            "value": 2.433015090853095,
+            "total": 6494,
+            "same": 158
         },
         {
             "source": "매트릭스",
             "target": "히든 피겨스",
-            "value": 3,
-            "total": 7174,
-            "same": 169
+            "value": 2.418265333693596,
+            "total": 7402,
+            "same": 179
         },
         {
             "source": "히든 피겨스",
-            "target": "굿 윌 헌팅",
-            "value": 3,
-            "total": 6892,
-            "same": 161
+            "target": "토이 스토리 3",
+            "value": 2.4080058375899096,
+            "total": 9593,
+            "same": 231
         },
         {
             "source": "반지의 제왕: 왕의 귀환",
             "target": "히든 피겨스",
-            "value": 3,
-            "total": 8773,
-            "same": 203
-        },
-        {
-            "source": "그린 북",
-            "target": "히든 피겨스",
-            "value": 3,
-            "total": 8829,
-            "same": 204
+            "value": 2.3961310178061113,
+            "total": 9098,
+            "same": 218
         },
         {
             "source": "원더",
             "target": "히든 피겨스",
-            "value": 3,
-            "total": 5894,
-            "same": 136
+            "value": 2.3959021810971577,
+            "total": 6052,
+            "same": 145
         },
         {
-            "source": "토이 스토리 3",
+            "source": "인크레더블",
             "target": "히든 피겨스",
-            "value": 3,
-            "total": 9279,
-            "same": 213
-        },
-        {
-            "source": "살인의 추억",
-            "target": "히든 피겨스",
-            "value": 3,
-            "total": 8416,
-            "same": 193
-        },
-        {
-            "source": "히든 피겨스",
-            "target": "트루먼 쇼",
-            "value": 3,
-            "total": 8562,
-            "same": 194
-        },
-        {
-            "source": "히든 피겨스",
-            "target": "블라인드 사이드",
-            "value": 3,
-            "total": 7231,
-            "same": 163
-        },
-        {
-            "source": "히든 피겨스",
-            "target": "아이 엠 샘",
-            "value": 3,
-            "total": 5902,
-            "same": 133
-        },
-        {
-            "source": "월-E",
-            "target": "히든 피겨스",
-            "value": 3,
-            "total": 10994,
-            "same": 247
+            "value": 2.38574748257165,
+            "total": 6455,
+            "same": 154
         }
     ],
     "nodes": [
-        {
-            "id": "그린 북",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=171539",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 패럴리"
-            ],
-            "actor": [
-                "비고 모텐슨",
-                "마허샬라 알리"
-            ]
-        },
         {
             "id": "원더",
             "group": 1,
@@ -146,29 +131,8 @@
             ]
         },
         {
-            "id": "월-E",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=69105",
-            "genre": [
-                "애니메이션",
-                "SF",
-                "가족",
-                "코미디",
-                "멜로/로맨스",
-                "모험"
-            ],
-            "director": [
-                "앤드류 스탠튼"
-            ],
-            "actor": [
-                "벤 버트",
-                "엘리사 나이트",
-                "제프 갈린"
-            ]
-        },
-        {
             "id": "매트릭스",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=24452",
             "genre": [
                 "SF",
@@ -202,7 +166,7 @@
         },
         {
             "id": "토이 스토리 3",
-            "group": 2,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=66463",
             "genre": [
                 "애니메이션",
@@ -221,27 +185,8 @@
             ]
         },
         {
-            "id": "살인의 추억",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=35901",
-            "genre": [
-                "범죄",
-                "미스터리",
-                "스릴러",
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "봉준호"
-            ],
-            "actor": [
-                "송강호",
-                "김상경"
-            ]
-        },
-        {
             "id": "반지의 제왕: 왕의 귀환",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=31796",
             "genre": [
                 "판타지",
@@ -276,7 +221,7 @@
         },
         {
             "id": "언터처블: 1%의 우정",
-            "group": 6,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=87566",
             "genre": [
                 "코미디",
@@ -306,39 +251,8 @@
             ]
         },
         {
-            "id": "트루먼 쇼",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=19099",
-            "genre": [
-                "코미디",
-                "드라마",
-                "SF"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "짐 캐리"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
             "id": "업",
-            "group": 2,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=52120",
             "genre": [
                 "애니메이션",
@@ -376,20 +290,6 @@
             ]
         },
         {
-            "id": "블라인드 사이드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "존 리 행콕"
-            ],
-            "actor": [
-                "산드라 블록"
-            ]
-        },
-        {
             "id": "미스 슬로운",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=142632",
@@ -403,6 +303,110 @@
             "actor": [
                 "제시카 차스테인"
             ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
         }
     ],
     "genre_data": [
@@ -411,30 +415,38 @@
             "group": 1
         },
         {
-            "title": "애니메이션",
+            "title": "SF",
             "group": 2
         },
         {
-            "title": "SF",
+            "title": "애니메이션",
             "group": 3
         },
         {
-            "title": "범죄",
+            "title": "판타지",
             "group": 4
         },
         {
-            "title": "판타지",
+            "title": "코미디",
             "group": 5
         },
         {
-            "title": "코미디",
+            "title": "액션",
             "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 6
+            "movie_n": 251,
+            "genre_n": 8
         }
     ]
 }

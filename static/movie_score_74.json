@@ -1,141 +1,122 @@
 {
     "links": [
         {
-            "source": "번 더 스테이지: 더 무비",
-            "target": "러브 유어셀프 인 서울",
-            "value": 6,
-            "total": 3258,
-            "same": 171
+            "source": "모던 타임즈",
+            "target": "위대한 독재자",
+            "value": 7.505518763796909,
+            "total": 1359,
+            "same": 102
         },
         {
-            "source": "코러스",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 5005,
-            "same": 31
+            "source": "모던 타임즈",
+            "target": "터미네이터",
+            "value": 6.751985878199471,
+            "total": 2266,
+            "same": 153
         },
         {
-            "source": "울지마 톤즈",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 5856,
-            "same": 35
+            "source": "모던 타임즈",
+            "target": "페이스 오프",
+            "value": 6.679462571976967,
+            "total": 2605,
+            "same": 174
         },
         {
-            "source": "나 홀로 집에",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 5546,
-            "same": 33
-        },
-        {
-            "source": "번 더 스테이지: 더 무비",
-            "target": "시네마 천국",
-            "value": 1,
-            "total": 5216,
-            "same": 29
-        },
-        {
-            "source": "집으로...",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 4318,
-            "same": 24
-        },
-        {
-            "source": "굿 윌 헌팅",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 5786,
-            "same": 32
-        },
-        {
-            "source": "번 더 스테이지: 더 무비",
-            "target": "업",
-            "value": 1,
-            "total": 7147,
-            "same": 38
-        },
-        {
-            "source": "아이 엠 샘",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 4775,
-            "same": 25
-        },
-        {
-            "source": "번 더 스테이지: 더 무비",
-            "target": "빌리 엘리어트",
-            "value": 1,
-            "total": 5017,
-            "same": 26
-        },
-        {
-            "source": "그대를 사랑합니다",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 7958,
-            "same": 41
-        },
-        {
-            "source": "해리 포터와 죽음의 성물 - 2부",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 10778,
-            "same": 55
-        },
-        {
-            "source": "번 더 스테이지: 더 무비",
-            "target": "내 이름은 칸",
-            "value": 1,
-            "total": 6914,
-            "same": 35
-        },
-        {
-            "source": "토이 스토리 3",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 8216,
-            "same": 41
-        },
-        {
-            "source": "번 더 스테이지: 더 무비",
-            "target": "에이 아이",
-            "value": 1,
-            "total": 5812,
-            "same": 29
+            "source": "모던 타임즈",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 6.639954207212365,
+            "total": 1747,
+            "same": 116
         },
         {
             "source": "빽 투 더 퓨쳐",
-            "target": "번 더 스테이지: 더 무비",
-            "value": 1,
-            "total": 4816,
-            "same": 24
+            "target": "모던 타임즈",
+            "value": 6.615214994487322,
+            "total": 3628,
+            "same": 240
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "토이 스토리",
+            "value": 6.609325486645541,
+            "total": 2209,
+            "same": 146
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "대부 2",
+            "value": 6.578947368421052,
+            "total": 2204,
+            "same": 145
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 6.507027589796981,
+            "total": 1921,
+            "same": 125
+        },
+        {
+            "source": "아마데우스",
+            "target": "모던 타임즈",
+            "value": 6.499718626899269,
+            "total": 3554,
+            "same": 231
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "리멤버 타이탄",
+            "value": 6.47678501755755,
+            "total": 2563,
+            "same": 166
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "다이 하드",
+            "value": 6.3711911357340725,
+            "total": 1805,
+            "same": 115
+        },
+        {
+            "source": "록키",
+            "target": "모던 타임즈",
+            "value": 6.188001889466226,
+            "total": 2117,
+            "same": 131
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "굿바이 마이 프랜드",
+            "value": 6.1609907120743035,
+            "total": 3230,
+            "same": 199
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "여인의 향기",
+            "value": 6.160164271047227,
+            "total": 3409,
+            "same": 210
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "모던 타임즈",
+            "value": 6.14877024595081,
+            "total": 3334,
+            "same": 205
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "라이온 킹",
+            "value": 6.134969325153374,
+            "total": 2934,
+            "same": 180
         }
     ],
     "nodes": [
         {
-            "id": "나 홀로 집에",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
             "id": "빽 투 더 퓨쳐",
-            "group": 2,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=10002",
             "genre": [
                 "SF",
@@ -151,291 +132,303 @@
             ]
         },
         {
-            "id": "토이 스토리 3",
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
             "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "모던 타임즈",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "토이 스토리",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
             "genre": [
                 "애니메이션",
-                "모험",
                 "코미디",
                 "가족",
                 "판타지"
             ],
             "director": [
-                "리 언크리치"
+                "존 라세터"
             ],
             "actor": [
                 "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
+                "팀 알렌"
             ]
         },
         {
-            "id": "그대를 사랑합니다",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "id": "록키",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
             "genre": [
-                "드라마"
+                "드라마",
+                "액션"
             ],
             "director": [
-                "추창민"
+                "존 G. 아빌드센"
             ],
             "actor": [
-                "이순재",
-                "윤소정",
-                "송재호"
+                "실베스터 스탤론"
             ]
         },
         {
-            "id": "굿 윌 헌팅",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "id": "다이 하드",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
             "genre": [
-                "드라마"
+                "액션",
+                "스릴러",
+                "범죄"
             ],
             "director": [
-                "구스 반 산트"
+                "존 맥티어난"
             ],
             "actor": [
-                "맷 데이먼"
+                "브루스 윌리스"
             ]
         },
         {
-            "id": "집으로...",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=34324",
+            "id": "라이온 킹",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16521",
             "genre": [
+                "애니메이션",
+                "모험",
                 "드라마",
                 "가족"
             ],
             "director": [
-                "이정향"
+                "로저 알러스",
+                "롭 민코프"
             ],
             "actor": [
-                "김을분",
-                "유승호"
+                "조나단 테일러 토마스",
+                "매튜 브로데릭",
+                "제임스 얼 존스"
             ]
         },
         {
-            "id": "울지마 톤즈",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=76667",
-            "genre": [
-                "다큐멘터리"
-            ],
-            "director": [
-                "구수환"
-            ],
-            "actor": [
-                "이금희",
-                "이태석"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "해리 포터와 죽음의 성물 - 2부",
+            "id": "터미네이터",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=47528",
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
             "genre": [
-                "모험",
-                "판타지",
-                "미스터리"
+                "SF",
+                "액션",
+                "스릴러"
             ],
             "director": [
-                "데이빗 예이츠"
+                "제임스 카메론"
             ],
             "actor": [
-                "다니엘 래드클리프",
-                "엠마 왓슨",
-                "루퍼트 그린트"
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
             ]
         },
         {
-            "id": "코러스",
+            "id": "위대한 독재자",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "href": "/movie/bi/mi/basic.nhn?code=10341",
             "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "번 더 스테이지: 더 무비",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=176354",
-            "genre": [
-                "한국"
-            ],
-            "director": [
-                "박준수"
-            ],
-            "actor": [
-                "RM",
-                "진",
-                "슈가"
-            ]
-        },
-        {
-            "id": "업",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=52120",
-            "genre": [
-                "애니메이션",
-                "가족",
-                "모험",
-                "코미디",
-                "액션"
-            ],
-            "director": [
-                "피트 닥터",
-                "밥 피터슨"
-            ],
-            "actor": [
-                "에드워드 애스너",
-                "조던 나가이",
-                "크리스토퍼 플러머"
-            ]
-        },
-        {
-            "id": "빌리 엘리어트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=31013",
-            "genre": [
-                "드라마",
-                "가족",
                 "코미디"
             ],
             "director": [
-                "스티븐 달드리"
+                "찰리 채플린"
             ],
             "actor": [
-                "제이미 벨",
-                "줄리 월터스",
-                "게리 루이스"
+                "찰리 채플린",
+                "파울레트 고다드"
             ]
         },
         {
-            "id": "러브 유어셀프 인 서울",
+            "id": "리멤버 타이탄",
             "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=180220",
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
             "genre": [
-                "공연실황"
+                "가족",
+                "드라마"
             ],
             "director": [
-                "RM",
-                "진",
-                "슈가"
+                "보아즈 야킨"
             ],
             "actor": [
-                "전체 관람가"
+                "덴젤 워싱톤"
             ]
         },
         {
-            "id": "내 이름은 칸",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "카란 조하르"
+                "밀로스 포먼"
             ],
             "actor": [
-                "샤룩 칸",
-                "까졸"
-            ]
-        },
-        {
-            "id": "시네마 천국",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
-            "genre": [
-                "드라마",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "쥬세페 토르나토레"
-            ],
-            "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
-            ]
-        },
-        {
-            "id": "에이 아이",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=31268",
-            "genre": [
-                "SF",
-                "드라마",
-                "판타지"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "할리 조엘 오스먼트",
-                "주드 로",
-                "프란시스 오코너"
+                "잭 니콜슨"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "모험",
+            "title": "SF",
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "드라마",
             "group": 2
         },
         {
-            "title": "애니메이션",
+            "title": "판타지",
             "group": 3
         },
         {
-            "title": "드라마",
+            "title": "코미디",
             "group": 4
         },
         {
-            "title": "다큐멘터리",
+            "title": "애니메이션",
             "group": 5
         },
         {
-            "title": "한국",
+            "title": "액션",
             "group": 6
         },
         {
-            "title": "공연실황",
+            "title": "가족",
             "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 7
+            "movie_n": 251,
+            "genre_n": 8
         }
     ]
 }

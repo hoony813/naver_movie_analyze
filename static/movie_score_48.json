@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "모노노케 히메",
-            "target": "천공의 성 라퓨타",
-            "value": 7,
-            "total": 2959,
-            "same": 207
+            "source": "천공의 성 라퓨타",
+            "target": "모노노케 히메",
+            "value": 11.711538461538462,
+            "total": 5200,
+            "same": 609
         },
         {
-            "source": "굿바이 마이 프랜드",
+            "source": "바람계곡의 나우시카",
             "target": "모노노케 히메",
-            "value": 6,
-            "total": 3974,
-            "same": 203
+            "value": 10.507246376811594,
+            "total": 4416,
+            "same": 464
         },
         {
-            "source": "나 홀로 집에",
+            "source": "이웃집 토토로",
             "target": "모노노케 히메",
-            "value": 6,
-            "total": 5087,
-            "same": 256
+            "value": 9.892086330935252,
+            "total": 5560,
+            "same": 550
         },
         {
             "source": "센과 치히로의 행방불명",
             "target": "모노노케 히메",
-            "value": 5,
-            "total": 11439,
-            "same": 568
+            "value": 9.85904463586531,
+            "total": 12770,
+            "same": 1259
+        },
+        {
+            "source": "모노노케 히메",
+            "target": "스쿨 오브 락",
+            "value": 8.87763263129832,
+            "total": 7502,
+            "same": 666
         },
         {
             "source": "매트릭스",
             "target": "모노노케 히메",
-            "value": 5,
-            "total": 5595,
-            "same": 277
-        },
-        {
-            "source": "모노노케 히메",
-            "target": "라따뚜이",
-            "value": 5,
-            "total": 7313,
-            "same": 357
-        },
-        {
-            "source": "라이언 일병 구하기",
-            "target": "모노노케 히메",
-            "value": 5,
-            "total": 5367,
-            "same": 252
+            "value": 8.676258992805755,
+            "total": 6950,
+            "same": 603
         },
         {
             "source": "글래디에이터",
             "target": "모노노케 히메",
-            "value": 5,
-            "total": 5221,
-            "same": 245
+            "value": 8.661778185151238,
+            "total": 6546,
+            "same": 567
         },
         {
-            "source": "모노노케 히메",
-            "target": "코러스",
-            "value": 5,
-            "total": 4589,
-            "same": 211
-        },
-        {
-            "source": "사운드 오브 뮤직",
+            "source": "시간을 달리는 소녀",
             "target": "모노노케 히메",
-            "value": 5,
-            "total": 5366,
-            "same": 245
+            "value": 8.601573676680973,
+            "total": 11184,
+            "same": 962
         },
         {
-            "source": "모노노케 히메",
-            "target": "아이 엠 샘",
-            "value": 5,
-            "total": 4365,
-            "same": 199
-        },
-        {
-            "source": "모노노케 히메",
-            "target": "집으로...",
-            "value": 5,
-            "total": 3928,
-            "same": 178
-        },
-        {
-            "source": "모노노케 히메",
-            "target": "업",
-            "value": 5,
-            "total": 6648,
-            "same": 301
-        },
-        {
-            "source": "토이 스토리 3",
+            "source": "라따뚜이",
             "target": "모노노케 히메",
-            "value": 5,
-            "total": 7674,
-            "same": 347
+            "value": 8.59058850734189,
+            "total": 8649,
+            "same": 743
         },
         {
             "source": "모노노케 히메",
-            "target": "시네마 천국",
-            "value": 5,
-            "total": 4796,
-            "same": 213
+            "target": "말아톤",
+            "value": 8.477653631284916,
+            "total": 7160,
+            "same": 607
+        },
+        {
+            "source": "인크레더블",
+            "target": "모노노케 히메",
+            "value": 8.472061974616778,
+            "total": 6067,
+            "same": 514
         },
         {
             "source": "모노노케 히메",
-            "target": "피아니스트",
-            "value": 5,
-            "total": 6835,
-            "same": 303
+            "target": "나 홀로 집에",
+            "value": 8.471170196320916,
+            "total": 6469,
+            "same": 548
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "모노노케 히메",
+            "value": 8.453993460999532,
+            "total": 8564,
+            "same": 724
+        },
+        {
+            "source": "나비 효과",
+            "target": "모노노케 히메",
+            "value": 8.446103593093794,
+            "total": 8572,
+            "same": 724
+        },
+        {
+            "source": "모노노케 히메",
+            "target": "라이언 일병 구하기",
+            "value": 8.342038501716162,
+            "total": 6701,
+            "same": 559
+        },
+        {
+            "source": "가위손",
+            "target": "모노노케 히메",
+            "value": 8.278199128610618,
+            "total": 6197,
+            "same": 513
         }
     ],
     "nodes": [
@@ -170,26 +170,8 @@
             ]
         },
         {
-            "id": "사운드 오브 뮤직",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10102",
-            "genre": [
-                "멜로/로맨스",
-                "뮤지컬",
-                "드라마"
-            ],
-            "director": [
-                "로버트 와이즈"
-            ],
-            "actor": [
-                "줄리 앤드류스",
-                "크리스토퍼 플러머",
-                "엘레노 파커"
-            ]
-        },
-        {
             "id": "글래디에이터",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=29217",
             "genre": [
                 "액션",
@@ -205,28 +187,8 @@
             ]
         },
         {
-            "id": "토이 스토리 3",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
             "id": "센과 치히로의 행방불명",
-            "group": 6,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=32686",
             "genre": [
                 "애니메이션",
@@ -243,24 +205,27 @@
             ]
         },
         {
-            "id": "굿바이 마이 프랜드",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
             "genre": [
-                "드라마"
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
             ],
             "director": [
-                "피터 호튼"
+                "피터 잭슨"
             ],
             "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
             ]
         },
         {
             "id": "모노노케 히메",
-            "group": 6,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=19303",
             "genre": [
                 "애니메이션",
@@ -277,92 +242,8 @@
             ]
         },
         {
-            "id": "집으로...",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=34324",
-            "genre": [
-                "드라마",
-                "가족"
-            ],
-            "director": [
-                "이정향"
-            ],
-            "actor": [
-                "김을분",
-                "유승호"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "피아니스트",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
-            "id": "업",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=52120",
-            "genre": [
-                "애니메이션",
-                "가족",
-                "모험",
-                "코미디",
-                "액션"
-            ],
-            "director": [
-                "피트 닥터",
-                "밥 피터슨"
-            ],
-            "actor": [
-                "에드워드 애스너",
-                "조던 나가이",
-                "크리스토퍼 플러머"
-            ]
-        },
-        {
             "id": "라따뚜이",
-            "group": 8,
+            "group": 7,
             "href": "/movie/bi/mi/basic.nhn?code=65021",
             "genre": [
                 "코미디",
@@ -380,7 +261,7 @@
         },
         {
             "id": "천공의 성 라퓨타",
-            "group": 6,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=18782",
             "genre": [
                 "애니메이션",
@@ -397,20 +278,141 @@
             ]
         },
         {
-            "id": "시네마 천국",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "id": "바람계곡의 나우시카",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18052",
             "genre": [
-                "드라마",
+                "애니메이션",
+                "SF"
+            ],
+            "director": [
+                "미야자키 하야오",
+                "코마츠바라 카즈오"
+            ],
+            "actor": [
+                "시마모토 스미",
+                "츠지무라 마히토",
+                "쿄다 히사코"
+            ]
+        },
+        {
+            "id": "이웃집 토토로",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18781",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히다카 노리코",
+                "사카모토 치카",
+                "타카기 히토시"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
                 "멜로/로맨스"
             ],
             "director": [
-                "쥬세페 토르나토레"
+                "팀 버튼"
             ],
             "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
             ]
         }
     ],
@@ -428,29 +430,29 @@
             "group": 3
         },
         {
-            "title": "멜로/로맨스",
+            "title": "액션",
             "group": 4
         },
         {
-            "title": "액션",
+            "title": "애니메이션",
             "group": 5
         },
         {
-            "title": "애니메이션",
+            "title": "판타지",
             "group": 6
         },
         {
-            "title": "드라마",
+            "title": "코미디",
             "group": 7
         },
         {
-            "title": "코미디",
+            "title": "드라마",
             "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 8
         }
     ]

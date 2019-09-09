@@ -3,114 +3,114 @@
         {
             "source": "헬프",
             "target": "블라인드 사이드",
-            "value": 8,
-            "total": 6609,
-            "same": 495
-        },
-        {
-            "source": "헬프",
-            "target": "언터처블: 1%의 우정",
-            "value": 8,
-            "total": 8635,
-            "same": 619
-        },
-        {
-            "source": "헬프",
-            "target": "내 이름은 칸",
-            "value": 8,
-            "total": 7370,
-            "same": 524
-        },
-        {
-            "source": "헬프",
-            "target": "그대를 사랑합니다",
-            "value": 8,
-            "total": 8353,
-            "same": 591
-        },
-        {
-            "source": "헬프",
-            "target": "업",
-            "value": 7,
-            "total": 7607,
-            "same": 523
-        },
-        {
-            "source": "헬프",
-            "target": "라푼젤",
-            "value": 7,
-            "total": 8153,
-            "same": 560
-        },
-        {
-            "source": "헬프",
-            "target": "코러스",
-            "value": 7,
-            "total": 5603,
-            "same": 378
-        },
-        {
-            "source": "헬프",
-            "target": "프리퀀시",
-            "value": 7,
-            "total": 7544,
+            "value": 7.494836234877544,
+            "total": 6778,
             "same": 508
         },
         {
             "source": "헬프",
+            "target": "내 이름은 칸",
+            "value": 7.2715318869165015,
+            "total": 7605,
+            "same": 553
+        },
+        {
+            "source": "헬프",
+            "target": "언터처블: 1%의 우정",
+            "value": 7.230960733280526,
+            "total": 8837,
+            "same": 639
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "헬프",
+            "value": 7.14615029967727,
+            "total": 8676,
+            "same": 620
+        },
+        {
+            "source": "헬프",
+            "target": "그랜 토리노",
+            "value": 7.0509766555502615,
+            "total": 6297,
+            "same": 444
+        },
+        {
+            "source": "라푼젤",
+            "target": "헬프",
+            "value": 6.97702393840972,
+            "total": 8313,
+            "same": 580
+        },
+        {
+            "source": "헬프",
+            "target": "도가니",
+            "value": 6.922549691569568,
+            "total": 10213,
+            "same": 707
+        },
+        {
+            "source": "헬프",
+            "target": "업",
+            "value": 6.916869476111183,
+            "total": 7807,
+            "same": 540
+        },
+        {
+            "source": "프리퀀시",
+            "target": "헬프",
+            "value": 6.889433621468198,
+            "total": 7751,
+            "same": 534
+        },
+        {
+            "source": "헬프",
+            "target": "코러스",
+            "value": 6.834030683403068,
+            "total": 5736,
+            "same": 392
+        },
+        {
+            "source": "헬프",
             "target": "굿바이 마이 프랜드",
-            "value": 7,
-            "total": 5021,
-            "same": 337
-        },
-        {
-            "source": "헬프",
-            "target": "울지마 톤즈",
-            "value": 7,
-            "total": 6410,
-            "same": 426
-        },
-        {
-            "source": "헬프",
-            "target": "굿 윌 헌팅",
-            "value": 7,
-            "total": 6346,
-            "same": 417
+            "value": 6.793848549737201,
+            "total": 5137,
+            "same": 349
         },
         {
             "source": "헬프",
             "target": "아이 엠 샘",
-            "value": 7,
-            "total": 5392,
-            "same": 353
+            "value": 6.787658802177858,
+            "total": 5510,
+            "same": 374
         },
         {
             "source": "헬프",
-            "target": "토이 스토리 3",
-            "value": 7,
-            "total": 8637,
-            "same": 565
+            "target": "킹콩을 들다",
+            "value": 6.738131699846861,
+            "total": 9142,
+            "same": 616
         },
         {
             "source": "헬프",
-            "target": "드래곤 길들이기",
-            "value": 7,
-            "total": 9175,
-            "same": 599
+            "target": "스쿨 오브 락",
+            "value": 6.719956645440997,
+            "total": 7381,
+            "same": 496
         },
         {
             "source": "헬프",
-            "target": "라따뚜이",
-            "value": 7,
-            "total": 8312,
-            "same": 539
+            "target": "울지마 톤즈",
+            "value": 6.700644581022336,
+            "total": 6671,
+            "same": 447
         },
         {
             "source": "헬프",
-            "target": "피아니스트",
-            "value": 7,
-            "total": 7813,
-            "same": 506
+            "target": "뷰티풀 마인드",
+            "value": 6.6897147796024194,
+            "total": 5785,
+            "same": 387
         }
     ],
     "nodes": [
@@ -131,26 +131,6 @@
             ]
         },
         {
-            "id": "토이 스토리 3",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
             "id": "굿바이 마이 프랜드",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=17541",
@@ -168,7 +148,7 @@
         },
         {
             "id": "언터처블: 1%의 우정",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=87566",
             "genre": [
                 "코미디",
@@ -200,43 +180,8 @@
             ]
         },
         {
-            "id": "굿 윌 헌팅",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
-            ]
-        },
-        {
-            "id": "드래곤 길들이기",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=70457",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "딘 데블로이스",
-                "크리스 샌더스"
-            ],
-            "actor": [
-                "제이 바루첼",
-                "제라드 버틀러",
-                "아메리카 페레라"
-            ]
-        },
-        {
             "id": "울지마 톤즈",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=76667",
             "genre": [
                 "다큐멘터리"
@@ -251,7 +196,7 @@
         },
         {
             "id": "라푼젤",
-            "group": 2,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=75470",
             "genre": [
                 "애니메이션",
@@ -320,24 +265,8 @@
             ]
         },
         {
-            "id": "피아니스트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
             "id": "업",
-            "group": 2,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=52120",
             "genre": [
                 "애니메이션",
@@ -371,24 +300,6 @@
             ]
         },
         {
-            "id": "라따뚜이",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
-            "genre": [
-                "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
-            ],
-            "director": [
-                "브래드 버드"
-            ],
-            "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
-            ]
-        },
-        {
             "id": "내 이름은 칸",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=70651",
@@ -402,6 +313,83 @@
                 "샤룩 칸",
                 "까졸"
             ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
         }
     ],
     "genre_data": [
@@ -410,15 +398,15 @@
             "group": 1
         },
         {
-            "title": "애니메이션",
+            "title": "코미디",
             "group": 2
         },
         {
-            "title": "코미디",
+            "title": "다큐멘터리",
             "group": 3
         },
         {
-            "title": "다큐멘터리",
+            "title": "애니메이션",
             "group": 4
         },
         {
@@ -428,7 +416,7 @@
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 5
         }
     ]

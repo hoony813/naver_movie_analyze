@@ -1,320 +1,161 @@
 {
     "links": [
         {
-            "source": "히든 피겨스",
-            "target": "미스 슬로운",
-            "value": 3,
-            "total": 4576,
-            "same": 123
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "타잔",
+            "value": 4.186046511627907,
+            "total": 860,
+            "same": 36
         },
         {
-            "source": "원더",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 3893,
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "알라딘",
+            "value": 3.6885245901639343,
+            "total": 976,
+            "same": 36
+        },
+        {
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 3.6519871106337276,
+            "total": 1862,
             "same": 68
         },
         {
-            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 2699,
-            "same": 46
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "뮬란",
+            "value": 3.4739454094292808,
+            "total": 1209,
+            "same": 42
         },
         {
-            "source": "빌리 엘리어트",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4141,
-            "same": 68
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "쥬라기 공원",
+            "value": 3.459119496855346,
+            "total": 2226,
+            "same": 77
         },
         {
-            "source": "매트릭스",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 5191,
-            "same": 83
-        },
-        {
-            "source": "굿 윌 헌팅",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4910,
-            "same": 74
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 3526,
-            "same": 53
-        },
-        {
-            "source": "바이센테니얼 맨",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 3024,
-            "same": 45
-        },
-        {
-            "source": "주먹왕 랄프",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4035,
-            "same": 59
-        },
-        {
-            "source": "코러스",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4142,
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "쥬만지",
+            "value": 3.372681281618887,
+            "total": 1779,
             "same": 60
         },
         {
-            "source": "블라인드 사이드",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 5249,
-            "same": 76
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "토이 스토리",
+            "value": 3.3172496984318456,
+            "total": 1658,
+            "same": 55
         },
         {
-            "source": "헬프",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4347,
-            "same": 62
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "터미네이터",
+            "value": 3.1939605110336817,
+            "total": 1722,
+            "same": 55
         },
         {
-            "source": "글래디에이터",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4800,
-            "same": 68
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "니모를 찾아서 3D",
+            "value": 3.1334413830361965,
+            "total": 1851,
+            "same": 58
         },
         {
-            "source": "쉰들러 리스트",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4311,
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "미녀와 야수",
+            "value": 3.125,
+            "total": 1024,
+            "same": 32
+        },
+        {
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "토이 스토리 2",
+            "value": 3.1055900621118013,
+            "total": 1288,
+            "same": 40
+        },
+        {
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "인어 공주",
+            "value": 3.0338389731621938,
+            "total": 857,
+            "same": 26
+        },
+        {
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "에이리언 2",
+            "value": 3.0153237765694514,
+            "total": 2023,
             "same": 61
         },
         {
-            "source": "미스 슬로운",
-            "target": "쥬라기 공원",
-            "value": 2,
-            "total": 3049,
-            "same": 43
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "록키",
+            "value": 3.0147530468248878,
+            "total": 1559,
+            "same": 47
         },
         {
-            "source": "사운드 오브 뮤직",
-            "target": "미스 슬로운",
-            "value": 2,
-            "total": 4944,
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "프리 윌리",
+            "value": 2.9831387808041505,
+            "total": 771,
+            "same": 23
+        },
+        {
+            "source": "아기공룡 둘리 - 얼음별 대모험",
+            "target": "오세암",
+            "value": 2.952503209242619,
+            "total": 2337,
             "same": 69
         }
     ],
     "nodes": [
         {
-            "id": "원더",
+            "id": "에이리언 2",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=151196",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "스티븐 크보스키"
-            ],
-            "actor": [
-                "제이콥 트렘블레이",
-                "줄리아 로버츠",
-                "오웬 윌슨"
-            ]
-        },
-        {
-            "id": "매트릭스",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
             "genre": [
                 "SF",
+                "공포",
+                "스릴러",
                 "액션"
             ],
             "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
+                "제임스 카메론"
             ],
             "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
             ]
         },
         {
-            "id": "사운드 오브 뮤직",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=10102",
+            "id": "알라딘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=163788",
             "genre": [
-                "멜로/로맨스",
-                "뮤지컬",
-                "드라마"
-            ],
-            "director": [
-                "로버트 와이즈"
-            ],
-            "actor": [
-                "줄리 앤드류스",
-                "크리스토퍼 플러머",
-                "엘레노 파커"
-            ]
-        },
-        {
-            "id": "헬프",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=82432",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "테이트 테일러"
-            ],
-            "actor": [
-                "엠마 스톤",
-                "비올라 데이비스",
-                "옥타비아 스펜서"
-            ]
-        },
-        {
-            "id": "글래디에이터",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "리들리 스콧"
-            ],
-            "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "히든 피겨스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=147092",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "데오도르 멜피"
-            ],
-            "actor": [
-                "타라지 P. 헨슨",
-                "옥타비아 스펜서",
-                "자넬 모네"
-            ]
-        },
-        {
-            "id": "쉰들러 리스트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=14450",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "리암 니슨"
-            ]
-        },
-        {
-            "id": "굿 윌 헌팅",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
-            ]
-        },
-        {
-            "id": "주먹왕 랄프",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=87307",
-            "genre": [
-                "애니메이션",
-                "코미디",
-                "가족"
-            ],
-            "director": [
-                "리치 무어"
-            ],
-            "actor": [
-                "존 C. 라일리",
-                "사라 실버맨",
-                "잭 맥브레이어"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "빌리 엘리어트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=31013",
-            "genre": [
-                "드라마",
+                "모험",
                 "가족",
-                "코미디"
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
             ],
             "director": [
-                "스티븐 달드리"
+                "가이 리치"
             ],
             "actor": [
-                "제이미 벨",
-                "줄리 월터스",
-                "게리 루이스"
+                "메나 마수드",
+                "윌 스미스",
+                "나오미 스콧"
             ]
         },
         {
             "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "group": 6,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=12270",
             "genre": [
                 "모험",
@@ -334,52 +175,44 @@
             ]
         },
         {
-            "id": "바이센테니얼 맨",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=28788",
+            "id": "아기공룡 둘리 - 얼음별 대모험",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17441",
             "genre": [
-                "SF",
-                "드라마"
+                "애니메이션",
+                "가족",
+                "코미디",
+                "모험",
+                "뮤지컬"
             ],
             "director": [
-                "크리스 콜럼버스"
+                "김수정",
+                "임경원"
             ],
             "actor": [
-                "로빈 윌리엄스"
+                "박영남",
+                "이인성"
             ]
         },
         {
-            "id": "블라인드 사이드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "id": "오세암",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34181",
             "genre": [
+                "애니메이션",
                 "드라마"
             ],
             "director": [
-                "존 리 행콕"
+                "성백엽"
             ],
             "actor": [
-                "산드라 블록"
-            ]
-        },
-        {
-            "id": "미스 슬로운",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=142632",
-            "genre": [
-                "드라마",
-                "스릴러"
-            ],
-            "director": [
-                "존 매든"
-            ],
-            "actor": [
-                "제시카 차스테인"
+                "김서영",
+                "박선영"
             ]
         },
         {
             "id": "쥬라기 공원",
-            "group": 2,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=13500",
             "genre": [
                 "SF",
@@ -394,38 +227,242 @@
                 "로라 던",
                 "제프 골드브럼"
             ]
+        },
+        {
+            "id": "토이 스토리",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "타잔",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=25266",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험"
+            ],
+            "director": [
+                "케빈 리마",
+                "크리스 벅"
+            ],
+            "actor": [
+                "토니 골드윈",
+                "미니 드라이버"
+            ]
+        },
+        {
+            "id": "프리 윌리",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16466",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "사이먼 윈서"
+            ],
+            "actor": [
+                "케이코",
+                "제이슨 제임스 리처",
+                "로리 페티"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "토이 스토리 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=27578",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조안 쿠삭"
+            ]
+        },
+        {
+            "id": "미녀와 야수",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13172",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지",
+                "멜로/로맨스",
+                "뮤지컬"
+            ],
+            "director": [
+                "게리 트러스데일",
+                "커크 와이즈"
+            ],
+            "actor": [
+                "페이지 오하라",
+                "로비 벤슨"
+            ]
+        },
+        {
+            "id": "니모를 찾아서 3D",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=32116",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "앨버트 브룩스",
+                "엘런 드제너러스",
+                "알렉산더 굴드"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        },
+        {
+            "id": "인어 공주",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10669",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "존 머스커",
+                "론 클레멘츠"
+            ],
+            "actor": [
+                "린 어벌조노이스",
+                "버디 해킷",
+                "크리스토퍼 다니엘 반즈"
+            ]
         }
     ],
     "genre_data": [
         {
-            "title": "드라마",
+            "title": "SF",
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "모험",
             "group": 2
         },
         {
-            "title": "멜로/로맨스",
+            "title": "애니메이션",
             "group": 3
         },
         {
-            "title": "액션",
+            "title": "드라마",
             "group": 4
         },
         {
-            "title": "애니메이션",
+            "title": "가족",
             "group": 5
-        },
-        {
-            "title": "모험",
-            "group": 6
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 6
+            "movie_n": 251,
+            "genre_n": 5
         }
     ]
 }

@@ -5,13 +5,16 @@ import numpy as np
 import json
 import math
 client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
-db = client.dbProject
+db = client.dbProject1
 
-data = np.zeros((101,101), dtype=float)
 
-for index in range(1,101):
+
+for index in range(1,251):
     print(index)
-
+    if index == 209:
+        continue
+    if index == 245:
+        continue
     data_json = {}
     data_json['links'] = []
     data_json['nodes'] = []
@@ -19,11 +22,15 @@ for index in range(1,101):
     data_json['data'] = []
 
     temp_list = db.compare_movie.find({},{'_id':False})
-    check = [0]*101
-    movie_name = ['']*101
+    check = [0]*251
+    movie_name = ['']*251
     array1 = []
 
     for x in temp_list:
+        if x['movie1'] == '밴디트' or x['movie2'] == '밴디트':
+            continue
+        if x['movie1'] == '아메리칸 히스토리 X' or x['movie2'] == '아메리칸 히스토리 X':
+            continue
         if x['movie1'] == x['movie2']:
             continue
         if x['movie1_id'] == index or x['movie2_id'] == index:
@@ -43,7 +50,7 @@ for index in range(1,101):
         data_json['links'].append({
             'source':array1[i][1],
             'target':array1[i][2],
-            'value':math.round(array1[i][0]),
+            'value':array1[i][0],
             'total':array1[i][3],
             'same':array1[i][4]
         })

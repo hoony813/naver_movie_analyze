@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "빽 투 더 퓨쳐",
-            "target": "매트릭스",
-            "value": 11,
-            "total": 6014,
-            "same": 636
+            "source": "글래디에이터",
+            "target": "라이언 일병 구하기",
+            "value": 12.54701369038664,
+            "total": 6647,
+            "same": 834
+        },
+        {
+            "source": "매트릭스",
+            "target": "라이언 일병 구하기",
+            "value": 11.657738934310686,
+            "total": 7094,
+            "same": 827
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "라이언 일병 구하기",
+            "value": 11.622354856212697,
+            "total": 9215,
+            "same": 1071
+        },
+        {
+            "source": "더 록",
+            "target": "라이언 일병 구하기",
+            "value": 11.313536163235561,
+            "total": 5489,
+            "same": 621
+        },
+        {
+            "source": "살인의 추억",
+            "target": "라이언 일병 구하기",
+            "value": 10.9720885466795,
+            "total": 8312,
+            "same": 912
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "라이언 일병 구하기",
+            "value": 10.810190498049115,
+            "total": 8714,
+            "same": 942
+        },
+        {
+            "source": "브레이브하트",
+            "target": "라이언 일병 구하기",
+            "value": 10.773584905660377,
+            "total": 5300,
+            "same": 571
         },
         {
             "source": "터미네이터 2",
-            "target": "빽 투 더 퓨쳐",
-            "value": 10,
-            "total": 7714,
-            "same": 747
+            "target": "라이언 일병 구하기",
+            "value": 10.747139331388826,
+            "total": 8914,
+            "same": 958
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "라이언 일병 구하기",
+            "value": 10.714285714285714,
+            "total": 6328,
+            "same": 678
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "라이언 일병 구하기",
+            "value": 10.403473855617875,
+            "total": 5527,
+            "same": 575
+        },
+        {
+            "source": "공공의 적",
+            "target": "라이언 일병 구하기",
+            "value": 10.379698530814728,
+            "total": 5241,
+            "same": 544
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "라이언 일병 구하기",
+            "value": 10.375860243515088,
+            "total": 5667,
+            "same": 588
         },
         {
             "source": "나 홀로 집에",
-            "target": "빽 투 더 퓨쳐",
-            "value": 10,
-            "total": 5603,
-            "same": 518
+            "target": "라이언 일병 구하기",
+            "value": 10.37214168285757,
+            "total": 6691,
+            "same": 694
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "빽 투 더 퓨쳐",
-            "value": 9,
-            "total": 5869,
-            "same": 528
+            "source": "트루먼 쇼",
+            "target": "라이언 일병 구하기",
+            "value": 10.274537527983975,
+            "total": 8487,
+            "same": 872
         },
         {
-            "source": "빽 투 더 퓨쳐",
-            "target": "글래디에이터",
-            "value": 9,
-            "total": 5733,
-            "same": 511
+            "source": "프리퀀시",
+            "target": "라이언 일병 구하기",
+            "value": 10.256410256410255,
+            "total": 8112,
+            "same": 832
         },
         {
-            "source": "빽 투 더 퓨쳐",
-            "target": "반지의 제왕: 두 개의 탑",
-            "value": 9,
-            "total": 4633,
-            "same": 408
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "시네마 천국",
-            "value": 9,
-            "total": 5324,
-            "same": 463
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "더 록",
-            "value": 9,
-            "total": 4531,
-            "same": 389
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "쥬라기 공원",
-            "value": 9,
-            "total": 4118,
-            "same": 350
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "굿바이 마이 프랜드",
-            "value": 9,
-            "total": 4571,
-            "same": 384
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "쉰들러 리스트",
-            "value": 9,
-            "total": 5305,
-            "same": 443
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "포레스트 검프",
-            "value": 9,
-            "total": 8242,
-            "same": 688
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "트루먼 쇼",
-            "value": 9,
-            "total": 7444,
-            "same": 619
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "캐스트 어웨이",
-            "value": 9,
-            "total": 4653,
-            "same": 384
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "프리퀀시",
-            "value": 9,
-            "total": 7070,
-            "same": 579
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "아마데우스",
-            "value": 9,
-            "total": 4884,
-            "same": 398
+            "source": "피아니스트",
+            "target": "라이언 일병 구하기",
+            "value": 10.247223217484773,
+            "total": 8373,
+            "same": 858
         }
     ],
     "nodes": [
@@ -168,23 +168,6 @@
             ]
         },
         {
-            "id": "빽 투 더 퓨쳐",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10002",
-            "genre": [
-                "SF",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "마이클 J. 폭스",
-                "크리스토퍼 로이드",
-                "리 톰슨"
-            ]
-        },
-        {
             "id": "매트릭스",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=24452",
@@ -235,35 +218,41 @@
             ]
         },
         {
-            "id": "캐스트 어웨이",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "id": "살인의 추억",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
             "genre": [
-                "드라마",
-                "모험"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스",
-                "헬렌 헌트"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
                 "드라마"
             ],
             "director": [
-                "피터 호튼"
+                "봉준호"
             ],
             "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
             ]
         },
         {
@@ -282,24 +271,8 @@
             ]
         },
         {
-            "id": "아마데우스",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "밀로스 포만"
-            ],
-            "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
-            ]
-        },
-        {
             "id": "반지의 제왕: 두 개의 탑",
-            "group": 6,
+            "group": 7,
             "href": "/movie/bi/mi/basic.nhn?code=31795",
             "genre": [
                 "판타지",
@@ -317,7 +290,7 @@
         },
         {
             "id": "트루먼 쇼",
-            "group": 7,
+            "group": 8,
             "href": "/movie/bi/mi/basic.nhn?code=19099",
             "genre": [
                 "코미디",
@@ -349,7 +322,7 @@
         },
         {
             "id": "프리퀀시",
-            "group": 8,
+            "group": 6,
             "href": "/movie/bi/mi/basic.nhn?code=29657",
             "genre": [
                 "범죄",
@@ -366,38 +339,71 @@
             ]
         },
         {
-            "id": "쥬라기 공원",
+            "id": "피아니스트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
             "genre": [
                 "SF",
-                "액션",
-                "모험"
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
             ],
             "director": [
                 "스티븐 스필버그"
             ],
             "actor": [
-                "샘 닐",
-                "로라 던",
-                "제프 골드브럼"
+                "톰 크루즈"
             ]
         },
         {
-            "id": "시네마 천국",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
             "genre": [
-                "드라마",
-                "멜로/로맨스"
+                "범죄",
+                "액션"
             ],
             "director": [
-                "쥬세페 토르나토레"
+                "강우석"
             ],
             "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
+                "설경구",
+                "이성재"
             ]
         }
     ],
@@ -423,21 +429,21 @@
             "group": 5
         },
         {
-            "title": "판타지",
+            "title": "범죄",
             "group": 6
         },
         {
-            "title": "코미디",
+            "title": "판타지",
             "group": 7
         },
         {
-            "title": "범죄",
+            "title": "코미디",
             "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 8
         }
     ]

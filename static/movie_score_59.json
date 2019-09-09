@@ -1,301 +1,142 @@
 {
     "links": [
         {
-            "source": "폴란드로 간 아이들",
-            "target": "시네마 천국",
-            "value": 1,
-            "total": 3559,
-            "same": 34
+            "source": "인어 공주",
+            "target": "알라딘",
+            "value": 10.698198198198199,
+            "total": 888,
+            "same": 95
         },
         {
-            "source": "굿바이 마이 프랜드",
-            "target": "폴란드로 간 아이들",
-            "value": 1,
-            "total": 2736,
-            "same": 25
+            "source": "미녀와 야수",
+            "target": "알라딘",
+            "value": 9.990485252140818,
+            "total": 1051,
+            "same": 105
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "코러스",
-            "value": 1,
-            "total": 3355,
-            "same": 29
+            "source": "뮬란",
+            "target": "알라딘",
+            "value": 7.137192704203013,
+            "total": 1261,
+            "same": 90
         },
         {
-            "source": "다시 태어나도 우리",
-            "target": "폴란드로 간 아이들",
-            "value": 1,
-            "total": 1445,
-            "same": 12
+            "source": "타잔",
+            "target": "알라딘",
+            "value": 6.981740064446831,
+            "total": 931,
+            "same": 65
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "천공의 성 라퓨타",
-            "value": 1,
-            "total": 1736,
-            "same": 14
+            "source": "알라딘",
+            "target": "토이 스토리 2",
+            "value": 5.777777777777778,
+            "total": 1350,
+            "same": 78
         },
         {
-            "source": "가버나움",
-            "target": "폴란드로 간 아이들",
-            "value": 1,
-            "total": 3248,
-            "same": 26
+            "source": "쥬라기 공원",
+            "target": "알라딘",
+            "value": 5.765845070422535,
+            "total": 2272,
+            "same": 131
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "value": 1,
-            "total": 1912,
-            "same": 15
+            "source": "토이 스토리",
+            "target": "알라딘",
+            "value": 5.652680652680653,
+            "total": 1716,
+            "same": 97
         },
         {
-            "source": "주전장",
-            "target": "폴란드로 간 아이들",
-            "value": 1,
-            "total": 1094,
-            "same": 8
+            "source": "라이온 킹",
+            "target": "알라딘",
+            "value": 5.626283367556468,
+            "total": 2435,
+            "same": 137
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "아이언 자이언트",
-            "value": 1,
-            "total": 2211,
-            "same": 16
+            "source": "알라딘",
+            "target": "사랑과 영혼",
+            "value": 5.267295597484277,
+            "total": 1272,
+            "same": 67
         },
         {
-            "source": "서유기 2 - 선리기연",
-            "target": "폴란드로 간 아이들",
-            "value": 1,
-            "total": 3664,
-            "same": 26
+            "source": "다이 하드",
+            "target": "알라딘",
+            "value": 5.110602593440122,
+            "total": 1311,
+            "same": 67
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "빌리 엘리어트",
-            "value": 1,
-            "total": 3368,
-            "same": 23
+            "source": "알라딘",
+            "target": "터미네이터",
+            "value": 5.09518477043673,
+            "total": 1786,
+            "same": 91
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "아이 엠 샘",
-            "value": 1,
-            "total": 3127,
-            "same": 21
+            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "target": "알라딘",
+            "value": 5.0181065700982925,
+            "total": 1933,
+            "same": 97
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "모던 타임즈",
-            "value": 1,
-            "total": 1539,
-            "same": 10
+            "source": "알라딘",
+            "target": "크림슨 타이드",
+            "value": 5.008944543828265,
+            "total": 1118,
+            "same": 56
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "블라인드 사이드",
-            "value": 1,
-            "total": 4478,
-            "same": 29
+            "source": "알라딘",
+            "target": "쥬만지",
+            "value": 4.981050351922036,
+            "total": 1847,
+            "same": 92
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "일급 살인",
-            "value": 1,
-            "total": 1732,
-            "same": 11
+            "source": "빽 투 더 퓨쳐 2",
+            "target": "알라딘",
+            "value": 4.881450488145049,
+            "total": 1434,
+            "same": 70
         },
         {
-            "source": "폴란드로 간 아이들",
-            "target": "퀸 락 몬트리올",
-            "value": 1,
-            "total": 789,
-            "same": 5
+            "source": "알라딘",
+            "target": "니모를 찾아서 3D",
+            "value": 4.853862212943633,
+            "total": 1916,
+            "same": 93
         }
     ],
     "nodes": [
         {
-            "id": "가버나움",
+            "id": "알라딘",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=174830",
+            "href": "/movie/bi/mi/basic.nhn?code=163788",
             "genre": [
-                "드라마"
-            ],
-            "director": [
-                "나딘 라바키"
-            ],
-            "actor": [
-                "자인 알 라피아",
-                "요르다노스 시프로우"
-            ]
-        },
-        {
-            "id": "주전장",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=179518",
-            "genre": [
-                "다큐멘터리"
-            ],
-            "director": [
-                "미키 데자키"
-            ],
-            "actor": [
-                "전체 관람가"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "서유기 2 - 선리기연",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=18543",
-            "genre": [
-                "코미디",
-                "액션",
                 "모험",
+                "가족",
                 "판타지",
+                "뮤지컬",
                 "멜로/로맨스"
             ],
             "director": [
-                "유진위"
+                "가이 리치"
             ],
             "actor": [
-                "주성치",
-                "주인"
-            ]
-        },
-        {
-            "id": "다시 태어나도 우리",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=154573",
-            "genre": [
-                "다큐멘터리"
-            ],
-            "director": [
-                "문창용",
-                "전진"
-            ],
-            "actor": [
-                "파드마 앙뚜",
-                "우르갼 릭젠"
-            ]
-        },
-        {
-            "id": "폴란드로 간 아이들",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=178434",
-            "genre": [
-                "다큐멘터리",
-                "드라마"
-            ],
-            "director": [
-                "추상미"
-            ],
-            "actor": [
-                "이송",
-                "추상미"
-            ]
-        },
-        {
-            "id": "아이언 자이언트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=25915",
-            "genre": [
-                "애니메이션",
-                "SF",
-                "액션",
-                "가족"
-            ],
-            "director": [
-                "브래드 버드"
-            ],
-            "actor": [
-                "제니퍼 애니스톤",
-                "엘리 마리엔탈",
-                "해리 코닉 주니어"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "모던 타임즈",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=10249",
-            "genre": [
-                "코미디"
-            ],
-            "director": [
-                "찰리 채플린"
-            ],
-            "actor": [
-                "찰리 채플린",
-                "파울레트 고다드"
-            ]
-        },
-        {
-            "id": "빌리 엘리어트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=31013",
-            "genre": [
-                "드라마",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "스티븐 달드리"
-            ],
-            "actor": [
-                "제이미 벨",
-                "줄리 월터스",
-                "게리 루이스"
+                "메나 마수드",
+                "윌 스미스",
+                "나오미 스콧"
             ]
         },
         {
             "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "group": 5,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=12270",
             "genre": [
                 "모험",
@@ -315,113 +156,309 @@
             ]
         },
         {
-            "id": "블라인드 사이드",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "id": "쥬라기 공원",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
             "genre": [
-                "드라마"
-            ],
-            "director": [
-                "존 리 행콕"
-            ],
-            "actor": [
-                "산드라 블록"
-            ]
-        },
-        {
-            "id": "일급 살인",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17869",
-            "genre": [
-                "드라마",
-                "범죄"
-            ],
-            "director": [
-                "마크 로코"
-            ],
-            "actor": [
-                "크리스찬 슬레이터",
-                "케빈 베이컨",
-                "게리 올드만"
-            ]
-        },
-        {
-            "id": "천공의 성 라퓨타",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=18782",
-            "genre": [
-                "애니메이션",
-                "판타지",
+                "SF",
+                "액션",
                 "모험"
             ],
             "director": [
-                "미야자키 하야오"
+                "스티븐 스필버그"
             ],
             "actor": [
-                "타나카 마유미",
-                "요코자와 케이코",
-                "하츠이 코토에"
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
             ]
         },
         {
-            "id": "시네마 천국",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "id": "토이 스토리",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
             "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "라이온 킹",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=16521",
+            "genre": [
+                "애니메이션",
+                "모험",
                 "드라마",
+                "가족"
+            ],
+            "director": [
+                "로저 알러스",
+                "롭 민코프"
+            ],
+            "actor": [
+                "조나단 테일러 토마스",
+                "매튜 브로데릭",
+                "제임스 얼 존스"
+            ]
+        },
+        {
+            "id": "타잔",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=25266",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험"
+            ],
+            "director": [
+                "케빈 리마",
+                "크리스 벅"
+            ],
+            "actor": [
+                "토니 골드윈",
+                "미니 드라이버"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "토이 스토리 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=27578",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조안 쿠삭"
+            ]
+        },
+        {
+            "id": "미녀와 야수",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13172",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지",
+                "멜로/로맨스",
+                "뮤지컬"
+            ],
+            "director": [
+                "게리 트러스데일",
+                "커크 와이즈"
+            ],
+            "actor": [
+                "페이지 오하라",
+                "로비 벤슨"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "니모를 찾아서 3D",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=32116",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "앨버트 브룩스",
+                "엘런 드제너러스",
+                "알렉산더 굴드"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        },
+        {
+            "id": "인어 공주",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10669",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디",
+                "판타지",
                 "멜로/로맨스"
             ],
             "director": [
-                "쥬세페 토르나토레"
+                "존 머스커",
+                "론 클레멘츠"
             ],
             "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
+                "린 어벌조노이스",
+                "버디 해킷",
+                "크리스토퍼 다니엘 반즈"
             ]
         },
         {
-            "id": "퀸 락 몬트리올",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=54900",
+            "id": "크림슨 타이드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
             "genre": [
-                "다큐멘터리"
+                "액션",
+                "드라마",
+                "스릴러"
             ],
             "director": [
-                "솔 스위머"
+                "토니 스콧"
             ],
             "actor": [
-                "존 디콘",
-                "브라이언 메이",
-                "프레디 머큐리"
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "드라마",
+            "title": "모험",
             "group": 1
         },
         {
-            "title": "다큐멘터리",
+            "title": "SF",
             "group": 2
         },
         {
-            "title": "코미디",
+            "title": "애니메이션",
             "group": 3
         },
         {
-            "title": "애니메이션",
+            "title": "액션",
             "group": 4
         },
         {
-            "title": "모험",
+            "title": "멜로/로맨스",
             "group": 5
         }
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 5
         }
     ]

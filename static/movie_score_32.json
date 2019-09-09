@@ -1,169 +1,155 @@
 {
     "links": [
         {
-            "source": "쇼생크 탈출",
-            "target": "레옹",
-            "value": 13,
-            "total": 18384,
-            "same": 2301
+            "source": "그린 북",
+            "target": "헌터 킬러",
+            "value": 2.673980116558108,
+            "total": 8751,
+            "same": 234
         },
         {
-            "source": "인생은 아름다워",
-            "target": "레옹",
-            "value": 12,
-            "total": 14801,
-            "same": 1766
+            "source": "헌터 킬러",
+            "target": "그랜 토리노",
+            "value": 2.5798710064496775,
+            "total": 6667,
+            "same": 172
         },
         {
-            "source": "포레스트 검프",
-            "target": "레옹",
-            "value": 12,
-            "total": 12309,
-            "same": 1449
+            "source": "헌터 킬러",
+            "target": "라이언 일병 구하기",
+            "value": 2.4945612762871647,
+            "total": 6895,
+            "same": 172
         },
         {
-            "source": "터미네이터 2",
-            "target": "레옹",
-            "value": 12,
-            "total": 11956,
-            "same": 1333
-        },
-        {
-            "source": "레옹",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 11662,
-            "same": 1229
+            "source": "핵소 고지",
+            "target": "헌터 킬러",
+            "value": 2.480127186009539,
+            "total": 6290,
+            "same": 156
         },
         {
             "source": "살인의 추억",
-            "target": "레옹",
-            "value": 11,
-            "total": 11536,
-            "same": 1208
+            "target": "헌터 킬러",
+            "value": 2.4237408370773235,
+            "total": 8458,
+            "same": 205
         },
         {
-            "source": "레옹",
-            "target": "피아니스트",
-            "value": 11,
-            "total": 11539,
-            "same": 1205
-        },
-        {
-            "source": "레옹",
-            "target": "반지의 제왕: 왕의 귀환",
-            "value": 11,
-            "total": 11882,
-            "same": 1229
-        },
-        {
-            "source": "글래디에이터",
-            "target": "레옹",
-            "value": 11,
-            "total": 10039,
-            "same": 1033
-        },
-        {
-            "source": "죽은 시인의 사회",
-            "target": "레옹",
-            "value": 11,
-            "total": 12125,
-            "same": 1247
-        },
-        {
-            "source": "레옹",
-            "target": "프리퀀시",
-            "value": 11,
-            "total": 11320,
-            "same": 1157
+            "source": "본 얼티메이텀",
+            "target": "헌터 킬러",
+            "value": 2.4125452352231602,
+            "total": 9948,
+            "same": 240
         },
         {
             "source": "매트릭스",
-            "target": "레옹",
-            "value": 10,
-            "total": 10438,
-            "same": 1040
+            "target": "헌터 킬러",
+            "value": 2.392877017250974,
+            "total": 7188,
+            "same": 172
         },
         {
-            "source": "레옹",
-            "target": "지금, 만나러 갑니다",
-            "value": 10,
-            "total": 17284,
-            "same": 1706
+            "source": "헌터 킬러",
+            "target": "엽문",
+            "value": 2.3803119956966112,
+            "total": 7436,
+            "same": 177
         },
         {
-            "source": "레옹",
-            "target": "타이타닉",
-            "value": 10,
-            "total": 20968,
-            "same": 2058
+            "source": "헌터 킬러",
+            "target": "똥파리",
+            "value": 2.3537399569989814,
+            "total": 8837,
+            "same": 208
         },
         {
-            "source": "레옹",
-            "target": "다크 나이트",
-            "value": 10,
-            "total": 23328,
-            "same": 2265
+            "source": "내 이름은 칸",
+            "target": "헌터 킬러",
+            "value": 2.342878393454816,
+            "total": 8067,
+            "same": 189
         },
         {
-            "source": "레옹",
-            "target": "라따뚜이",
-            "value": 10,
-            "total": 12119,
-            "same": 1157
+            "source": "헌터 킬러",
+            "target": "킹콩을 들다",
+            "value": 2.293720809548521,
+            "total": 9635,
+            "same": 221
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "에이리언 2",
+            "value": 2.2841575859178542,
+            "total": 4772,
+            "same": 109
+        },
+        {
+            "source": "테이큰",
+            "target": "헌터 킬러",
+            "value": 2.2624819256613082,
+            "total": 11757,
+            "same": 266
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "헌터 킬러",
+            "value": 2.2513378852186747,
+            "total": 5419,
+            "same": 122
+        },
+        {
+            "source": "나비 효과",
+            "target": "헌터 킬러",
+            "value": 2.246433786364147,
+            "total": 8903,
+            "same": 200
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "스쿨 오브 락",
+            "value": 2.2435897435897436,
+            "total": 7800,
+            "same": 175
         }
     ],
     "nodes": [
         {
-            "id": "쇼생크 탈출",
+            "id": "그린 북",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17421",
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "프랭크 다라본트"
+                "피터 패럴리"
             ],
             "actor": [
-                "팀 로빈스",
-                "모건 프리먼"
+                "비고 모텐슨",
+                "마허샬라 알리"
             ]
         },
         {
-            "id": "터미네이터 2",
+            "id": "라이언 일병 구하기",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
             "genre": [
-                "SF",
+                "전쟁",
                 "액션",
-                "스릴러"
+                "드라마"
             ],
             "director": [
-                "제임스 카메론"
+                "스티븐 스필버그"
             ],
             "actor": [
-                "아놀드 슈왈제네거"
-            ]
-        },
-        {
-            "id": "인생은 아름다워",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=22126",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로베르토 베니니"
-            ],
-            "actor": [
-                "로베르토 베니니",
-                "니콜레타 브라스키"
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
             ]
         },
         {
             "id": "매트릭스",
-            "group": 2,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=24452",
             "genre": [
                 "SF",
@@ -177,38 +163,6 @@
                 "키아누 리브스",
                 "로렌스 피시번",
                 "캐리 앤 모스"
-            ]
-        },
-        {
-            "id": "포레스트 검프",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
-            "id": "글래디에이터",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "리들리 스콧"
-            ],
-            "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
             ]
         },
         {
@@ -231,174 +185,223 @@
             ]
         },
         {
-            "id": "죽은 시인의 사회",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
-            "id": "레옹",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17170",
-            "genre": [
-                "범죄",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "뤽 베송"
-            ],
-            "actor": [
-                "장 르노",
-                "나탈리 포트만"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 왕의 귀환",
+            "id": "헌터 킬러",
             "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
             "genre": [
-                "판타지",
-                "모험",
                 "액션",
-                "전쟁"
+                "스릴러"
             ],
             "director": [
-                "피터 잭슨"
+                "도노반 마시"
             ],
             "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
+                "제라드 버틀러",
+                "게리 올드만"
             ]
         },
         {
-            "id": "지금, 만나러 갑니다",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "id": "에이리언 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
             "genre": [
-                "멜로/로맨스",
-                "드라마",
-                "판타지"
-            ],
-            "director": [
-                "도이 노부히로"
-            ],
-            "actor": [
-                "다케우치 유코",
-                "나카무라 시도",
-                "다케이 아카시"
-            ]
-        },
-        {
-            "id": "타이타닉",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=18847",
-            "genre": [
-                "멜로/로맨스",
-                "드라마"
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
             ],
             "director": [
                 "제임스 카메론"
             ],
             "actor": [
-                "레오나르도 디카프리오",
-                "케이트 윈슬렛"
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
             ]
         },
         {
-            "id": "다크 나이트",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
             "genre": [
                 "액션",
-                "범죄",
-                "드라마",
-                "미스터리"
+                "미스터리",
+                "스릴러"
             ],
             "director": [
-                "크리스토퍼 놀란"
+                "폴 그린그래스"
             ],
             "actor": [
-                "크리스찬 베일",
-                "히스 레저",
-                "아론 에크하트"
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
             ]
         },
         {
-            "id": "트루먼 쇼",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "id": "마이너리티 리포트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
             "genre": [
-                "코미디",
+                "SF",
                 "드라마",
-                "SF"
+                "미스터리",
+                "범죄",
+                "액션"
             ],
             "director": [
-                "피터 위어"
+                "스티븐 스필버그"
             ],
             "actor": [
-                "짐 캐리"
+                "톰 크루즈"
             ]
         },
         {
-            "id": "프리퀀시",
+            "id": "엽문",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
             "genre": [
                 "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
                 "드라마",
                 "SF",
                 "스릴러"
             ],
             "director": [
-                "그레고리 호블릿"
+                "에릭 브레스",
+                "J. 마키에 그러버"
             ],
             "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
             ]
         },
         {
-            "id": "피아니스트",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
             "genre": [
-                "드라마",
-                "전쟁"
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
             ],
             "director": [
-                "로만 폴란스키"
+                "피에르 모렐"
             ],
             "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
-            "id": "라따뚜이",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
-            "genre": [
-                "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
-            ],
-            "director": [
-                "브래드 버드"
-            ],
-            "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "리암 니슨",
+                "매기 그레이스"
             ]
         }
     ],
@@ -408,11 +411,11 @@
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "전쟁",
             "group": 2
         },
         {
-            "title": "액션",
+            "title": "SF",
             "group": 3
         },
         {
@@ -420,22 +423,18 @@
             "group": 4
         },
         {
-            "title": "판타지",
+            "title": "액션",
             "group": 5
         },
         {
-            "title": "멜로/로맨스",
-            "group": 6
-        },
-        {
             "title": "코미디",
-            "group": 7
+            "group": 6
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 7
+            "movie_n": 251,
+            "genre_n": 6
         }
     ]
 }

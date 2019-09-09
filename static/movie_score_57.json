@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "어벤져스: 엔드게임",
-            "target": "알라딘",
-            "value": 6,
-            "total": 81591,
-            "same": 4642
+            "source": "인셉션",
+            "target": "다크 나이트",
+            "value": 17.131873102022354,
+            "total": 30954,
+            "same": 5303
         },
         {
-            "source": "보헤미안 랩소디",
-            "target": "알라딘",
-            "value": 5,
-            "total": 57246,
-            "same": 2817
+            "source": "과속스캔들",
+            "target": "다크 나이트",
+            "value": 16.471746891542534,
+            "total": 32492,
+            "same": 5352
         },
         {
             "source": "다크 나이트",
-            "target": "알라딘",
-            "value": 4,
-            "total": 40371,
-            "same": 1502
+            "target": "아저씨",
+            "value": 16.011644832605533,
+            "total": 32289,
+            "same": 5170
         },
         {
-            "source": "세 얼간이",
-            "target": "알라딘",
-            "value": 4,
-            "total": 39795,
-            "same": 1470
+            "source": "말할 수 없는 비밀",
+            "target": "다크 나이트",
+            "value": 15.710295622355577,
+            "total": 36161,
+            "same": 5681
         },
         {
-            "source": "타이타닉",
-            "target": "알라딘",
-            "value": 4,
-            "total": 37955,
-            "same": 1351
+            "source": "테이큰",
+            "target": "다크 나이트",
+            "value": 14.137473020089656,
+            "total": 24092,
+            "same": 3406
         },
         {
             "source": "쇼생크 탈출",
-            "target": "알라딘",
-            "value": 4,
-            "total": 35742,
-            "same": 1223
+            "target": "다크 나이트",
+            "value": 13.338443848217707,
+            "total": 28699,
+            "same": 3828
         },
         {
-            "source": "지금, 만나러 갑니다",
-            "target": "알라딘",
-            "value": 4,
-            "total": 34116,
-            "same": 1154
+            "source": "다크 나이트",
+            "target": "세 얼간이",
+            "value": 13.230319100301728,
+            "total": 32811,
+            "same": 4341
         },
         {
-            "source": "인생은 아름다워",
-            "target": "알라딘",
-            "value": 4,
-            "total": 31826,
-            "same": 1021
+            "source": "다크 나이트",
+            "target": "월-E",
+            "value": 12.9067518708484,
+            "total": 23786,
+            "same": 3070
         },
         {
-            "source": "알라딘",
-            "target": "해리 포터와 죽음의 성물 - 2부",
-            "value": 4,
-            "total": 31479,
-            "same": 1004
+            "source": "다크 나이트",
+            "target": "본 얼티메이텀",
+            "value": 12.73006808697562,
+            "total": 22765,
+            "same": 2898
         },
         {
-            "source": "월-E",
-            "target": "알라딘",
-            "value": 4,
-            "total": 30718,
-            "same": 938
+            "source": "해바라기",
+            "target": "다크 나이트",
+            "value": 12.480235337378193,
+            "total": 27195,
+            "same": 3394
         },
         {
-            "source": "드래곤 길들이기",
-            "target": "알라딘",
-            "value": 4,
-            "total": 29586,
-            "same": 893
+            "source": "다크 나이트",
+            "target": "라디오 스타",
+            "value": 12.143273150844497,
+            "total": 24038,
+            "same": 2919
         },
         {
-            "source": "센과 치히로의 행방불명",
-            "target": "알라딘",
-            "value": 3,
-            "total": 32913,
-            "same": 980
+            "source": "시간을 달리는 소녀",
+            "target": "다크 나이트",
+            "value": 12.051638205735763,
+            "total": 24478,
+            "same": 2950
         },
         {
-            "source": "위대한 쇼맨",
-            "target": "알라딘",
-            "value": 3,
-            "total": 35579,
-            "same": 1049
+            "source": "다크 나이트",
+            "target": "지금, 만나러 갑니다",
+            "value": 12.010529779532742,
+            "total": 27351,
+            "same": 3285
         },
         {
-            "source": "알라딘",
-            "target": "라따뚜이",
-            "value": 3,
-            "total": 28714,
-            "same": 842
+            "source": "다크 나이트",
+            "target": "타이타닉",
+            "value": 11.795523098904589,
+            "total": 31495,
+            "same": 3715
         },
         {
-            "source": "토이 스토리 3",
-            "target": "알라딘",
-            "value": 3,
-            "total": 29069,
-            "same": 838
+            "source": "다크 나이트",
+            "target": "인생은 아름다워",
+            "value": 11.484615993039625,
+            "total": 25286,
+            "same": 2904
         },
         {
-            "source": "그대를 사랑합니다",
-            "target": "알라딘",
-            "value": 3,
-            "total": 28826,
-            "same": 823
+            "source": "다크 나이트",
+            "target": "도가니",
+            "value": 11.399377680598773,
+            "total": 23782,
+            "same": 2711
         }
     ],
     "nodes": [
@@ -127,22 +127,6 @@
             "actor": [
                 "팀 로빈스",
                 "모건 프리먼"
-            ]
-        },
-        {
-            "id": "보헤미안 랩소디",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=156464",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "브라이언 싱어"
-            ],
-            "actor": [
-                "라미 말렉",
-                "루시 보인턴",
-                "귈림 리"
             ]
         },
         {
@@ -183,81 +167,8 @@
             ]
         },
         {
-            "id": "어벤져스: 엔드게임",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=136900",
-            "genre": [
-                "액션",
-                "SF"
-            ],
-            "director": [
-                "안소니 루소",
-                "조 루소"
-            ],
-            "actor": [
-                "로버트 다우니 주니어",
-                "크리스 에반스",
-                "크리스 헴스워스"
-            ]
-        },
-        {
-            "id": "토이 스토리 3",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
-            "id": "센과 치히로의 행방불명",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=32686",
-            "genre": [
-                "애니메이션",
-                "판타지",
-                "모험",
-                "가족"
-            ],
-            "director": [
-                "미야자키 하야오"
-            ],
-            "actor": [
-                "히이라기 루미",
-                "이리노 미유"
-            ]
-        },
-        {
-            "id": "위대한 쇼맨",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=106360",
-            "genre": [
-                "드라마",
-                "뮤지컬"
-            ],
-            "director": [
-                "마이클 그레이시"
-            ],
-            "actor": [
-                "휴 잭맨",
-                "잭 에프론",
-                "미셸 윌리엄스"
-            ]
-        },
-        {
             "id": "세 얼간이",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=73372",
             "genre": [
                 "코미디"
@@ -273,7 +184,7 @@
         },
         {
             "id": "지금, 만나러 갑니다",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=39636",
             "genre": [
                 "멜로/로맨스",
@@ -291,7 +202,7 @@
         },
         {
             "id": "타이타닉",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=18847",
             "genre": [
                 "멜로/로맨스",
@@ -306,45 +217,8 @@
             ]
         },
         {
-            "id": "그대를 사랑합니다",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=73476",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "추창민"
-            ],
-            "actor": [
-                "이순재",
-                "윤소정",
-                "송재호"
-            ]
-        },
-        {
-            "id": "드래곤 길들이기",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=70457",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "딘 데블로이스",
-                "크리스 샌더스"
-            ],
-            "actor": [
-                "제이 바루첼",
-                "제라드 버틀러",
-                "아메리카 페레라"
-            ]
-        },
-        {
             "id": "다크 나이트",
-            "group": 3,
+            "group": 5,
             "href": "/movie/bi/mi/basic.nhn?code=62586",
             "genre": [
                 "액션",
@@ -362,59 +236,175 @@
             ]
         },
         {
-            "id": "알라딘",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=163788",
-            "genre": [
-                "모험",
-                "가족",
-                "판타지",
-                "뮤지컬",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "가이 리치"
-            ],
-            "actor": [
-                "메나 마수드",
-                "윌 스미스",
-                "나오미 스콧"
-            ]
-        },
-        {
-            "id": "해리 포터와 죽음의 성물 - 2부",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=47528",
-            "genre": [
-                "모험",
-                "판타지",
-                "미스터리"
-            ],
-            "director": [
-                "데이빗 예이츠"
-            ],
-            "actor": [
-                "다니엘 래드클리프",
-                "엠마 왓슨",
-                "루퍼트 그린트"
-            ]
-        },
-        {
-            "id": "라따뚜이",
+            "id": "말할 수 없는 비밀",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
+            "genre": [
+                "멜로/로맨스",
+                "판타지",
+                "드라마"
+            ],
+            "director": [
+                "주걸륜"
+            ],
+            "actor": [
+                "주걸륜",
+                "계륜미",
+                "황추생"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
             "genre": [
                 "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
+                "드라마"
             ],
             "director": [
-                "브래드 버드"
+                "이준익"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "박중훈",
+                "안성기"
             ]
         }
     ],
@@ -428,26 +418,22 @@
             "group": 2
         },
         {
-            "title": "액션",
+            "title": "코미디",
             "group": 3
         },
         {
-            "title": "코미디",
+            "title": "멜로/로맨스",
             "group": 4
         },
         {
-            "title": "멜로/로맨스",
+            "title": "액션",
             "group": 5
-        },
-        {
-            "title": "모험",
-            "group": 6
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 6
+            "movie_n": 251,
+            "genre_n": 5
         }
     ]
 }

@@ -4,7 +4,7 @@ import asyncio
 from multiprocessing import Pool
 from pymongo import MongoClient           # pymongo를 임포트 하기(패키지 인스톨 먼저 해야겠죠?)
 client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
-db = client.dbProject
+db = client.dbProject1
 
 
 headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36'}
@@ -13,7 +13,6 @@ def user_get(movie):
     mt = movie['title']
     print("{} 시작".format(mt))
     npages = int(movie['pages'])
-    movie = db.naver_movie_list.find_one({'title': mt}, {'_id': False})
     new_str = movie['href']
     code_str = new_str.replace('/movie/bi/mi/basic.nhn?code=', '')
 
@@ -34,13 +33,13 @@ def user_get(movie):
                     dic_temp = {"userId":name.text, "point":rvpoint.text}
                     docs_user_list.append(dic_temp)
 
-    docs_movie_users = {'title': mt, 'user_list': docs_user_list}
+    docs_movie_users = {'title': mt, 'href':movie['href'], 'user_list': docs_user_list}
     db.movie_user_list.insert_one(docs_movie_users)
     print("{} 끝!!!".format(mt))
 
 if __name__=='__main__':
-    movie_list = db.easy_movie_list_w_pages.find_one({}, {'_id': False})
-    pool = Pool(processes=2)
+    movie_list = db.easy_movie_list.find_one({}, {'_id': False})
+    pool = Pool(processes=4)
     pool.map(user_get,movie_list['list'])
 
 

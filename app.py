@@ -6,16 +6,15 @@ app = Flask(__name__)
 
 
 ## HTML을 주는 부분
+
+
+
 @app.route('/')
-def home():
-    return 'This is Home!'
-
-
-
-@app.route('/mypage')
 def mypage():
 
-    return render_template('prac_menu.html')
+    return render_template('Prac_other_menu_card.html')
+
+
 
 
 
@@ -25,10 +24,31 @@ def post():
         pass
     if request.method == 'GET':
         temp = request.args.get('id')
-        #1
         temp1 = 'movie_score_'+temp+'.json'
         print(temp1)
         return render_template('movie_score.html',num=temp, temp1=temp1)
+
+@app.route('/info', methods=['POST','GET'])
+def movie_info():
+    if request.method == 'POST':
+        pass
+    if request.method == 'GET':
+        temp1 = request.args.get('id')
+        print(temp1)
+        return render_template('print_movie_info.html',temp1=temp1)
+
+@app.route('/infos', methods=['POST','GET'])
+def get_info():
+    if request.method == 'POST':
+        pass
+    if request.method == 'GET':
+        temp1 = request.args.get('id1')
+        temp2 = request.args.get('id2')
+        print(temp1)
+        print(temp2)
+        temp3 = request.args.get('total')
+        temp4 = request.args.get('same')
+        return render_template('print_card_info.html',temp1=temp1,temp2=temp2,temp3=temp3,temp4=temp4)
 
 
 

@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "터미네이터 2",
-            "target": "매트릭스",
-            "value": 13,
-            "total": 8661,
-            "same": 1068
-        },
-        {
             "source": "매트릭스",
-            "target": "글래디에이터",
-            "value": 13,
-            "total": 6699,
-            "same": 813
-        },
-        {
-            "source": "매트릭스",
-            "target": "반지의 제왕: 왕의 귀환",
-            "value": 12,
-            "total": 8562,
-            "same": 989
-        },
-        {
-            "source": "라이언 일병 구하기",
-            "target": "매트릭스",
-            "value": 12,
-            "total": 6884,
-            "same": 781
-        },
-        {
-            "source": "매트릭스",
-            "target": "살인의 추억",
-            "value": 12,
-            "total": 8255,
-            "same": 929
-        },
-        {
-            "source": "매트릭스",
-            "target": "포레스트 검프",
-            "value": 11,
-            "total": 9190,
-            "same": 1008
-        },
-        {
-            "source": "매트릭스",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8413,
-            "same": 918
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "매트릭스",
-            "value": 11,
-            "total": 6665,
-            "same": 724
-        },
-        {
-            "source": "매트릭스",
-            "target": "반지의 제왕: 두 개의 탑",
-            "value": 11,
-            "total": 5699,
-            "same": 610
-        },
-        {
-            "source": "빽 투 더 퓨쳐",
-            "target": "매트릭스",
-            "value": 11,
-            "total": 6014,
-            "same": 636
-        },
-        {
-            "source": "매트릭스",
-            "target": "더 록",
-            "value": 11,
-            "total": 5599,
-            "same": 589
-        },
-        {
-            "source": "매트릭스",
-            "target": "피아니스트",
-            "value": 11,
-            "total": 8346,
-            "same": 838
-        },
-        {
-            "source": "매트릭스",
-            "target": "레옹",
-            "value": 10,
-            "total": 10438,
-            "same": 1040
-        },
-        {
-            "source": "매트릭스",
-            "target": "프리퀀시",
-            "value": 10,
-            "total": 8117,
-            "same": 800
-        },
-        {
-            "source": "인생은 아름다워",
-            "target": "매트릭스",
-            "value": 10,
-            "total": 11863,
+            "target": "터미네이터 2",
+            "value": 12.68152089568784,
+            "total": 9021,
             "same": 1144
         },
         {
             "source": "매트릭스",
-            "target": "굿 윌 헌팅",
-            "value": 10,
-            "total": 6960,
-            "same": 668
+            "target": "글래디에이터",
+            "value": 12.519901577652337,
+            "total": 6909,
+            "same": 865
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "매트릭스",
+            "value": 11.962637857303623,
+            "total": 8886,
+            "same": 1063
+        },
+        {
+            "source": "매트릭스",
+            "target": "라이언 일병 구하기",
+            "value": 11.657738934310686,
+            "total": 7094,
+            "same": 827
+        },
+        {
+            "source": "매트릭스",
+            "target": "살인의 추억",
+            "value": 11.636363636363637,
+            "total": 8525,
+            "same": 992
+        },
+        {
+            "source": "매트릭스",
+            "target": "포레스트 검프",
+            "value": 11.264198569625579,
+            "total": 9508,
+            "same": 1071
+        },
+        {
+            "source": "매트릭스",
+            "target": "나 홀로 집에",
+            "value": 11.243117936829904,
+            "total": 6902,
+            "same": 776
+        },
+        {
+            "source": "매트릭스",
+            "target": "본 얼티메이텀",
+            "value": 11.108875025155967,
+            "total": 9938,
+            "same": 1104
+        },
+        {
+            "source": "매트릭스",
+            "target": "나비 효과",
+            "value": 11.040481766477082,
+            "total": 8967,
+            "same": 990
+        },
+        {
+            "source": "매트릭스",
+            "target": "트루먼 쇼",
+            "value": 11.01909362778928,
+            "total": 8694,
+            "same": 958
+        },
+        {
+            "source": "매트릭스",
+            "target": "반지의 제왕: 반지 원정대",
+            "value": 10.980158138147099,
+            "total": 6703,
+            "same": 736
+        },
+        {
+            "source": "매트릭스",
+            "target": "가위손",
+            "value": 10.9255079006772,
+            "total": 6645,
+            "same": 726
+        },
+        {
+            "source": "매트릭스",
+            "target": "더 록",
+            "value": 10.893661240041567,
+            "total": 5774,
+            "same": 629
+        },
+        {
+            "source": "매트릭스",
+            "target": "반지의 제왕: 두 개의 탑",
+            "value": 10.870301388418557,
+            "total": 5906,
+            "same": 642
+        },
+        {
+            "source": "빽 투 더 퓨쳐",
+            "target": "매트릭스",
+            "value": 10.829975825946816,
+            "total": 6205,
+            "same": 672
+        },
+        {
+            "source": "매트릭스",
+            "target": "마이너리티 리포트",
+            "value": 10.659283613081847,
+            "total": 5779,
+            "same": 616
         }
     ],
     "nodes": [
@@ -185,22 +185,6 @@
             ]
         },
         {
-            "id": "인생은 아름다워",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=22126",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로베르토 베니니"
-            ],
-            "actor": [
-                "로베르토 베니니",
-                "니콜레타 브라스키"
-            ]
-        },
-        {
             "id": "매트릭스",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=24452",
@@ -270,23 +254,6 @@
             ]
         },
         {
-            "id": "레옹",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=17170",
-            "genre": [
-                "범죄",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "뤽 베송"
-            ],
-            "actor": [
-                "장 르노",
-                "나탈리 포트만"
-            ]
-        },
-        {
             "id": "반지의 제왕: 왕의 귀환",
             "group": 7,
             "href": "/movie/bi/mi/basic.nhn?code=31796",
@@ -303,20 +270,6 @@
                 "일라이저 우드",
                 "숀 애스틴",
                 "앤디 서키스"
-            ]
-        },
-        {
-            "id": "굿 윌 헌팅",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "구스 반 산트"
-            ],
-            "actor": [
-                "맷 데이먼"
             ]
         },
         {
@@ -370,37 +323,93 @@
             ]
         },
         {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "id": "반지의 제왕: 반지 원정대",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=31794",
             "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "리브 타일러"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
                 "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
                 "드라마",
                 "SF",
                 "스릴러"
             ],
             "director": [
-                "그레고리 호블릿"
+                "에릭 브레스",
+                "J. 마키에 그러버"
             ],
             "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "피아니스트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
             ]
         }
     ],
@@ -440,7 +449,7 @@
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 8
         }
     ]

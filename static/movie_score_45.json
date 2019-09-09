@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "언터처블: 1%의 우정",
-            "target": "내 이름은 칸",
-            "value": 11,
-            "total": 9961,
-            "same": 999
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "드래곤 길들이기",
-            "value": 10,
-            "total": 11678,
-            "same": 1162
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "그대를 사랑합니다",
-            "value": 10,
-            "total": 10930,
-            "same": 1080
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "해리 포터와 죽음의 성물 - 2부",
-            "value": 10,
-            "total": 13547,
-            "same": 1297
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "라따뚜이",
-            "value": 10,
-            "total": 10892,
-            "same": 1025
-        },
-        {
-            "source": "인생은 아름다워",
+            "source": "도가니",
             "target": "언터처블: 1%의 우정",
-            "value": 10,
-            "total": 13918,
-            "same": 1290
+            "value": 10.834841450940278,
+            "total": 12709,
+            "same": 1377
         },
         {
-            "source": "세 얼간이",
+            "source": "언터처블: 1%의 우정",
+            "target": "킹콩을 들다",
+            "value": 10.329520232200785,
+            "total": 11714,
+            "same": 1210
+        },
+        {
+            "source": "테이큰",
             "target": "언터처블: 1%의 우정",
-            "value": 10,
-            "total": 21644,
-            "same": 1982
+            "value": 10.257908964711039,
+            "total": 13687,
+            "same": 1404
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "언터처블: 1%의 우정",
+            "value": 10.144927536231885,
+            "total": 10281,
+            "same": 1043
+        },
+        {
+            "source": "드래곤 길들이기",
+            "target": "언터처블: 1%의 우정",
+            "value": 10.110217949780392,
+            "total": 12067,
+            "same": 1220
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "언터처블: 1%의 우정",
+            "value": 10.049452490286118,
+            "total": 11324,
+            "same": 1138
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "언터처블: 1%의 우정",
+            "value": 9.84421610871727,
+            "total": 12068,
+            "same": 1188
+        },
+        {
+            "source": "언터처블: 1%의 우정",
+            "target": "라디오 스타",
+            "value": 9.73678256278754,
+            "total": 13259,
+            "same": 1291
+        },
+        {
+            "source": "해리 포터와 죽음의 성물 - 2부",
+            "target": "언터처블: 1%의 우정",
+            "value": 9.673726388093876,
+            "total": 13976,
+            "same": 1352
+        },
+        {
+            "source": "시간을 달리는 소녀",
+            "target": "언터처블: 1%의 우정",
+            "value": 9.626331922347102,
+            "total": 13702,
+            "same": 1319
+        },
+        {
+            "source": "라따뚜이",
+            "target": "언터처블: 1%의 우정",
+            "value": 9.409561184445238,
+            "total": 11212,
+            "same": 1055
+        },
+        {
+            "source": "언터처블: 1%의 우정",
+            "target": "인생은 아름다워",
+            "value": 9.330839567747299,
+            "total": 14436,
+            "same": 1347
         },
         {
             "source": "토이 스토리 3",
             "target": "언터처블: 1%의 우정",
-            "value": 10,
-            "total": 11244,
-            "same": 1024
-        },
-        {
-            "source": "월-E",
-            "target": "언터처블: 1%의 우정",
-            "value": 10,
-            "total": 12856,
-            "same": 1161
+            "value": 9.251595102603897,
+            "total": 11598,
+            "same": 1073
         },
         {
             "source": "언터처블: 1%의 우정",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 9344,
-            "same": 826
+            "target": "월-E",
+            "value": 9.246937849690005,
+            "total": 13226,
+            "same": 1223
         },
         {
-            "source": "포레스트 검프",
-            "target": "언터처블: 1%의 우정",
-            "value": 9,
-            "total": 11413,
-            "same": 986
-        },
-        {
-            "source": "반지의 제왕: 왕의 귀환",
-            "target": "언터처블: 1%의 우정",
-            "value": 9,
-            "total": 10824,
+            "source": "언터처블: 1%의 우정",
+            "target": "스쿨 오브 락",
+            "value": 9.17449332674246,
+            "total": 10115,
             "same": 928
         },
         {
-            "source": "언터처블: 1%의 우정",
-            "target": "프리퀀시",
-            "value": 9,
-            "total": 10241,
-            "same": 877
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "라푼젤",
-            "value": 9,
-            "total": 10855,
-            "same": 924
-        },
-        {
-            "source": "지금, 만나러 갑니다",
+            "source": "과속스캔들",
             "target": "언터처블: 1%의 우정",
-            "value": 9,
-            "total": 16263,
-            "same": 1368
-        },
-        {
-            "source": "언터처블: 1%의 우정",
-            "target": "피아니스트",
-            "value": 9,
-            "total": 10502,
-            "same": 883
+            "value": 9.162303664921465,
+            "total": 23302,
+            "same": 2135
         }
     ],
     "nodes": [
@@ -152,21 +152,6 @@
             ]
         },
         {
-            "id": "포레스트 검프",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
             "id": "토이 스토리 3",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=66463",
@@ -187,61 +172,8 @@
             ]
         },
         {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
-            "id": "세 얼간이",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=73372",
-            "genre": [
-                "코미디"
-            ],
-            "director": [
-                "라지쿠마르 히라니"
-            ],
-            "actor": [
-                "아미르 칸",
-                "마드하반",
-                "셔먼 조쉬"
-            ]
-        },
-        {
-            "id": "지금, 만나러 갑니다",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=39636",
-            "genre": [
-                "멜로/로맨스",
-                "드라마",
-                "판타지"
-            ],
-            "director": [
-                "도이 노부히로"
-            ],
-            "actor": [
-                "다케우치 유코",
-                "나카무라 시도",
-                "다케이 아카시"
-            ]
-        },
-        {
             "id": "언터처블: 1%의 우정",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=87566",
             "genre": [
                 "코미디",
@@ -294,47 +226,8 @@
             ]
         },
         {
-            "id": "라푼젤",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=75470",
-            "genre": [
-                "애니메이션",
-                "코미디",
-                "가족",
-                "판타지",
-                "뮤지컬",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "네이슨 그레노",
-                "바이론 하워드"
-            ],
-            "actor": [
-                "맨디 무어",
-                "제커리 레비"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
             "id": "해리 포터와 죽음의 성물 - 2부",
-            "group": 7,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=47528",
             "genre": [
                 "모험",
@@ -351,38 +244,8 @@
             ]
         },
         {
-            "id": "피아니스트",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
-            "id": "블라인드 사이드",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "존 리 행콕"
-            ],
-            "actor": [
-                "산드라 블록"
-            ]
-        },
-        {
             "id": "라따뚜이",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=65021",
             "genre": [
                 "코미디",
@@ -412,6 +275,136 @@
                 "샤룩 칸",
                 "까졸"
             ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
         }
     ],
     "genre_data": [
@@ -424,30 +417,22 @@
             "group": 2
         },
         {
-            "title": "판타지",
+            "title": "코미디",
             "group": 3
         },
         {
-            "title": "코미디",
+            "title": "모험",
             "group": 4
         },
         {
-            "title": "멜로/로맨스",
+            "title": "액션",
             "group": 5
-        },
-        {
-            "title": "범죄",
-            "group": 6
-        },
-        {
-            "title": "모험",
-            "group": 7
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 7
+            "movie_n": 251,
+            "genre_n": 5
         }
     ]
 }

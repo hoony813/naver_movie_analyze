@@ -1,452 +1,436 @@
 {
     "links": [
         {
-            "source": "그대를 사랑합니다",
-            "target": "소원",
-            "value": 5,
-            "total": 12807,
-            "same": 528
+            "source": "지상의 별처럼",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 2.454261490406069,
+            "total": 2241,
+            "same": 55
         },
         {
-            "source": "해리 포터와 죽음의 성물 - 2부",
-            "target": "소원",
-            "value": 4,
-            "total": 15567,
-            "same": 602
+            "source": "지상의 별처럼",
+            "target": "브레이브하트",
+            "value": 2.4096385542168677,
+            "total": 2822,
+            "same": 68
         },
         {
-            "source": "드래곤 길들이기",
-            "target": "소원",
-            "value": 4,
-            "total": 13640,
-            "same": 525
+            "source": "천국의 아이들",
+            "target": "지상의 별처럼",
+            "value": 2.366863905325444,
+            "total": 1859,
+            "same": 44
         },
         {
-            "source": "소원",
-            "target": "라따뚜이",
-            "value": 4,
-            "total": 12758,
-            "same": 484
+            "source": "지상의 별처럼",
+            "target": "타인의 삶",
+            "value": 2.358225715889949,
+            "total": 3562,
+            "same": 84
         },
         {
-            "source": "인생은 아름다워",
-            "target": "소원",
-            "value": 4,
-            "total": 15932,
-            "same": 601
+            "source": "지상의 별처럼",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 2.3238380809595203,
+            "total": 2668,
+            "same": 62
         },
         {
-            "source": "언터처블: 1%의 우정",
-            "target": "소원",
-            "value": 4,
-            "total": 13149,
-            "same": 496
+            "source": "지상의 별처럼",
+            "target": "페이스 오프",
+            "value": 2.31990231990232,
+            "total": 2457,
+            "same": 57
         },
         {
-            "source": "소원",
-            "target": "내 이름은 칸",
-            "value": 4,
-            "total": 11844,
-            "same": 441
+            "source": "지상의 별처럼",
+            "target": "피아니스트의 전설",
+            "value": 2.318932655654384,
+            "total": 3148,
+            "same": 73
         },
         {
-            "source": "토이 스토리 3",
-            "target": "소원",
-            "value": 4,
-            "total": 13106,
-            "same": 487
+            "source": "지상의 별처럼",
+            "target": "맨발의 꿈",
+            "value": 2.2890604205483096,
+            "total": 3757,
+            "same": 86
         },
         {
-            "source": "프리퀀시",
-            "target": "소원",
-            "value": 4,
-            "total": 12000,
-            "same": 443
+            "source": "지상의 별처럼",
+            "target": "신데렐라 맨",
+            "value": 2.2611036339165542,
+            "total": 3715,
+            "same": 84
         },
         {
-            "source": "월-E",
-            "target": "소원",
-            "value": 4,
-            "total": 14802,
-            "same": 540
+            "source": "지상의 별처럼",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 2.2606382978723407,
+            "total": 2256,
+            "same": 51
         },
         {
-            "source": "라푼젤",
-            "target": "소원",
-            "value": 4,
-            "total": 12648,
-            "same": 456
+            "source": "우리들의 일그러진 영웅",
+            "target": "지상의 별처럼",
+            "value": 2.25825130283729,
+            "total": 1727,
+            "same": 39
         },
         {
-            "source": "레옹",
-            "target": "소원",
-            "value": 4,
-            "total": 14491,
-            "same": 513
+            "source": "지상의 별처럼",
+            "target": "서유기 - 월광보합",
+            "value": 2.2531749283080704,
+            "total": 2441,
+            "same": 55
         },
         {
-            "source": "지금, 만나러 갑니다",
-            "target": "소원",
-            "value": 4,
-            "total": 18309,
-            "same": 647
+            "source": "지상의 별처럼",
+            "target": "공공의 적",
+            "value": 2.223842508202698,
+            "total": 2743,
+            "same": 61
         },
         {
-            "source": "클래식",
-            "target": "소원",
-            "value": 4,
-            "total": 14108,
-            "same": 498
+            "source": "지상의 별처럼",
+            "target": "첫 키스만 50번째",
+            "value": 2.217125382262997,
+            "total": 3924,
+            "same": 87
         },
         {
-            "source": "포레스트 검프",
-            "target": "소원",
-            "value": 4,
-            "total": 13261,
-            "same": 463
+            "source": "바이센테니얼 맨",
+            "target": "지상의 별처럼",
+            "value": 2.2110162916989915,
+            "total": 2578,
+            "same": 57
         },
         {
-            "source": "센과 치히로의 행방불명",
-            "target": "소원",
-            "value": 4,
-            "total": 16993,
-            "same": 586
+            "source": "지상의 별처럼",
+            "target": "헤드윅",
+            "value": 2.193455591513844,
+            "total": 2781,
+            "same": 61
         }
     ],
     "nodes": [
         {
-            "id": "월-E",
+            "id": "지상의 별처럼",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=69105",
+            "href": "/movie/bi/mi/basic.nhn?code=51172",
             "genre": [
-                "애니메이션",
-                "SF",
-                "가족",
-                "코미디",
-                "멜로/로맨스",
-                "모험"
+                "드라마"
             ],
             "director": [
-                "앤드류 스탠튼"
+                "아미르 칸",
+                "아몰 굽테"
             ],
             "actor": [
-                "벤 버트",
-                "엘리사 나이트",
-                "제프 갈린"
+                "다쉴 사페리",
+                "아미르 칸"
             ]
         },
         {
-            "id": "인생은 아름다워",
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
             "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로베르토 베니니"
-            ],
-            "actor": [
-                "로베르토 베니니",
-                "니콜레타 브라스키"
-            ]
-        },
-        {
-            "id": "포레스트 검프",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
-            "id": "토이 스토리 3",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
                 "모험",
+                "액션",
+                "범죄",
+                "스릴러",
                 "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
-            "id": "센과 치히로의 행방불명",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=32686",
-            "genre": [
-                "애니메이션",
-                "판타지",
-                "모험",
                 "가족"
             ],
             "director": [
-                "미야자키 하야오"
+                "크리스 콜럼버스"
             ],
             "actor": [
-                "히이라기 루미",
-                "이리노 미유"
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
             ]
         },
         {
-            "id": "클래식",
+            "id": "바이센테니얼 맨",
             "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=35939",
+            "href": "/movie/bi/mi/basic.nhn?code=28788",
             "genre": [
-                "멜로/로맨스",
+                "SF",
                 "드라마"
             ],
             "director": [
-                "곽재용"
+                "크리스 콜럼버스"
             ],
             "actor": [
-                "손예진",
-                "조승우",
-                "조인성"
+                "로빈 윌리엄스"
             ]
         },
         {
-            "id": "레옹",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17170",
+            "id": "우리들의 일그러진 영웅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12297",
             "genre": [
-                "범죄",
-                "액션",
                 "드라마"
             ],
             "director": [
-                "뤽 베송"
+                "박종원"
             ],
             "actor": [
-                "장 르노",
-                "나탈리 포트만"
+                "홍경인",
+                "고정일",
+                "최민식"
             ]
         },
         {
-            "id": "지금, 만나러 갑니다",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "id": "천국의 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
             "genre": [
-                "멜로/로맨스",
                 "드라마",
-                "판타지"
+                "코미디"
             ],
             "director": [
-                "도이 노부히로"
+                "마지드 마지디"
             ],
             "actor": [
-                "다케우치 유코",
-                "나카무라 시도",
-                "다케이 아카시"
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
             ]
         },
         {
-            "id": "언터처블: 1%의 우정",
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "브레이브하트",
             "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=87566",
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
             "genre": [
-                "코미디",
-                "드라마"
+                "액션",
+                "드라마",
+                "전쟁"
             ],
             "director": [
-                "올리비에르 나카체",
-                "에릭 토레다노"
+                "멜 깁슨"
             ],
             "actor": [
-                "프랑수아 클루제",
-                "오마 사이"
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
             ]
         },
         {
-            "id": "그대를 사랑합니다",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
             "genre": [
-                "드라마"
+                "다큐멘터리"
             ],
             "director": [
-                "추창민"
+                "케니 오테가"
             ],
             "actor": [
-                "이순재",
-                "윤소정",
-                "송재호"
+                "마이클 잭슨"
             ]
         },
         {
-            "id": "드래곤 길들이기",
+            "id": "신데렐라 맨",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
             "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "딘 데블로이스",
-                "크리스 샌더스"
-            ],
-            "actor": [
-                "제이 바루첼",
-                "제라드 버틀러",
-                "아메리카 페레라"
-            ]
-        },
-        {
-            "id": "라푼젤",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=75470",
-            "genre": [
-                "애니메이션",
-                "코미디",
-                "가족",
-                "판타지",
-                "뮤지컬",
+                "드라마",
                 "멜로/로맨스"
             ],
             "director": [
-                "네이슨 그레노",
-                "바이론 하워드"
+                "론 하워드"
             ],
             "actor": [
-                "맨디 무어",
-                "제커리 레비"
+                "러셀 크로우",
+                "르네 젤위거"
             ]
         },
         {
-            "id": "프리퀀시",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
             "genre": [
-                "범죄",
                 "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "해리 포터와 죽음의 성물 - 2부",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=47528",
-            "genre": [
-                "모험",
                 "판타지",
-                "미스터리"
+                "뮤지컬"
             ],
             "director": [
-                "데이빗 예이츠"
+                "쥬세페 토르나토레"
             ],
             "actor": [
-                "다니엘 래드클리프",
-                "엠마 왓슨",
-                "루퍼트 그린트"
+                "팀 로스",
+                "프루이트 테일러 빈스"
             ]
         },
         {
-            "id": "소원",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=103535",
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "이준익"
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
             ],
             "actor": [
                 "설경구",
-                "엄지원",
-                "이레"
+                "이성재"
             ]
         },
         {
-            "id": "라따뚜이",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "id": "헤드윅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31827",
             "genre": [
+                "드라마",
                 "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
+                "뮤지컬"
             ],
             "director": [
-                "브래드 버드"
+                "존 카메론 미첼"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
-            ]
-        },
-        {
-            "id": "내 이름은 칸",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=70651",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "카란 조하르"
-            ],
-            "actor": [
-                "샤룩 칸",
-                "까졸"
+                "존 카메론 미첼"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "애니메이션",
+            "title": "드라마",
             "group": 1
         },
         {
-            "title": "드라마",
+            "title": "모험",
             "group": 2
         },
         {
-            "title": "멜로/로맨스",
+            "title": "SF",
             "group": 3
         },
         {
-            "title": "범죄",
+            "title": "다큐멘터리",
             "group": 4
         },
         {
-            "title": "코미디",
+            "title": "액션",
             "group": 5
         },
         {
-            "title": "모험",
+            "title": "멜로/로맨스",
             "group": 6
+        },
+        {
+            "title": "코미디",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 6
+            "movie_n": 251,
+            "genre_n": 8
         }
     ]
 }

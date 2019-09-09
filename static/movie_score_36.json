@@ -1,141 +1,122 @@
 {
     "links": [
         {
-            "source": "굿바이 마이 프랜드",
-            "target": "코러스",
-            "value": 10,
-            "total": 4707,
-            "same": 444
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "굿 윌 헌팅",
-            "value": 10,
-            "total": 5429,
-            "same": 504
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "아이 엠 샘",
-            "value": 10,
-            "total": 4501,
-            "same": 414
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "굿바이 마이 프랜드",
-            "value": 10,
-            "total": 5216,
-            "same": 478
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "트루먼 쇼",
-            "value": 9,
-            "total": 7009,
-            "same": 627
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "프리퀀시",
-            "value": 9,
-            "total": 6631,
-            "same": 591
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "시네마 천국",
-            "value": 9,
-            "total": 4923,
-            "same": 437
-        },
-        {
-            "source": "포레스트 검프",
-            "target": "굿바이 마이 프랜드",
-            "value": 9,
-            "total": 7812,
-            "same": 691
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 4747,
-            "same": 411
-        },
-        {
-            "source": "죽은 시인의 사회",
-            "target": "굿바이 마이 프랜드",
-            "value": 9,
-            "total": 7486,
-            "same": 631
+            "source": "캐스트 어웨이",
+            "target": "라이언 일병 구하기",
+            "value": 10.174005681818182,
+            "total": 5632,
+            "same": 573
         },
         {
             "source": "글래디에이터",
-            "target": "굿바이 마이 프랜드",
-            "value": 9,
-            "total": 5365,
-            "same": 452
+            "target": "캐스트 어웨이",
+            "value": 10.125431739683693,
+            "total": 5501,
+            "same": 557
         },
         {
-            "source": "빽 투 더 퓨쳐",
-            "target": "굿바이 마이 프랜드",
-            "value": 9,
-            "total": 4571,
-            "same": 384
+            "source": "캐스트 어웨이",
+            "target": "뷰티풀 마인드",
+            "value": 9.606809890555331,
+            "total": 4934,
+            "same": 474
         },
         {
-            "source": "굿바이 마이 프랜드",
+            "source": "캐스트 어웨이",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.606506924598813,
+            "total": 4549,
+            "same": 437
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "브레이브하트",
+            "value": 9.475756829928624,
+            "total": 4063,
+            "same": 385
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "캐스트 어웨이",
+            "value": 9.399111526771101,
+            "total": 4277,
+            "same": 402
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "더 록",
+            "value": 9.330534173081409,
+            "total": 4287,
+            "same": 400
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "페이스 오프",
+            "value": 9.315436241610739,
+            "total": 3725,
+            "same": 347
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "공공의 적",
+            "value": 9.131848886664999,
+            "total": 3997,
+            "same": 365
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "캐스트 어웨이",
+            "value": 9.099119440054189,
+            "total": 4429,
+            "same": 403
+        },
+        {
+            "source": "가위손",
+            "target": "캐스트 어웨이",
+            "value": 9.085648148148149,
+            "total": 5184,
+            "same": 471
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "캐스트 어웨이",
+            "value": 9.069652965788826,
+            "total": 8126,
+            "same": 737
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "공동경비구역 JSA",
+            "value": 8.913195252501746,
+            "total": 4297,
+            "same": 383
+        },
+        {
+            "source": "매트릭스",
+            "target": "캐스트 어웨이",
+            "value": 8.862456022784386,
+            "total": 5969,
+            "same": 529
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "트루먼 쇼",
+            "value": 8.861454046639231,
+            "total": 7290,
+            "same": 646
+        },
+        {
+            "source": "캐스트 어웨이",
             "target": "쉰들러 리스트",
-            "value": 9,
-            "total": 4909,
-            "same": 412
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "피아니스트",
-            "value": 9,
-            "total": 6913,
-            "same": 576
-        },
-        {
-            "source": "라이언 일병 구하기",
-            "target": "굿바이 마이 프랜드",
-            "value": 9,
-            "total": 5512,
-            "same": 458
-        },
-        {
-            "source": "굿바이 마이 프랜드",
-            "target": "여인의 향기",
-            "value": 9,
-            "total": 4330,
-            "same": 359
+            "value": 8.787996882307093,
+            "total": 5132,
+            "same": 451
         }
     ],
     "nodes": [
         {
-            "id": "나 홀로 집에",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
             "id": "라이언 일병 구하기",
-            "group": 2,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=18988",
             "genre": [
                 "전쟁",
@@ -152,25 +133,26 @@
             ]
         },
         {
-            "id": "빽 투 더 퓨쳐",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
             "genre": [
                 "SF",
-                "코미디"
+                "액션"
             ],
             "director": [
-                "로버트 저메키스"
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
             ],
             "actor": [
-                "마이클 J. 폭스",
-                "크리스토퍼 로이드",
-                "리 톰슨"
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
             ]
         },
         {
             "id": "포레스트 검프",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=17159",
             "genre": [
                 "드라마",
@@ -185,7 +167,7 @@
         },
         {
             "id": "글래디에이터",
-            "group": 5,
+            "group": 4,
             "href": "/movie/bi/mi/basic.nhn?code=29217",
             "genre": [
                 "액션",
@@ -201,53 +183,24 @@
             ]
         },
         {
-            "id": "죽은 시인의 사회",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "여인의 향기",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "id": "캐스트 어웨이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31162",
             "genre": [
                 "드라마",
-                "코미디"
+                "모험"
             ],
             "director": [
-                "마틴 브레스트"
+                "로버트 저메키스"
             ],
             "actor": [
-                "알 파치노"
+                "톰 행크스",
+                "헬렌 헌트"
             ]
         },
         {
             "id": "쉰들러 리스트",
-            "group": 4,
+            "group": 3,
             "href": "/movie/bi/mi/basic.nhn?code=14450",
             "genre": [
                 "드라마",
@@ -261,17 +214,21 @@
             ]
         },
         {
-            "id": "굿 윌 헌팅",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
             "genre": [
-                "드라마"
+                "판타지",
+                "모험",
+                "액션"
             ],
             "director": [
-                "구스 반 산트"
+                "피터 잭슨"
             ],
             "actor": [
-                "맷 데이먼"
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
             ]
         },
         {
@@ -291,125 +248,177 @@
             ]
         },
         {
-            "id": "프리퀀시",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "id": "더 록",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
             "genre": [
-                "범죄",
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
                 "드라마",
-                "SF",
-                "스릴러"
+                "전쟁",
+                "코미디",
+                "미스터리"
             ],
             "director": [
-                "그레고리 호블릿"
+                "박찬욱"
             ],
             "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
+                "이영애",
+                "이병헌",
+                "송강호"
             ]
         },
         {
-            "id": "아이 엠 샘",
+            "id": "브레이브하트",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
             "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "피아니스트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
+                "액션",
                 "드라마",
                 "전쟁"
             ],
             "director": [
-                "로만 폴란스키"
+                "멜 깁슨"
             ],
             "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
             ]
         },
         {
-            "id": "빌리 엘리어트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
             "genre": [
-                "드라마",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "스티븐 달드리"
-            ],
-            "actor": [
-                "제이미 벨",
-                "줄리 월터스",
-                "게리 루이스"
-            ]
-        },
-        {
-            "id": "시네마 천국",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10001",
-            "genre": [
-                "드라마",
+                "판타지",
                 "멜로/로맨스"
             ],
             "director": [
-                "쥬세페 토르나토레"
+                "팀 버튼"
             ],
             "actor": [
-                "자끄 페렝",
-                "브리지트 포시",
-                "필립 느와레"
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "모험",
+            "title": "전쟁",
             "group": 1
         },
         {
-            "title": "전쟁",
+            "title": "SF",
             "group": 2
         },
         {
-            "title": "SF",
+            "title": "드라마",
             "group": 3
         },
         {
-            "title": "드라마",
+            "title": "액션",
             "group": 4
         },
         {
-            "title": "액션",
+            "title": "판타지",
             "group": 5
         },
         {
@@ -423,7 +432,7 @@
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 7
         }
     ]

@@ -1,116 +1,116 @@
 {
     "links": [
         {
-            "source": "나 홀로 집에",
-            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "value": 21,
-            "total": 4022,
-            "same": 838
+            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "target": "나 홀로 집에",
+            "value": 20.69377990430622,
+            "total": 4180,
+            "same": 865
         },
         {
-            "source": "나 홀로 집에",
-            "target": "매트릭스",
-            "value": 11,
-            "total": 6665,
-            "same": 724
+            "source": "매트릭스",
+            "target": "나 홀로 집에",
+            "value": 11.243117936829904,
+            "total": 6902,
+            "same": 776
         },
         {
-            "source": "나 홀로 집에",
-            "target": "쥬라기 공원",
-            "value": 11,
-            "total": 4725,
-            "same": 482
+            "source": "가위손",
+            "target": "나 홀로 집에",
+            "value": 11.156285574890227,
+            "total": 6149,
+            "same": 686
         },
         {
-            "source": "나 홀로 집에",
-            "target": "반지의 제왕: 왕의 귀환",
-            "value": 11,
-            "total": 8194,
-            "same": 828
+            "source": "말아톤",
+            "target": "나 홀로 집에",
+            "value": 11.061075147762454,
+            "total": 7106,
+            "same": 786
+        },
+        {
+            "source": "스쿨 오브 락",
+            "target": "나 홀로 집에",
+            "value": 10.632337246531483,
+            "total": 7496,
+            "same": 797
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "나 홀로 집에",
+            "value": 10.468254899659664,
+            "total": 8521,
+            "same": 892
         },
         {
             "source": "나 홀로 집에",
             "target": "라이언 일병 구하기",
-            "value": 11,
-            "total": 6483,
-            "same": 653
+            "value": 10.37214168285757,
+            "total": 6691,
+            "same": 694
         },
         {
-            "source": "나 홀로 집에",
-            "target": "반지의 제왕: 두 개의 탑",
-            "value": 11,
-            "total": 5252,
-            "same": 528
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "트루먼 쇼",
-            "value": 11,
-            "total": 8001,
-            "same": 801
+            "source": "트루먼 쇼",
+            "target": "나 홀로 집에",
+            "value": 10.323127193513251,
+            "total": 8263,
+            "same": 853
         },
         {
             "source": "터미네이터 2",
             "target": "나 홀로 집에",
-            "value": 10,
-            "total": 8367,
-            "same": 833
+            "value": 10.297823596792668,
+            "total": 8730,
+            "same": 899
         },
         {
-            "source": "나 홀로 집에",
-            "target": "글래디에이터",
-            "value": 10,
-            "total": 6358,
-            "same": 625
+            "source": "쥬라기 공원",
+            "target": "나 홀로 집에",
+            "value": 10.211554109031733,
+            "total": 4916,
+            "same": 502
         },
         {
-            "source": "나 홀로 집에",
-            "target": "포레스트 검프",
-            "value": 10,
-            "total": 8811,
-            "same": 858
+            "source": "글래디에이터",
+            "target": "나 홀로 집에",
+            "value": 10.100395497414056,
+            "total": 6574,
+            "same": 664
         },
         {
-            "source": "나 홀로 집에",
-            "target": "살인의 추억",
-            "value": 10,
-            "total": 7893,
-            "same": 762
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "나 홀로 집에",
+            "value": 10.089727156198498,
+            "total": 5461,
+            "same": 551
         },
         {
-            "source": "나 홀로 집에",
-            "target": "사운드 오브 뮤직",
-            "value": 10,
-            "total": 6510,
-            "same": 618
+            "source": "포레스트 검프",
+            "target": "나 홀로 집에",
+            "value": 10.04821389436774,
+            "total": 9126,
+            "same": 917
         },
         {
-            "source": "나 홀로 집에",
-            "target": "집으로...",
-            "value": 10,
-            "total": 5147,
-            "same": 476
+            "source": "엽기적인 그녀",
+            "target": "나 홀로 집에",
+            "value": 9.92283950617284,
+            "total": 6480,
+            "same": 643
         },
         {
-            "source": "나 홀로 집에",
-            "target": "빽 투 더 퓨쳐",
-            "value": 10,
-            "total": 5603,
-            "same": 518
+            "source": "살인의 추억",
+            "target": "나 홀로 집에",
+            "value": 9.845890410958905,
+            "total": 8176,
+            "same": 805
         },
         {
-            "source": "나 홀로 집에",
-            "target": "라따뚜이",
-            "value": 10,
-            "total": 8415,
-            "same": 772
-        },
-        {
-            "source": "나 홀로 집에",
-            "target": "굿바이 마이 프랜드",
-            "value": 10,
-            "total": 5216,
-            "same": 478
+            "source": "사운드 오브 뮤직",
+            "target": "나 홀로 집에",
+            "value": 9.818664307828394,
+            "total": 6783,
+            "same": 666
         }
     ],
     "nodes": [
@@ -165,23 +165,6 @@
                 "톰 행크스",
                 "에드워드 번즈",
                 "톰 시즈모어"
-            ]
-        },
-        {
-            "id": "빽 투 더 퓨쳐",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10002",
-            "genre": [
-                "SF",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "마이클 J. 폭스",
-                "크리스토퍼 로이드",
-                "리 톰슨"
             ]
         },
         {
@@ -291,22 +274,6 @@
             ]
         },
         {
-            "id": "굿바이 마이 프랜드",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
             "id": "반지의 제왕: 두 개의 탑",
             "group": 8,
             "href": "/movie/bi/mi/basic.nhn?code=31795",
@@ -322,22 +289,6 @@
                 "일라이저 우드",
                 "이안 맥켈런",
                 "비고 모텐슨"
-            ]
-        },
-        {
-            "id": "집으로...",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=34324",
-            "genre": [
-                "드라마",
-                "가족"
-            ],
-            "director": [
-                "이정향"
-            ],
-            "actor": [
-                "김을분",
-                "유승호"
             ]
         },
         {
@@ -378,24 +329,6 @@
             ]
         },
         {
-            "id": "라따뚜이",
-            "group": 9,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
-            "genre": [
-                "코미디",
-                "가족",
-                "모험",
-                "애니메이션"
-            ],
-            "director": [
-                "브래드 버드"
-            ],
-            "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
-            ]
-        },
-        {
             "id": "쥬라기 공원",
             "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=13500",
@@ -411,6 +344,69 @@
                 "샘 닐",
                 "로라 던",
                 "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
             ]
         }
     ],
@@ -454,7 +450,7 @@
     ],
     "data": [
         {
-            "movie_n": 101,
+            "movie_n": 251,
             "genre_n": 9
         }
     ]

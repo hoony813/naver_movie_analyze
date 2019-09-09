@@ -1,270 +1,146 @@
 {
     "links": [
         {
-            "source": "베일리 어게인",
-            "target": "헌터 킬러",
-            "value": 2,
-            "total": 5107,
-            "same": 82
+            "source": "주전장",
+            "target": "리멤버 타이탄",
+            "value": 0.9771986970684038,
+            "total": 2456,
+            "same": 24
         },
         {
-            "source": "그린 북",
-            "target": "베일리 어게인",
-            "value": 2,
-            "total": 7579,
-            "same": 110
+            "source": "주전장",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9565857247976454,
+            "total": 1359,
+            "same": 13
         },
         {
-            "source": "베일리 어게인",
+            "source": "주전장",
             "target": "캐스트 어웨이",
-            "value": 2,
-            "total": 4325,
-            "same": 61
+            "value": 0.8717310087173101,
+            "total": 3212,
+            "same": 28
         },
         {
-            "source": "베일리 어게인",
-            "target": "헬프",
-            "value": 2,
-            "total": 5065,
-            "same": 69
+            "source": "주전장",
+            "target": "타인의 삶",
+            "value": 0.8259911894273128,
+            "total": 3632,
+            "same": 30
         },
         {
-            "source": "베일리 어게인",
-            "target": "코러스",
-            "value": 2,
-            "total": 4862,
-            "same": 65
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "블라인드 사이드",
-            "value": 2,
-            "total": 5971,
-            "same": 79
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "사운드 오브 뮤직",
-            "value": 2,
-            "total": 5664,
-            "same": 74
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "프리퀀시",
-            "value": 2,
-            "total": 6908,
-            "same": 90
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "매트릭스",
-            "value": 2,
-            "total": 5922,
-            "same": 77
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "원더",
-            "value": 2,
-            "total": 4626,
-            "same": 60
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "아마데우스",
-            "value": 2,
-            "total": 4572,
-            "same": 59
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "그대를 사랑합니다",
-            "value": 2,
-            "total": 7790,
-            "same": 100
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "나 홀로 집에",
-            "value": 2,
-            "total": 5401,
-            "same": 69
-        },
-        {
-            "source": "베일리 어게인",
-            "target": "아이 엠 샘",
-            "value": 2,
-            "total": 4632,
-            "same": 59
-        },
-        {
-            "source": "베일리 어게인",
+            "source": "주전장",
             "target": "빌리 엘리어트",
-            "value": 2,
-            "total": 4872,
-            "same": 62
+            "value": 0.7871949619522435,
+            "total": 3811,
+            "same": 30
         },
         {
-            "source": "베일리 어게인",
-            "target": "글래디에이터",
-            "value": 2,
-            "total": 5524,
-            "same": 69
+            "source": "주전장",
+            "target": "다이 하드",
+            "value": 0.7840772014475271,
+            "total": 1658,
+            "same": 13
+        },
+        {
+            "source": "주전장",
+            "target": "신데렐라 맨",
+            "value": 0.7659799260433175,
+            "total": 3786,
+            "same": 29
+        },
+        {
+            "source": "주전장",
+            "target": "자백",
+            "value": 0.751100751100751,
+            "total": 3861,
+            "same": 29
+        },
+        {
+            "source": "주전장",
+            "target": "쥬라기 공원",
+            "value": 0.7473841554559043,
+            "total": 2676,
+            "same": 20
+        },
+        {
+            "source": "가버나움",
+            "target": "주전장",
+            "value": 0.7421660252886202,
+            "total": 3638,
+            "same": 27
+        },
+        {
+            "source": "주전장",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 0.7336757153338225,
+            "total": 2726,
+            "same": 20
+        },
+        {
+            "source": "주전장",
+            "target": "페이스 오프",
+            "value": 0.7165605095541402,
+            "total": 2512,
+            "same": 18
+        },
+        {
+            "source": "주전장",
+            "target": "천녀유혼",
+            "value": 0.7092198581560284,
+            "total": 2538,
+            "same": 18
+        },
+        {
+            "source": "주전장",
+            "target": "마이너리티 리포트",
+            "value": 0.7062600321027288,
+            "total": 3115,
+            "same": 22
+        },
+        {
+            "source": "주전장",
+            "target": "공동경비구역 JSA",
+            "value": 0.7060333761232349,
+            "total": 3116,
+            "same": 22
+        },
+        {
+            "source": "주전장",
+            "target": "니모를 찾아서 3D",
+            "value": 0.699912510936133,
+            "total": 2286,
+            "same": 16
         }
     ],
     "nodes": [
         {
-            "id": "그린 북",
+            "id": "가버나움",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "href": "/movie/bi/mi/basic.nhn?code=174830",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "피터 패럴리"
+                "나딘 라바키"
             ],
             "actor": [
-                "비고 모텐슨",
-                "마허샬라 알리"
+                "자인 알 라피아",
+                "요르다노스 시프로우"
             ]
         },
         {
-            "id": "베일리 어게인",
+            "id": "주전장",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=144906",
+            "href": "/movie/bi/mi/basic.nhn?code=179518",
             "genre": [
-                "모험",
-                "코미디",
-                "드라마"
+                "다큐멘터리"
             ],
             "director": [
-                "라세 할스트롬"
+                "미키 데자키"
             ],
             "actor": [
-                "조시 게드",
-                "데니스 퀘이드",
-                "K.J. 아파"
-            ]
-        },
-        {
-            "id": "원더",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=151196",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "스티븐 크보스키"
-            ],
-            "actor": [
-                "제이콥 트렘블레이",
-                "줄리아 로버츠",
-                "오웬 윌슨"
-            ]
-        },
-        {
-            "id": "나 홀로 집에",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10016",
-            "genre": [
-                "모험",
-                "범죄",
-                "가족",
-                "코미디"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
-            "id": "매트릭스",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
-            "genre": [
-                "SF",
-                "액션"
-            ],
-            "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
-            ],
-            "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
-            ]
-        },
-        {
-            "id": "사운드 오브 뮤직",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10102",
-            "genre": [
-                "멜로/로맨스",
-                "뮤지컬",
-                "드라마"
-            ],
-            "director": [
-                "로버트 와이즈"
-            ],
-            "actor": [
-                "줄리 앤드류스",
-                "크리스토퍼 플러머",
-                "엘레노 파커"
-            ]
-        },
-        {
-            "id": "헬프",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=82432",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "테이트 테일러"
-            ],
-            "actor": [
-                "엠마 스톤",
-                "비올라 데이비스",
-                "옥타비아 스펜서"
-            ]
-        },
-        {
-            "id": "글래디에이터",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
-            "genre": [
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "리들리 스콧"
-            ],
-            "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
-            ]
-        },
-        {
-            "id": "헌터 킬러",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=92125",
-            "genre": [
-                "액션",
-                "스릴러"
-            ],
-            "director": [
-                "도노반 마시"
-            ],
-            "actor": [
-                "제라드 버틀러",
-                "게리 올드만"
+                "전체 관람가"
             ]
         },
         {
@@ -284,84 +160,19 @@
             ]
         },
         {
-            "id": "그대를 사랑합니다",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "id": "폴란드로 간 아이들",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=178434",
             "genre": [
+                "다큐멘터리",
                 "드라마"
             ],
             "director": [
-                "추창민"
+                "추상미"
             ],
             "actor": [
-                "이순재",
-                "윤소정",
-                "송재호"
-            ]
-        },
-        {
-            "id": "아마데우스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "밀로스 포만"
-            ],
-            "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
+                "이송",
+                "추상미"
             ]
         },
         {
@@ -383,17 +194,203 @@
             ]
         },
         {
-            "id": "블라인드 사이드",
+            "id": "쥬라기 공원",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "자백",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=146534",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "최승호"
+            ],
+            "actor": [
+                "최승호",
+                "김기춘",
+                "원세훈"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "니모를 찾아서 3D",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32116",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "앨버트 브룩스",
+                "엘런 드제너러스",
+                "알렉산더 굴드"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "존 리 행콕"
+                "플로리안 헨켈 폰 도너스마르크"
             ],
             "actor": [
-                "산드라 블록"
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
             ]
         }
     ],
@@ -403,7 +400,7 @@
             "group": 1
         },
         {
-            "title": "모험",
+            "title": "다큐멘터리",
             "group": 2
         },
         {
@@ -411,22 +408,26 @@
             "group": 3
         },
         {
-            "title": "멜로/로맨스",
+            "title": "액션",
             "group": 4
         },
         {
-            "title": "액션",
+            "title": "판타지",
             "group": 5
         },
         {
-            "title": "범죄",
+            "title": "가족",
             "group": 6
+        },
+        {
+            "title": "애니메이션",
+            "group": 7
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 6
+            "movie_n": 251,
+            "genre_n": 7
         }
     ]
 }

@@ -1,415 +1,411 @@
 {
     "links": [
         {
-            "source": "쥬라기 공원",
-            "target": "록키",
-            "value": 8,
-            "total": 2701,
-            "same": 190
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "클레멘타인",
+            "value": 8.571047275881627,
+            "total": 29973,
+            "same": 2569
         },
         {
-            "source": "더 록",
-            "target": "록키",
-            "value": 7,
-            "total": 3126,
-            "same": 217
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "세 얼간이",
+            "value": 7.192912865265106,
+            "total": 30252,
+            "same": 2176
         },
         {
-            "source": "에이리언 2",
-            "target": "록키",
-            "value": 7,
-            "total": 2519,
-            "same": 164
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "아저씨",
+            "value": 7.0190924545573425,
+            "total": 30588,
+            "same": 2147
         },
         {
-            "source": "토이 스토리",
-            "target": "록키",
-            "value": 7,
-            "total": 2193,
-            "same": 135
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "타이타닉",
+            "value": 7.017235932179592,
+            "total": 28487,
+            "same": 1999
         },
         {
-            "source": "캐스트 어웨이",
-            "target": "록키",
-            "value": 7,
-            "total": 3260,
-            "same": 200
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "과속스캔들",
+            "value": 6.990567256751519,
+            "total": 30956,
+            "same": 2164
         },
         {
-            "source": "빽 투 더 퓨쳐",
-            "target": "록키",
-            "value": 7,
-            "total": 3587,
-            "same": 218
+            "source": "다크 나이트",
+            "target": "영웅: 샐러멘더의 비밀",
+            "value": 6.677964996903824,
+            "total": 30683,
+            "same": 2049
         },
         {
-            "source": "반지의 제왕: 두 개의 탑",
-            "target": "록키",
-            "value": 7,
-            "total": 3267,
-            "same": 197
+            "source": "쇼생크 탈출",
+            "target": "영웅: 샐러멘더의 비밀",
+            "value": 6.659761384125523,
+            "total": 26067,
+            "same": 1736
         },
         {
-            "source": "라이언 일병 구하기",
-            "target": "록키",
-            "value": 7,
-            "total": 4546,
-            "same": 274
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "해바라기",
+            "value": 6.6334102902374665,
+            "total": 24256,
+            "same": 1609
         },
         {
-            "source": "여인의 향기",
-            "target": "록키",
-            "value": 6,
-            "total": 3339,
-            "same": 200
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "인셉션",
+            "value": 6.624061675796307,
+            "total": 29574,
+            "same": 1959
         },
         {
-            "source": "모던 타임즈",
-            "target": "록키",
-            "value": 6,
-            "total": 2045,
-            "same": 121
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "말할 수 없는 비밀",
+            "value": 6.559871386329055,
+            "total": 34833,
+            "same": 2285
         },
         {
-            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "target": "록키",
-            "value": 6,
-            "total": 2402,
-            "same": 142
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "라디오 스타",
+            "value": 6.4798850574712645,
+            "total": 20880,
+            "same": 1353
         },
         {
-            "source": "매트릭스",
-            "target": "록키",
-            "value": 6,
-            "total": 4796,
-            "same": 277
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "테이큰",
+            "value": 6.4205607476635524,
+            "total": 21400,
+            "same": 1374
         },
         {
-            "source": "아마데우스",
-            "target": "록키",
-            "value": 6,
-            "total": 3505,
-            "same": 200
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "도가니",
+            "value": 6.33028867288624,
+            "total": 20473,
+            "same": 1296
         },
         {
-            "source": "굿바이 마이 프랜드",
-            "target": "록키",
-            "value": 6,
-            "total": 3196,
-            "same": 182
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "킹콩을 들다",
+            "value": 6.101328390485017,
+            "total": 19422,
+            "same": 1185
         },
         {
-            "source": "쉰들러 리스트",
-            "target": "록키",
-            "value": 6,
-            "total": 3947,
-            "same": 224
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "지금, 만나러 갑니다",
+            "value": 6.101056424535256,
+            "total": 24422,
+            "same": 1490
         },
         {
-            "source": "글래디에이터",
-            "target": "록키",
-            "value": 6,
-            "total": 4422,
-            "same": 245
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "인생은 아름다워",
+            "value": 6.017891027378694,
+            "total": 22134,
+            "same": 1332
         }
     ],
     "nodes": [
         {
-            "id": "라이언 일병 구하기",
+            "id": "쇼생크 탈출",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "href": "/movie/bi/mi/basic.nhn?code=17421",
             "genre": [
-                "전쟁",
-                "액션",
                 "드라마"
             ],
             "director": [
-                "스티븐 스필버그"
+                "프랭크 다라본트"
             ],
             "actor": [
-                "톰 행크스",
-                "에드워드 번즈",
-                "톰 시즈모어"
+                "팀 로빈스",
+                "모건 프리먼"
             ]
         },
         {
-            "id": "빽 투 더 퓨쳐",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
             "genre": [
-                "SF",
+                "드라마",
                 "코미디"
             ],
             "director": [
-                "로버트 저메키스"
+                "로베르토 베니니"
             ],
             "actor": [
-                "마이클 J. 폭스",
-                "크리스토퍼 로이드",
-                "리 톰슨"
+                "로베르토 베니니",
+                "니콜레타 브라스키"
             ]
         },
         {
-            "id": "매트릭스",
+            "id": "세 얼간이",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "href": "/movie/bi/mi/basic.nhn?code=73372",
             "genre": [
-                "SF",
-                "액션"
+                "코미디"
             ],
             "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
+                "라지쿠마르 히라니"
             ],
             "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
+                "아미르 칸",
+                "마드하반",
+                "셔먼 조쉬"
             ]
         },
         {
-            "id": "글래디에이터",
+            "id": "클레멘타인",
             "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "href": "/movie/bi/mi/basic.nhn?code=37886",
             "genre": [
                 "액션",
                 "드라마"
             ],
             "director": [
-                "리들리 스콧"
+                "김두영"
             ],
             "actor": [
-                "러셀 크로우",
-                "호아킨 피닉스",
-                "코니 닐슨"
+                "이동준",
+                "김혜리",
+                "스티븐 시걸"
             ]
         },
         {
-            "id": "캐스트 어웨이",
+            "id": "지금, 만나러 갑니다",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
             "genre": [
+                "멜로/로맨스",
                 "드라마",
-                "모험"
+                "판타지"
             ],
             "director": [
-                "로버트 저메키스"
+                "도이 노부히로"
             ],
             "actor": [
-                "톰 행크스",
-                "헬렌 헌트"
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
             ]
         },
         {
-            "id": "굿바이 마이 프랜드",
+            "id": "타이타닉",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "href": "/movie/bi/mi/basic.nhn?code=18847",
             "genre": [
+                "멜로/로맨스",
                 "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
-            "id": "여인의 향기",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=12482",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "마틴 브레스트"
-            ],
-            "actor": [
-                "알 파치노"
-            ]
-        },
-        {
-            "id": "쉰들러 리스트",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=14450",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "리암 니슨"
-            ]
-        },
-        {
-            "id": "에이리언 2",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10038",
-            "genre": [
-                "SF",
-                "공포",
-                "스릴러",
-                "액션"
             ],
             "director": [
                 "제임스 카메론"
             ],
             "actor": [
-                "시고니 위버",
-                "마이클 빈",
-                "폴 레이저"
+                "레오나르도 디카프리오",
+                "케이트 윈슬렛"
             ]
         },
         {
-            "id": "아마데우스",
+            "id": "다크 나이트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "크리스찬 베일",
+                "히스 레저",
+                "아론 에크하트"
+            ]
+        },
+        {
+            "id": "영웅: 샐러멘더의 비밀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51708",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "알렉산드르 야킴추크",
+                "엘레나 코발레바"
+            ],
+            "actor": [
+                "김보성",
+                "표도르 예멜리야넨코"
+            ]
+        },
+        {
+            "id": "말할 수 없는 비밀",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
+            "genre": [
+                "멜로/로맨스",
+                "판타지",
+                "드라마"
+            ],
+            "director": [
+                "주걸륜"
+            ],
+            "actor": [
+                "주걸륜",
+                "계륜미",
+                "황추생"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "밀로스 포만"
+                "황동혁"
             ],
             "actor": [
-                "톰 헐스",
-                "F. 머레이 아브라함",
-                "엘리자베스 베리지"
+                "공유",
+                "정유미"
             ]
         },
         {
-            "id": "반지의 제왕: 두 개의 탑",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=31795",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "이안 맥켈런",
-                "비고 모텐슨"
-            ]
-        },
-        {
-            "id": "더 록",
+            "id": "해바라기",
             "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
             "genre": [
-                "액션"
+                "액션",
+                "드라마"
             ],
             "director": [
-                "마이클 베이"
+                "강석범"
             ],
             "actor": [
-                "숀 코네리",
-                "니콜라스 케이지",
-                "에드 해리스"
+                "김래원",
+                "김해숙",
+                "허이재"
             ]
         },
         {
-            "id": "모던 타임즈",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
             "genre": [
                 "코미디"
             ],
             "director": [
-                "찰리 채플린"
+                "강형철"
             ],
             "actor": [
-                "찰리 채플린",
-                "파울레트 고다드"
+                "차태현",
+                "박보영",
+                "왕석현"
             ]
         },
         {
-            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=12270",
-            "genre": [
-                "모험",
-                "액션",
-                "범죄",
-                "스릴러",
-                "코미디",
-                "가족"
-            ],
-            "director": [
-                "크리스 콜럼버스"
-            ],
-            "actor": [
-                "맥컬리 컬킨",
-                "조 페시",
-                "다니엘 스턴"
-            ]
-        },
-        {
-            "id": "쥬라기 공원",
+            "id": "라디오 스타",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
             "genre": [
-                "SF",
-                "액션",
-                "모험"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "샘 닐",
-                "로라 던",
-                "제프 골드브럼"
-            ]
-        },
-        {
-            "id": "토이 스토리",
-            "group": 8,
-            "href": "/movie/bi/mi/basic.nhn?code=17153",
-            "genre": [
-                "애니메이션",
                 "코미디",
-                "가족",
-                "판타지"
+                "드라마"
             ],
             "director": [
-                "존 라세터"
+                "이준익"
             ],
             "actor": [
-                "톰 행크스",
-                "팀 알렌"
-            ]
-        },
-        {
-            "id": "록키",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=10021",
-            "genre": [
-                "드라마",
-                "액션"
-            ],
-            "director": [
-                "존 G. 아빌드센"
-            ],
-            "actor": [
-                "실베스터 스탤론"
+                "박중훈",
+                "안성기"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "전쟁",
+            "title": "드라마",
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "코미디",
             "group": 2
         },
         {
@@ -417,30 +413,14 @@
             "group": 3
         },
         {
-            "title": "드라마",
+            "title": "멜로/로맨스",
             "group": 4
-        },
-        {
-            "title": "판타지",
-            "group": 5
-        },
-        {
-            "title": "코미디",
-            "group": 6
-        },
-        {
-            "title": "모험",
-            "group": 7
-        },
-        {
-            "title": "애니메이션",
-            "group": 8
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 8
+            "movie_n": 251,
+            "genre_n": 4
         }
     ]
 }

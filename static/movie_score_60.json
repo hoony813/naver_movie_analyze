@@ -1,317 +1,198 @@
 {
     "links": [
         {
-            "source": "그대를 사랑합니다",
-            "target": "울지마 톤즈",
-            "value": 10,
-            "total": 8749,
-            "same": 843
+            "source": "투게더",
+            "target": "폴란드로 간 아이들",
+            "value": 1.2376237623762376,
+            "total": 808,
+            "same": 10
         },
         {
-            "source": "울지마 톤즈",
-            "target": "내 이름은 칸",
-            "value": 10,
-            "total": 7816,
-            "same": 726
+            "source": "바울",
+            "target": "폴란드로 간 아이들",
+            "value": 1.2128816394813886,
+            "total": 2391,
+            "same": 29
         },
         {
-            "source": "울지마 톤즈",
-            "target": "라따뚜이",
-            "value": 9,
-            "total": 8742,
-            "same": 757
+            "source": "폴란드로 간 아이들",
+            "target": "바람과 함께 사라지다",
+            "value": 1.187648456057007,
+            "total": 1684,
+            "same": 20
         },
         {
-            "source": "울지마 톤즈",
-            "target": "코러스",
-            "value": 9,
-            "total": 6107,
-            "same": 522
+            "source": "다시 태어나도 우리",
+            "target": "폴란드로 간 아이들",
+            "value": 1.1417058428475486,
+            "total": 1489,
+            "same": 17
         },
         {
-            "source": "울지마 톤즈",
-            "target": "블라인드 사이드",
-            "value": 9,
-            "total": 7144,
-            "same": 608
+            "source": "칼리토",
+            "target": "폴란드로 간 아이들",
+            "value": 1.0259505129752564,
+            "total": 1657,
+            "same": 17
         },
         {
-            "source": "토이 스토리 3",
-            "target": "울지마 톤즈",
-            "value": 9,
-            "total": 9086,
-            "same": 764
+            "source": "폴란드로 간 아이들",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 0.9595327492699207,
+            "total": 2397,
+            "same": 23
         },
         {
-            "source": "울지마 톤즈",
-            "target": "해리 포터와 죽음의 성물 - 2부",
-            "value": 9,
-            "total": 11468,
-            "same": 958
+            "source": "퀸 락 몬트리올",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9592326139088728,
+            "total": 834,
+            "same": 8
         },
         {
-            "source": "울지마 톤즈",
-            "target": "라푼젤",
-            "value": 9,
-            "total": 8643,
-            "same": 718
+            "source": "주전장",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9565857247976454,
+            "total": 1359,
+            "same": 13
         },
         {
-            "source": "드래곤 길들이기",
-            "target": "울지마 톤즈",
-            "value": 9,
-            "total": 9633,
-            "same": 789
+            "source": "천국의 아이들",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9505703422053232,
+            "total": 1578,
+            "same": 15
         },
         {
-            "source": "월-E",
-            "target": "울지마 톤즈",
-            "value": 9,
-            "total": 10721,
-            "same": 878
+            "source": "시네마 천국",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9380863039399625,
+            "total": 3731,
+            "same": 35
         },
         {
-            "source": "울지마 톤즈",
-            "target": "프리퀀시",
-            "value": 9,
-            "total": 8045,
-            "same": 655
+            "source": "폴란드로 간 아이들",
+            "target": "피아니스트의 전설",
+            "value": 0.9361997226074895,
+            "total": 2884,
+            "same": 27
         },
         {
-            "source": "언터처블: 1%의 우정",
-            "target": "울지마 톤즈",
-            "value": 9,
-            "total": 9165,
-            "same": 737
+            "source": "코러스",
+            "target": "폴란드로 간 아이들",
+            "value": 0.8946608946608947,
+            "total": 3465,
+            "same": 31
         },
         {
-            "source": "울지마 톤즈",
-            "target": "피아니스트",
-            "value": 8,
-            "total": 8311,
-            "same": 656
+            "source": "폴란드로 간 아이들",
+            "target": "아름다운 비행",
+            "value": 0.8849557522123894,
+            "total": 1017,
+            "same": 9
         },
         {
-            "source": "울지마 톤즈",
-            "target": "업",
-            "value": 8,
-            "total": 8142,
-            "same": 636
+            "source": "굿바이 마이 프랜드",
+            "target": "폴란드로 간 아이들",
+            "value": 0.8837044892188053,
+            "total": 2829,
+            "same": 25
         },
         {
-            "source": "반지의 제왕: 왕의 귀환",
-            "target": "울지마 톤즈",
-            "value": 8,
-            "total": 8658,
-            "same": 676
+            "source": "폴란드로 간 아이들",
+            "target": "아이언 자이언트",
+            "value": 0.864304235090752,
+            "total": 2314,
+            "same": 20
         },
         {
-            "source": "죽은 시인의 사회",
-            "target": "울지마 톤즈",
-            "value": 8,
-            "total": 8912,
-            "same": 683
+            "source": "친정엄마",
+            "target": "폴란드로 간 아이들",
+            "value": 0.8633093525179856,
+            "total": 2780,
+            "same": 24
         }
     ],
     "nodes": [
         {
-            "id": "월-E",
+            "id": "주전장",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=69105",
-            "genre": [
-                "애니메이션",
-                "SF",
-                "가족",
-                "코미디",
-                "멜로/로맨스",
-                "모험"
-            ],
-            "director": [
-                "앤드류 스탠튼"
-            ],
-            "actor": [
-                "벤 버트",
-                "엘리사 나이트",
-                "제프 갈린"
-            ]
-        },
-        {
-            "id": "토이 스토리 3",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=66463",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "리 언크리치"
-            ],
-            "actor": [
-                "톰 행크스",
-                "팀 알렌",
-                "조앤 쿠삭"
-            ]
-        },
-        {
-            "id": "죽은 시인의 사회",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
-            "id": "반지의 제왕: 왕의 귀환",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=31796",
-            "genre": [
-                "판타지",
-                "모험",
-                "액션",
-                "전쟁"
-            ],
-            "director": [
-                "피터 잭슨"
-            ],
-            "actor": [
-                "일라이저 우드",
-                "숀 애스틴",
-                "앤디 서키스"
-            ]
-        },
-        {
-            "id": "언터처블: 1%의 우정",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=87566",
-            "genre": [
-                "코미디",
-                "드라마"
-            ],
-            "director": [
-                "올리비에르 나카체",
-                "에릭 토레다노"
-            ],
-            "actor": [
-                "프랑수아 클루제",
-                "오마 사이"
-            ]
-        },
-        {
-            "id": "그대를 사랑합니다",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=73476",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "추창민"
-            ],
-            "actor": [
-                "이순재",
-                "윤소정",
-                "송재호"
-            ]
-        },
-        {
-            "id": "드래곤 길들이기",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=70457",
-            "genre": [
-                "애니메이션",
-                "모험",
-                "코미디",
-                "가족",
-                "판타지"
-            ],
-            "director": [
-                "딘 데블로이스",
-                "크리스 샌더스"
-            ],
-            "actor": [
-                "제이 바루첼",
-                "제라드 버틀러",
-                "아메리카 페레라"
-            ]
-        },
-        {
-            "id": "울지마 톤즈",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "href": "/movie/bi/mi/basic.nhn?code=179518",
             "genre": [
                 "다큐멘터리"
             ],
             "director": [
-                "구수환"
+                "미키 데자키"
             ],
             "actor": [
-                "이금희",
-                "이태석"
+                "전체 관람가"
             ]
         },
         {
-            "id": "라푼젤",
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "다시 태어나도 우리",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=75470",
+            "href": "/movie/bi/mi/basic.nhn?code=154573",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "문창용",
+                "전진"
+            ],
+            "actor": [
+                "파드마 앙뚜",
+                "우르갼 릭젠"
+            ]
+        },
+        {
+            "id": "폴란드로 간 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=178434",
+            "genre": [
+                "다큐멘터리",
+                "드라마"
+            ],
+            "director": [
+                "추상미"
+            ],
+            "actor": [
+                "이송",
+                "추상미"
+            ]
+        },
+        {
+            "id": "아이언 자이언트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=25915",
             "genre": [
                 "애니메이션",
-                "코미디",
-                "가족",
-                "판타지",
-                "뮤지컬",
-                "멜로/로맨스"
-            ],
-            "director": [
-                "네이슨 그레노",
-                "바이론 하워드"
-            ],
-            "actor": [
-                "맨디 무어",
-                "제커리 레비"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 6,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
                 "SF",
-                "스릴러"
+                "액션",
+                "가족"
             ],
             "director": [
-                "그레고리 호블릿"
+                "브래드 버드"
             ],
             "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "해리 포터와 죽음의 성물 - 2부",
-            "group": 7,
-            "href": "/movie/bi/mi/basic.nhn?code=47528",
-            "genre": [
-                "모험",
-                "판타지",
-                "미스터리"
-            ],
-            "director": [
-                "데이빗 예이츠"
-            ],
-            "actor": [
-                "다니엘 래드클리프",
-                "엠마 왓슨",
-                "루퍼트 그린트"
+                "제니퍼 애니스톤",
+                "엘리 마리엔탈",
+                "해리 코닉 주니어"
             ]
         },
         {
@@ -331,93 +212,187 @@
             ]
         },
         {
-            "id": "피아니스트",
+            "id": "시네마 천국",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
             "genre": [
                 "드라마",
-                "전쟁"
+                "멜로/로맨스"
             ],
             "director": [
-                "로만 폴란스키"
+                "쥬세페 토르나토레"
             ],
             "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
             ]
         },
         {
-            "id": "업",
+            "id": "퀸 락 몬트리올",
             "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "href": "/movie/bi/mi/basic.nhn?code=54900",
             "genre": [
-                "애니메이션",
-                "가족",
-                "모험",
-                "코미디",
-                "액션"
+                "다큐멘터리"
             ],
             "director": [
-                "피트 닥터",
-                "밥 피터슨"
+                "솔 스위머"
             ],
             "actor": [
-                "에드워드 애스너",
-                "조던 나가이",
-                "크리스토퍼 플러머"
+                "존 디콘",
+                "브라이언 메이",
+                "프레디 머큐리"
             ]
         },
         {
-            "id": "블라인드 사이드",
+            "id": "천국의 아이들",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "존 리 행콕"
+                "유성엽"
             ],
             "actor": [
-                "산드라 블록"
+                "김해숙",
+                "박진희"
             ]
         },
         {
-            "id": "라따뚜이",
+            "id": "피아니스트의 전설",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "투게더",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=36718",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "류 페이치"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
             "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
             "genre": [
-                "코미디",
                 "가족",
                 "모험",
-                "애니메이션"
+                "드라마"
             ],
             "director": [
-                "브래드 버드"
+                "캐롤 발라드"
             ],
             "actor": [
-                "패튼 오스왈트",
-                "루 로마노"
+                "제프 다니엘스",
+                "안나 파킨"
             ]
         },
         {
-            "id": "내 이름은 칸",
+            "id": "바람과 함께 사라지다",
             "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "바울",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=173692",
             "genre": [
                 "드라마"
             ],
             "director": [
-                "카란 조하르"
+                "앤드류 하얏트"
             ],
             "actor": [
-                "샤룩 칸",
-                "까졸"
+                "제임스 폴크너",
+                "제임스 카비젤"
             ]
         }
     ],
     "genre_data": [
         {
-            "title": "애니메이션",
+            "title": "다큐멘터리",
             "group": 1
         },
         {
@@ -425,30 +400,22 @@
             "group": 2
         },
         {
-            "title": "판타지",
+            "title": "애니메이션",
             "group": 3
         },
         {
-            "title": "코미디",
+            "title": "가족",
             "group": 4
         },
         {
-            "title": "다큐멘터리",
-            "group": 5
-        },
-        {
             "title": "범죄",
-            "group": 6
-        },
-        {
-            "title": "모험",
-            "group": 7
+            "group": 5
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 7
+            "movie_n": 251,
+            "genre_n": 5
         }
     ]
 }

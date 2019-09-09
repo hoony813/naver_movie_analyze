@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
+  <title>비교 그래프</title>
   <style>
+    div.jumbotron{
+        border: medium solid red;
+        background-color:black;
+        color:white;
+        text-align: center;
+        width:900px;
+        height:80px;
+        margin: 5px auto 30px auto;
 
+      }
   	.link {
   	  stroke: #999;
       stroke-opacity: 0.6;
@@ -28,10 +38,15 @@
       box-shadow: 3px 3px 10px rgba(0, 0, 0, .5);
       pointer-events: none;
     }
-
+    .back_color{
+        width:900px;
+        font-weight:bold;
+        margin: 5px auto 30px auto;
+        text-align:center;
+        
+      }
   </style>
-  <svg width="2500" height="2000"></svg>
-
+  
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
   <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
@@ -77,7 +92,7 @@ const simulation = d3.forceSimulation()
 .nodes(graph.nodes)
 .force('link', d3.forceLink().id(d => d.id).distance(250))
 .force('charge', d3.forceManyBody().strength(-3550))
-.force('center', d3.forceCenter(750, 450))
+.force('center', d3.forceCenter(750, 390))
 .on('tick', ticked);
 
 simulation.force('link')
@@ -93,31 +108,12 @@ var link = svg.append("g")
 .selectAll("line")
 .data(graph.links)
 .enter().append("line")
-.attr("stroke-width", function(d) { return d.value*1.5; });;
+.attr("stroke-width", function(d) { return d.value; });;
 
 link  
 .attr('class', 'link')
-.on('mouseover.tooltip', function(d) {
- tooltip.transition()
- .duration(300)
- .style("opacity", .8);
- tooltip.html("Movie1:"+ d.source.id + 
-   "<p/>Movie2:" + d.target.id +
-   "<p/>Total User:"  + d.total+
-   "<p/>Same User:" + d.same)
- .style("left", (d3.event.pageX) + "px")
- .style("top", (d3.event.pageY + 10) + "px");
-})
-.on("mouseout.tooltip", function() {
- tooltip.transition()
- .duration(100)
- .style("opacity", 0);
-})
-.on('mouseout.fade', fade(1))
-.on("mousemove", function() {
- tooltip.style("left", (d3.event.pageX) + "px")
- .style("top", (d3.event.pageY + 10) + "px");
-})
+
+.on('dblclick',getinfomovies);
 ;
 ;
 
@@ -133,25 +129,8 @@ let node = svg.selectAll('.node')
 node.append('circle')
 .attr('r', R)
 .attr("fill", function(d) { return color(d.group);})  
-.on('mouseover.tooltip', function(d) {
- tooltip.transition()
- .duration(300)
- .style("opacity", .8);
- tooltip.html("Name:" + d.id + "<p/>genre:" + d.genre + "<p/>director" + d.director + "<p/>actor:" + d.actor)
- .style("left", (d3.event.pageX) + "px")
- .style("top", (d3.event.pageY + 10) + "px");
-})
-.on('mouseover.fade', fade(0.1))
-.on("mouseout.tooltip", function() {
-  tooltip.transition()
-  .duration(100)
-  .style("opacity", 0);
-})
-.on('mouseout.fade', fade(1))
-.on("mousemove", function() {
- tooltip.style("left", (d3.event.pageX) + "px")
- .style("top", (d3.event.pageY + 10) + "px");
-})
+
+
 .on('dblclick',releasenode);
 
 
@@ -195,7 +174,10 @@ function dragended(d) {
 function releasenode(d) {
   d.fx = null;
   d.fy = null;
-  location.replace("https://movie.naver.com/"+d['href']);
+  location.href = "/info?id="+d.id;
+}
+function getinfomovies(d){
+  location.href = "/infos?id1="+d.source.id + "&id2=" + d.target.id + "&total=" + d.total + "&same="+d.same;
 }
 
 const linkedByIndex = {};
@@ -247,4 +229,10 @@ var sequntialScale1 = d3.scaleOrdinal(d3.schemeSet3).domain(movie_name);
 </script>
 </head>
 <body>
+  <div class="jumbotron">
+  <p class="lead back_color">해당 페이지는 클릭하신 영화와 가장 연관이 있는 영화 15개를 출력한 결과입니다. 두 영화에 평점을 남긴 유저들이 많으면 링크의 굵기가 굵어집니다. 노드를 더블클릭하시면 해당 영화 정보로 이동합니다. 그리고 링크를 더블클릭하시면 두 영화의 정보와 연관 결과를 보실수 있습니다.</p></div>
+
+
+  <svg width="1500" height="1000"></svg>
+  
 </body>

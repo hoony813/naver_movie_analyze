@@ -1,173 +1,122 @@
 {
     "links": [
         {
-            "source": "여인의 향기",
-            "target": "시네마 천국",
-            "value": 10,
-            "total": 5024,
-            "same": 497
+            "source": "칼리토",
+            "target": "여인의 향기",
+            "value": 10.669077757685352,
+            "total": 3318,
+            "same": 354
         },
         {
-            "source": "글래디에이터",
+            "source": "시네마 천국",
             "target": "여인의 향기",
-            "value": 10,
-            "total": 5467,
-            "same": 511
+            "value": 9.979011639000191,
+            "total": 5241,
+            "same": 523
+        },
+        {
+            "source": "가위손",
+            "target": "여인의 향기",
+            "value": 9.834820580975888,
+            "total": 5267,
+            "same": 518
         },
         {
             "source": "여인의 향기",
             "target": "쉰들러 리스트",
-            "value": 10,
-            "total": 5016,
-            "same": 466
+            "value": 9.802037286181049,
+            "total": 5203,
+            "same": 510
         },
         {
             "source": "여인의 향기",
-            "target": "아마데우스",
-            "value": 10,
-            "total": 4598,
-            "same": 418
-        },
-        {
-            "source": "여인의 향기",
-            "target": "굿 윌 헌팅",
-            "value": 10,
-            "total": 5589,
-            "same": 505
-        },
-        {
-            "source": "여인의 향기",
-            "target": "빌리 엘리어트",
-            "value": 9,
-            "total": 4896,
-            "same": 423
-        },
-        {
-            "source": "여인의 향기",
-            "target": "피아니스트",
-            "value": 9,
-            "total": 7045,
-            "same": 605
-        },
-        {
-            "source": "여인의 향기",
-            "target": "더 록",
-            "value": 9,
-            "total": 4288,
-            "same": 366
-        },
-        {
-            "source": "라이언 일병 구하기",
-            "target": "여인의 향기",
-            "value": 9,
-            "total": 5655,
-            "same": 476
-        },
-        {
-            "source": "죽은 시인의 사회",
-            "target": "여인의 향기",
-            "value": 9,
-            "total": 7638,
-            "same": 640
-        },
-        {
-            "source": "매트릭스",
-            "target": "여인의 향기",
-            "value": 9,
-            "total": 5891,
+            "target": "뷰티풀 마인드",
+            "value": 9.772051536174429,
+            "total": 5045,
             "same": 493
         },
         {
-            "source": "굿바이 마이 프랜드",
+            "source": "글래디에이터",
             "target": "여인의 향기",
-            "value": 9,
-            "total": 4330,
-            "same": 359
+            "value": 9.755232351897835,
+            "total": 5638,
+            "same": 550
         },
         {
             "source": "여인의 향기",
-            "target": "프리퀀시",
-            "value": 9,
-            "total": 6818,
-            "same": 565
+            "target": "브레이브하트",
+            "value": 9.600191525017955,
+            "total": 4177,
+            "same": 401
         },
         {
-            "source": "여인의 향기",
-            "target": "아이 엠 샘",
-            "value": 9,
-            "total": 4690,
-            "same": 386
-        },
-        {
-            "source": "포레스트 검프",
+            "source": "아마데우스",
             "target": "여인의 향기",
-            "value": 9,
-            "total": 8009,
-            "same": 655
+            "value": 9.572901325478647,
+            "total": 4753,
+            "same": 455
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "여인의 향기",
+            "value": 9.305146421763991,
+            "total": 5771,
+            "same": 537
         },
         {
             "source": "여인의 향기",
-            "target": "코러스",
-            "value": 9,
-            "total": 4912,
-            "same": 400
+            "target": "대부 2",
+            "value": 9.301651695160823,
+            "total": 3451,
+            "same": 321
+        },
+        {
+            "source": "가타카",
+            "target": "여인의 향기",
+            "value": 9.097688292319164,
+            "total": 5364,
+            "same": 488
+        },
+        {
+            "source": "여인의 향기",
+            "target": "리멤버 타이탄",
+            "value": 9.004988185875558,
+            "total": 3809,
+            "same": 343
+        },
+        {
+            "source": "여인의 향기",
+            "target": "신데렐라 맨",
+            "value": 8.99880810488677,
+            "total": 5034,
+            "same": 453
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "여인의 향기",
+            "value": 8.995650454725187,
+            "total": 5058,
+            "same": 455
+        },
+        {
+            "source": "여인의 향기",
+            "target": "스쿨 오브 락",
+            "value": 8.917293233082708,
+            "total": 6650,
+            "same": 593
+        },
+        {
+            "source": "피아니스트",
+            "target": "여인의 향기",
+            "value": 8.769525897506165,
+            "total": 7298,
+            "same": 640
         }
     ],
     "nodes": [
         {
-            "id": "라이언 일병 구하기",
-            "group": 1,
-            "href": "/movie/bi/mi/basic.nhn?code=18988",
-            "genre": [
-                "전쟁",
-                "액션",
-                "드라마"
-            ],
-            "director": [
-                "스티븐 스필버그"
-            ],
-            "actor": [
-                "톰 행크스",
-                "에드워드 번즈",
-                "톰 시즈모어"
-            ]
-        },
-        {
-            "id": "매트릭스",
-            "group": 2,
-            "href": "/movie/bi/mi/basic.nhn?code=24452",
-            "genre": [
-                "SF",
-                "액션"
-            ],
-            "director": [
-                "릴리 워쇼스키",
-                "라나 워쇼스키"
-            ],
-            "actor": [
-                "키아누 리브스",
-                "로렌스 피시번",
-                "캐리 앤 모스"
-            ]
-        },
-        {
-            "id": "포레스트 검프",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=17159",
-            "genre": [
-                "드라마",
-                "코미디"
-            ],
-            "director": [
-                "로버트 저메키스"
-            ],
-            "actor": [
-                "톰 행크스"
-            ]
-        },
-        {
             "id": "글래디에이터",
-            "group": 4,
+            "group": 1,
             "href": "/movie/bi/mi/basic.nhn?code=29217",
             "genre": [
                 "액션",
@@ -183,38 +132,8 @@
             ]
         },
         {
-            "id": "죽은 시인의 사회",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=10048",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 위어"
-            ],
-            "actor": [
-                "로빈 윌리엄스"
-            ]
-        },
-        {
-            "id": "굿바이 마이 프랜드",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=17541",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "피터 호튼"
-            ],
-            "actor": [
-                "조셉 마젤로",
-                "브래드 렌프로",
-                "다이아나 스카위드"
-            ]
-        },
-        {
             "id": "여인의 향기",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=12482",
             "genre": [
                 "드라마",
@@ -229,7 +148,7 @@
         },
         {
             "id": "쉰들러 리스트",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=14450",
             "genre": [
                 "드라마",
@@ -244,7 +163,7 @@
         },
         {
             "id": "굿 윌 헌팅",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=19079",
             "genre": [
                 "드라마"
@@ -258,7 +177,7 @@
         },
         {
             "id": "아마데우스",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=10114",
             "genre": [
                 "드라마"
@@ -273,89 +192,8 @@
             ]
         },
         {
-            "id": "더 록",
-            "group": 4,
-            "href": "/movie/bi/mi/basic.nhn?code=17135",
-            "genre": [
-                "액션"
-            ],
-            "director": [
-                "마이클 베이"
-            ],
-            "actor": [
-                "숀 코네리",
-                "니콜라스 케이지",
-                "에드 해리스"
-            ]
-        },
-        {
-            "id": "프리퀀시",
-            "group": 5,
-            "href": "/movie/bi/mi/basic.nhn?code=29657",
-            "genre": [
-                "범죄",
-                "드라마",
-                "SF",
-                "스릴러"
-            ],
-            "director": [
-                "그레고리 호블릿"
-            ],
-            "actor": [
-                "데니스 퀘이드",
-                "제임스 카비젤"
-            ]
-        },
-        {
-            "id": "아이 엠 샘",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=34227",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "제시 넬슨"
-            ],
-            "actor": [
-                "숀 펜",
-                "미셸 파이퍼"
-            ]
-        },
-        {
-            "id": "코러스",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=39584",
-            "genre": [
-                "드라마"
-            ],
-            "director": [
-                "크리스토퍼 파라티에"
-            ],
-            "actor": [
-                "제라르 쥐노",
-                "프랑수와 벨레앙",
-                "장 밥티스트 모니에"
-            ]
-        },
-        {
-            "id": "피아니스트",
-            "group": 3,
-            "href": "/movie/bi/mi/basic.nhn?code=35187",
-            "genre": [
-                "드라마",
-                "전쟁"
-            ],
-            "director": [
-                "로만 폴란스키"
-            ],
-            "actor": [
-                "애드리언 브로디",
-                "토마스 크레취만"
-            ]
-        },
-        {
             "id": "빌리 엘리어트",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=31013",
             "genre": [
                 "드라마",
@@ -372,8 +210,24 @@
             ]
         },
         {
+            "id": "피아니스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
             "id": "시네마 천국",
-            "group": 3,
+            "group": 2,
             "href": "/movie/bi/mi/basic.nhn?code=10001",
             "genre": [
                 "드라마",
@@ -387,34 +241,190 @@
                 "브리지트 포시",
                 "필립 느와레"
             ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
         }
     ],
     "genre_data": [
         {
-            "title": "전쟁",
+            "title": "액션",
             "group": 1
         },
         {
-            "title": "SF",
+            "title": "드라마",
             "group": 2
         },
         {
-            "title": "드라마",
+            "title": "판타지",
             "group": 3
         },
         {
-            "title": "액션",
+            "title": "SF",
             "group": 4
         },
         {
-            "title": "범죄",
+            "title": "가족",
             "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
         }
     ],
     "data": [
         {
-            "movie_n": 101,
-            "genre_n": 5
+            "movie_n": 251,
+            "genre_n": 7
         }
     ]
 }
