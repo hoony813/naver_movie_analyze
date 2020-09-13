@@ -68,7 +68,7 @@
     .style("opacity", 0);
     
     
-    d3.json('{{url_for("static", filename = temp1)}}', function(error, graph) {
+    d3.json('{{url_for("static", filename = json)}}', function(error, graph) {
       if (error) throw error;
       const svg = d3.select('svg'),
       width = +svg.attr('width'),

@@ -12,10 +12,7 @@ app = Flask(__name__)
 @app.route('/')
 def mypage():
 
-    return render_template('Prac_other_menu_card.html')
-
-
-
+    return render_template('homepage.html')
 
 
 @app.route('/post', methods=['POST','GET'])
@@ -25,8 +22,7 @@ def post():
     if request.method == 'GET':
         temp = request.args.get('id')
         temp1 = 'movie_score_'+temp+'.json'
-        print(temp1)
-        return render_template('movie_score.html',num=temp, temp1=temp1)
+        return render_template('movie_score.html',num=temp, json=temp1)
 
 @app.route('/info', methods=['POST','GET'])
 def movie_info():
@@ -35,7 +31,7 @@ def movie_info():
     if request.method == 'GET':
         temp1 = request.args.get('id')
         print(temp1)
-        return render_template('print_movie_info.html',temp1=temp1)
+        return render_template('print_movie_info.html',id=temp1)
 
 @app.route('/infos', methods=['POST','GET'])
 def get_info():
@@ -48,7 +44,7 @@ def get_info():
         print(temp2)
         temp3 = request.args.get('total')
         temp4 = request.args.get('same')
-        return render_template('print_card_info.html',temp1=temp1,temp2=temp2,temp3=temp3,temp4=temp4)
+        return render_template('print_card_info.html',id1=temp1,id2=temp2,total=temp3,same=temp4)
 
 
 

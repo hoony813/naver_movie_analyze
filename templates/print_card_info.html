@@ -84,10 +84,10 @@
         $('#card_cl').html('');
         $('#info').html('');
         $.getJSON('{{url_for("static", filename = "movie_info.json")}}', function(json){
-          var id1 = '{{temp1}}';
-          var id2 = '{{temp2}}';
-          var total_n = {{temp3}};
-          var same_n = {{temp4}};
+          var id1 = '{{id1}}';
+          var id2 = '{{id2}}';
+          var total_n = {{total}};
+          var same_n = {{same}};
           
           console.log(json)
           let temp_info = '<p class="lead back_color">영화 \"'+id1+'\"과 영화 \"'+id2+'\"는(은) 총 '+total_n+'명의 유저가 평점을 남기셨고, '+same_n+'명의 유저가 두 영화 동시에 평점을 남기겼습니다. </p><p class="lead back_color">제목을 클릭하시면 해당 영화 사이트(naver)로 이동합니다.</p>'

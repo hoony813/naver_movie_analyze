@@ -83,7 +83,7 @@
       window.onload=function(){
         $('#card_cl').html('');
         $.getJSON('{{url_for("static", filename = "movie_info.json")}}', function(json){
-          var id1 = '{{temp1}}';
+          var id1 = '{{id}}';
           
           console.log(json)
           let temp_html = '<div class="card">\
