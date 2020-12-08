@@ -22,7 +22,6 @@ def create_app():
     ### 블루프린트 설정
     from naver_movie.controller import compare_graph, homepage, naver_movie_info, two_movie_infos
     from naver_movie.naver_movie_blueprint import naver_movie_blueprint
-
     app.register_blueprint(naver_movie_blueprint)
 
     ### 데이터베이스 설정
