@@ -6,6 +6,7 @@ import re
 import time
 from multiprocessing import Process
 
+
 client = MongoClient('localhost', 27017)
 db = client.naver_movie
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36',
@@ -16,7 +17,7 @@ def naver_movie_list():
     urls = []
     dd = datetime.now() - timedelta(days=1)
     ranking = 1
-    for page in range(1,5):
+    for page in range(1,7):
         url = "https://movie.naver.com/movie/sdb/rank/rmovie.nhn?sel=pnt&date={}&page={}".format(dd.strftime("%Y%m%d"),page)
         data = requests.get(url, headers=headers)
         soup = BeautifulSoup(data.text, 'lxml')
@@ -37,7 +38,34 @@ def naver_movie_list():
 
     return urls
 
+def get_movie_info(soup, a, col):
+    movie_genre = soup.select(
+        '#content > div.article > div.mv_info_area > div.mv_info > dl > dd:nth-child(2) > p > span:nth-child(1) > a')
+    genre_list = []
+    for genre in movie_genre:
+        genre_list.append(genre.text)
+    movie_dir = soup.select('#content > div.article > div.mv_info_area > div.mv_info > dl > dd:nth-child(4) > p > a')
+    dir_list = []
+    for dir in movie_dir:
+        dir_list.append(dir.text)
+    actr = soup.select('#content > div.article > div.mv_info_area > div.mv_info > dl > dd:nth-child(6) > p > a')
+    act_list = []
+    for act_name in actr:
+        act_list.append(act_name.text)
+
+    tr_image = soup.select('#content > div.article > div.mv_info_area > div.poster > a > img')
+
+    doc = {'ranking':a['ranking'],'title': a['title'], 'href': a['href'],'code':a['code'], 'genre': genre_list, 'director': dir_list, 'actor': act_list, 'src':tr_image[0]['src']}
+
+
+    db.get_collection(col).insert_one(doc.copy())
+
+
 def user_list_scraping(urls, START, END):
+    col = 'naver_movie_info'
+    temp = list(db.get_collection(col).find())
+    if len(temp) != 0:
+        db.get_collection(col).drop()
     import math
     urls = urls[START:END]
     BASE_URL = "https://movie.naver.com/"
@@ -46,6 +74,8 @@ def user_list_scraping(urls, START, END):
         url = BASE_URL + a['href']
         data = requests.get(url, headers=headers)
         soup = BeautifulSoup(data.text, 'lxml')
+
+        get_movie_info(soup, a, col)
 
         total_user = soup.find('div',class_="score_total")
         total_user = total_user.find("strong",class_="total").find_all("em")[-1]
@@ -68,7 +98,7 @@ def user_list_scraping(urls, START, END):
                 username = li.find("dl").find('dt').find('span').get_text()
                 doc.update(a)
                 doc.update({'username':username,'star':star,'url':url})
-                temp = db.get_collection(a['title']).find_one({'username':username})
+                temp = db.user_review_list.find_one({'username':username,'title':a['title'],'code':a['code']})
                 if temp != None:
                     flag = False
                     break
@@ -77,7 +107,7 @@ def user_list_scraping(urls, START, END):
             if flag == False:
                 break
 
-        db.get_collection(a['title']).insert_many(docs)
+        db.user_review_list.insert_many(docs)
         time.sleep(2)
 
 def main():
@@ -98,6 +128,7 @@ def main():
     pr2.join()
     pr3.join()
     pr4.join()
+
 
 
 if __name__ == "__main__":
