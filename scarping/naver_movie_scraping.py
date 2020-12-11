@@ -20,7 +20,6 @@ def naver_movie_list():
         url = "https://movie.naver.com/movie/sdb/rank/rmovie.nhn?sel=pnt&date={}&page={}".format(dd.strftime("%Y%m%d"),page)
         data = requests.get(url, headers=headers)
         soup = BeautifulSoup(data.text, 'lxml')
-
         list_ranking = soup.find("div",id="old_content")
         list_ranking = list_ranking.find('table',class_="list_ranking")
         list_ranking = list_ranking.find("tbody").find_all("tr")
