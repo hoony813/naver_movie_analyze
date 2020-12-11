@@ -67,9 +67,9 @@
   .attr("class", "tooltip")
   .style("opacity", 0);
 
-
-  d3.json('{{url_for("static", filename = json)}}', function(error, graph) {
-    if (error) throw error;
+  var graph = JSON.parse('{{json_data | tojson | safe}}');
+<!--  d3.json(json, function(error, graph) {-->
+<!--    if (error) throw error;-->
     const svg = d3.select('svg'),
     width = +svg.attr('width'),
     height = +svg.attr('height');
@@ -223,7 +223,7 @@
       var sequntialScale1 = d3.scaleOrdinal(d3.schemeSet3).domain(movie_name);
 
 
-      })
+<!--      })-->
 
 
   </script>

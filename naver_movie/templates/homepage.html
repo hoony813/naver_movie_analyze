@@ -141,15 +141,15 @@
         location.href = "/compare_graph?id="+d;
       }
 
-    d3.json("{{url_for('static', filename = 'movie_score_main_1.json')}}", function(error, graph) {
-      if (error) throw error;
-    
-      function releasenode(d) {
-        console.log(d.movie_id)
-        location.href = "/compare_graph?id="+d.movie_id;
-      }
+<!--    d3.json("{{url_for('static', filename = 'movie_score_main_1.json')}}", function(error, graph) {-->
+<!--      if (error) throw error;-->
+<!--    -->
+<!--      function releasenode(d) {-->
+<!--        console.log(d.movie_id)-->
+<!--        location.href = "/compare_graph?id="+d.movie_id;-->
+<!--      }-->
 
-    })
+<!--    })-->
 
 
   </script>

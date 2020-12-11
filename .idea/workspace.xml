@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f78dbd2-5150-4d6e-9848-b33c6dc147f3" name="Default Changelist" comment="">
+    <list default="true" id="7f78dbd2-5150-4d6e-9848-b33c6dc147f3" name="Default Changelist" comment="flask architecture-2020-12-11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/naver_movie/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/controller/compare_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/controller/compare_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/controller/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/controller/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/naver_movie_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/naver_movie_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/templates/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/templates/movie_score.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/templates/movie_score.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scarping/naver_movie_scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/scarping/naver_movie_scraping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +22,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +49,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.runserver">
-    <configuration name="Json_File_Maker_Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="calculate_movie_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sparta_Web_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scarping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json_File_Maker_Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scarping/calculate_movie_score.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Json_File_Maker_indi_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_movie_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sparta_Web_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naver_movie/model" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json_File_Maker_indi_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_movie/model/get_movie_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_movies_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sparta_Web_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naver_movie/model" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_movie/model/get_movies_score.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,10 +157,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.runserver" />
-        <item itemvalue="Python.app" />
+        <item itemvalue="Python.get_movies_score" />
+        <item itemvalue="Python.get_movie_lists" />
+        <item itemvalue="Python.calculate_movie_score" />
         <item itemvalue="Python.naver_movie_scraping" />
-        <item itemvalue="Python.Json_File_Maker_Main" />
-        <item itemvalue="Python.Json_File_Maker_indi_1" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +176,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565513221972</updated>
     </task>
+    <task id="LOCAL-00001" summary="flask architecture-2020-12-08">
+      <created>1607426128850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607426128850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -179,43 +195,68 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flask architecture-2020-12-08" />
+    <option name="LAST_COMMIT_MESSAGE" value="flask architecture-2020-12-08" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="577" y="85" key="CommitChangelistDialog2" timestamp="1607330513992">
+    <state x="577" y="85" key="CommitChangelistDialog2" timestamp="1607666363891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="577" y="85" key="CommitChangelistDialog2/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607330513992" />
+    <state x="577" y="85" key="CommitChangelistDialog2/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607666363891" />
+    <state x="22" y="0" key="CommitChangelistDialog2/0.0.1024.728@0.0.1024.728" timestamp="1607426127559" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1607304091669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607304091669" />
-    <state width="1899" height="236" key="GridCell.Tab.0.bottom" timestamp="1607330517933">
+    <state width="1899" height="236" key="GridCell.Tab.0.bottom" timestamp="1607676780879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="236" key="GridCell.Tab.0.bottom/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607330517933" />
-    <state width="1899" height="236" key="GridCell.Tab.0.center" timestamp="1607330517933">
+    <state width="1899" height="236" key="GridCell.Tab.0.bottom/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780879" />
+    <state width="1899" height="236" key="GridCell.Tab.0.center" timestamp="1607676780878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="236" key="GridCell.Tab.0.center/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607330517933" />
-    <state width="1899" height="236" key="GridCell.Tab.0.left" timestamp="1607330517933">
+    <state width="1899" height="236" key="GridCell.Tab.0.center/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780878" />
+    <state width="1899" height="236" key="GridCell.Tab.0.left" timestamp="1607676780878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="236" key="GridCell.Tab.0.left/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607330517933" />
-    <state width="1899" height="236" key="GridCell.Tab.0.right" timestamp="1607330517933">
+    <state width="1899" height="236" key="GridCell.Tab.0.left/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780878" />
+    <state width="1899" height="236" key="GridCell.Tab.0.right" timestamp="1607676780879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="236" key="GridCell.Tab.0.right/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607330517933" />
+    <state width="1899" height="236" key="GridCell.Tab.0.right/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780879" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1607672204674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607672204674" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1607672204673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607672204673" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1607672204673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607672204673" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1607672204674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607672204674" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1607386094637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607386094637" />
-    <state x="798" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1607330513168">
+    <state x="-139" y="113" key="Vcs.Push.Dialog.v2" timestamp="1607426261885">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="-139" y="113" key="Vcs.Push.Dialog.v2/0.0.1024.728@0.0.1024.728" timestamp="1607426261885" />
+    <state x="798" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1607666363325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="798" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607330513168" />
-    <state x="-1726" y="134" width="1614" height="718" key="dock-window-1" timestamp="1607325964876">
+    <state x="798" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607666363325" />
+    <state x="-1826" y="123" width="1747" height="763" key="dock-window-1" timestamp="1607655461802">
       <screen x="-1920" y="-3" width="1920" height="1040" />
     </state>
-    <state x="-1726" y="134" width="1614" height="718" key="dock-window-1/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607325964876" />
+    <state x="-1826" y="123" width="1747" height="763" key="dock-window-1/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607655461802" />
     <state x="-1733" y="111" width="1614" height="763" key="dock-window-2" timestamp="1607386007900">
       <screen x="-1920" y="-3" width="1920" height="1040" />
     </state>
