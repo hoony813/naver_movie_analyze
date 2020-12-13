@@ -2,13 +2,267 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f78dbd2-5150-4d6e-9848-b33c6dc147f3" name="Default Changelist" comment="flask architecture-2020-12-11">
+      <change beforePath="$PROJECT_DIR$/.idea/Sparta_Web_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sparta_Web_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naver_movie/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naver_movie/controller/compare_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/controller/compare_graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naver_movie/controller/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/controller/homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naver_movie/naver_movie_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/naver_movie_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naver_movie/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/templates/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/controller/naver_movie_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/controller/naver_movie_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/controller/two_movie_infos.py" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/controller/two_movie_infos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_105.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_106.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_107.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_108.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_109.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_110.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_111.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_112.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_113.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_114.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_115.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_116.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_117.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_118.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_119.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_120.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_121.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_122.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_123.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_124.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_125.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_126.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_127.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_128.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_129.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_130.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_131.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_132.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_133.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_134.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_135.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_136.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_137.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_138.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_139.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_140.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_141.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_142.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_143.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_144.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_145.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_146.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_147.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_148.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_149.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_150.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_151.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_152.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_153.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_154.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_155.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_156.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_157.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_158.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_159.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_160.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_161.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_162.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_163.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_164.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_165.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_166.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_167.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_168.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_169.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_170.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_171.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_172.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_173.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_174.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_175.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_176.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_177.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_178.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_179.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_180.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_181.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_182.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_183.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_184.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_185.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_186.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_187.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_188.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_189.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_190.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_191.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_192.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_193.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_194.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_195.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_196.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_197.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_198.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_199.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_205.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_207.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_208.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_210.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_211.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_212.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_213.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_214.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_215.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_216.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_217.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_218.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_219.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_220.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_221.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_222.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_223.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_224.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_225.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_226.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_227.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_228.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_229.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_230.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_231.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_232.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_233.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_234.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_235.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_236.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_237.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_238.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_239.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_240.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_241.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_242.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_243.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_244.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_246.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_247.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_248.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_249.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_250.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_38.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_43.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_44.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_51.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_53.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_61.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_66.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_67.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_71.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_72.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_73.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_74.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_77.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_78.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_80.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_81.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_82.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_86.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_87.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_90.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_93.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_96.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_97.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_main_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/static/movie_score_main_2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/naver_movie/templates/movie_score.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/templates/movie_score.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/templates/print_card_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/templates/print_card_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver_movie/templates/print_movie_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver_movie/templates/print_movie_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scarping/naver_movie_scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/scarping/naver_movie_scraping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,14 +411,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.runserver" />
+        <item itemvalue="Python.naver_movie_scraping" />
+        <item itemvalue="Python.calculate_movie_score" />
         <item itemvalue="Python.get_movies_score" />
         <item itemvalue="Python.get_movie_lists" />
-        <item itemvalue="Python.calculate_movie_score" />
-        <item itemvalue="Python.naver_movie_scraping" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -200,31 +454,40 @@
     <option name="LAST_COMMIT_MESSAGE" value="flask architecture-2020-12-08" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="577" y="85" key="CommitChangelistDialog2" timestamp="1607666363891">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="539" y="113" key="CommitChangelistDialog2" timestamp="1607863379772">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="577" y="85" key="CommitChangelistDialog2/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607666363891" />
     <state x="22" y="0" key="CommitChangelistDialog2/0.0.1024.728@0.0.1024.728" timestamp="1607426127559" />
+    <state x="539" y="113" key="CommitChangelistDialog2/1792.309.1112.811/0.23.1792.1097@0.23.1792.1097" timestamp="1607863379772" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1607304091669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607304091669" />
-    <state width="1899" height="236" key="GridCell.Tab.0.bottom" timestamp="1607676780879">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1771" height="168" key="GridCell.Tab.0.bottom" timestamp="1607863325306">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1899" height="236" key="GridCell.Tab.0.bottom/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780879" />
-    <state width="1899" height="236" key="GridCell.Tab.0.center" timestamp="1607676780878">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1607853231622" />
+    <state width="1771" height="168" key="GridCell.Tab.0.bottom/1792.309.1112.811/0.23.1792.1097@0.23.1792.1097" timestamp="1607863325306" />
+    <state width="1771" height="168" key="GridCell.Tab.0.center" timestamp="1607863325305">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1899" height="236" key="GridCell.Tab.0.center/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780878" />
-    <state width="1899" height="236" key="GridCell.Tab.0.left" timestamp="1607676780878">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1771" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1607853231621" />
+    <state width="1771" height="168" key="GridCell.Tab.0.center/1792.309.1112.811/0.23.1792.1097@0.23.1792.1097" timestamp="1607863325305" />
+    <state width="1771" height="168" key="GridCell.Tab.0.left" timestamp="1607863325304">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1899" height="236" key="GridCell.Tab.0.left/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780878" />
-    <state width="1899" height="236" key="GridCell.Tab.0.right" timestamp="1607676780879">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1771" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1607853231620" />
+    <state width="1771" height="168" key="GridCell.Tab.0.left/1792.309.1112.811/0.23.1792.1097@0.23.1792.1097" timestamp="1607863325304" />
+    <state width="1771" height="168" key="GridCell.Tab.0.right" timestamp="1607863325306">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1899" height="236" key="GridCell.Tab.0.right/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607676780879" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1607853231621" />
+    <state width="1771" height="168" key="GridCell.Tab.0.right/1792.309.1112.811/0.23.1792.1097@0.23.1792.1097" timestamp="1607863325306" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1607672204674">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

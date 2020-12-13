@@ -83,37 +83,40 @@
       window.onload=function(){
         $('#card_cl').html('');
         $('#info').html('');
-        $.getJSON('{{url_for("static", filename = "movie_info.json")}}', function(json){
+<!--        $.getJSON('{{url_for("static", filename = "movie_info.json")}}', function(json){-->
+          var json = JSON.parse('{{json_data | tojson | safe}}');
+          console.log(json);
           var id1 = '{{id1}}';
           var id2 = '{{id2}}';
           var total_n = {{total}};
           var same_n = {{same}};
           
-          console.log(json)
+
           let temp_info = '<p class="lead back_color">영화 \"'+id1+'\"과 영화 \"'+id2+'\"는(은) 총 '+total_n+'명의 유저가 평점을 남기셨고, '+same_n+'명의 유저가 두 영화 동시에 평점을 남기겼습니다. </p><p class="lead back_color">제목을 클릭하시면 해당 영화 사이트(naver)로 이동합니다.</p>'
           $('#info').append(temp_info);
           let temp_html = '<div class="card">\
-        <img class="card-img-top" src="'+json[id1][0]['src']+'" alt="Card image cap">\
+        <img class="card-img-top" src="'+json[id1]['src']+'" alt="Card image cap">\
         <div class="card-body">\
-          <a href="https://movie.naver.com'+json[id1][0]['href']+'" target="_blank" class="card-title">'+id1+'</a>\
-          <p class="card-text">배우:'+json[id1][0]['actor']+'</p>\
-          <p class="card-text">감독:'+json[id1][0]['director']+'</p>\
-          <p class="card-text">장르:'+json[id1][0]['genre']+'</p>\
+          <a href="https://movie.naver.com'+json[id1]['href']+'" target="_blank" class="card-title">'+id1+'</a>\
+          <p class="card-text">배우:'+json[id1]['actor']+'</p>\
+          <p class="card-text">감독:'+json[id1]['director']+'</p>\
+          <p class="card-text">장르:'+json[id1]['genre']+'</p>\
         </div>\
         </div>'
         $('#card_cl').append(temp_html);
        
           let temp_html1 = '<div class="card">\
-        <img class="card-img-top" src="'+json[id2][0]['src']+'" alt="Card image cap">\
+        <img class="card-img-top" src="'+json[id2]['src']+'" alt="Card image cap">\
         <div class="card-body">\
-          <a href="https://movie.naver.com'+json[id2][0]['href']+'" target="_blank" class="card-title">'+id2+'</a>\
-          <p class="card-text">배우:'+json[id2][0]['actor']+'</p>\
-          <p class="card-text">감독:'+json[id2][0]['director']+'</p>\
-          <p class="card-text">장르:'+json[id2][0]['genre']+'</p>\
+          <a href="https://movie.naver.com'+json[id2]['href']+'" target="_blank" class="card-title">'+id2+'</a>\
+          <p class="card-text">배우:'+json[id2]['actor']+'</p>\
+          <p class="card-text">감독:'+json[id2]['director']+'</p>\
+          <p class="card-text">장르:'+json[id2]['genre']+'</p>\
         </div>\
         </div>'
         $('#card_cl').append(temp_html1);
-        });
+
+<!--        });-->
 
         
       }

@@ -56,20 +56,24 @@
 
 
 
-  var color = d3.scaleOrdinal(d3.schemeSet3);
-
-  var genre_name = [];
-  var movie_name = [];
 
 
-  var tooltip = d3.select("body")
-  .append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
-
-  var graph = JSON.parse('{{json_data | tojson | safe}}');
-<!--  d3.json(json, function(error, graph) {-->
+<!--  var graph = JSON.parse('{{json_data | tojson | safe}}');-->
+<!--  d3.json({{json_data}}, function(error, graph) {-->
 <!--    if (error) throw error;-->
+  window.onload=function(){
+    var color = d3.scaleOrdinal(d3.schemeSet3);
+
+    var genre_name = [];
+    var movie_name = [];
+
+
+    var tooltip = d3.select("body")
+    .append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+    var graph = JSON.parse('{{json_data | tojson | safe}}');
     const svg = d3.select('svg'),
     width = +svg.attr('width'),
     height = +svg.attr('height');
@@ -222,7 +226,7 @@
 
       var sequntialScale1 = d3.scaleOrdinal(d3.schemeSet3).domain(movie_name);
 
-
+    }
 <!--      })-->
 
 

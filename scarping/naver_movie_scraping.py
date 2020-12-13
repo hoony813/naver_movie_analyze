@@ -106,8 +106,8 @@ def user_list_scraping(urls, START, END):
 
             if flag == False:
                 break
-
-        db.user_review_list.insert_many(docs)
+        if len(docs) != 0:
+            db.user_review_list.insert_many(docs)
         time.sleep(2)
 
 def main():
