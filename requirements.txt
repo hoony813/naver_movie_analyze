@@ -11,8 +11,8 @@ Flask-Login==0.5.0
 Flask-PyMongo==2.3.0
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
-lxml==4.6.2
+Jinja2
+lxml
 MarkupSafe==1.1.1
 pycparser==2.20
 pymongo==3.8.0
@@ -21,5 +21,5 @@ pytz==2019.2
 requests==2.22.0
 six==1.12.0
 soupsieve==1.9.2
-urllib3==1.25.3
+urllib3
 Werkzeug==0.15.5
